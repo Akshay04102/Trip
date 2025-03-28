@@ -24,7 +24,7 @@ app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}})
 
 # Load Firebase Admin SDK credentials
-cred = credentials.Certificate("trip-planner-12345-firebase-adminsdk-fbsvc-cd59e7e1b7.json")
+cred = credentials.Certificate("trip-planner-12345-firebase-adminsdk-fbsvc-48aede86fe.json")
 initialize_app(cred, {'databaseURL': 'https://trip-planner-12345-default-rtdb.firebaseio.com/'})
 
 # Get the Gomaps API key from the environment variables
