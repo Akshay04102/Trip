@@ -23,7 +23,7 @@ export const generateTrip = async (tripData) => {
     const sanitizedData = JSON.parse(JSON.stringify(tripData));
     console.log("sanitized data:", sanitizedData);
     const response = await axios.post(
-      "http://192.168.98.100:8000/generate-trip", // Flask server URL
+      "https://trip-yzng.onrender.com/generate-trip", // Flask server URL
       sanitizedData
     );
     return response.data; // Return response data
@@ -37,7 +37,7 @@ export const generateTrip = async (tripData) => {
 export const storeUserEmail = async (email) => {
   try {
     const response = await axios.post(
-      "http://127.0.0.1:8000/store-user-email",
+      "https://trip-yzng.onrender.com/store-user-email",
       { email }
     );
     console.log("Email stored successfully:", response.data);
@@ -51,7 +51,7 @@ export const storeUserEmail = async (email) => {
 export const fetchUserTrips = async (email) => {
   try {
     const response = await axios.get(
-      `http://127.0.0.1:8000/get-trips?email=${email}`
+      `https://trip-yzng.onrender.com/get-trips?email=${email}`
     );
     return response.data.trips;
   } catch (error) {
