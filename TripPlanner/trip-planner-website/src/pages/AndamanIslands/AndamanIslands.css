@@ -1,0 +1,60 @@
+.andaman-container {
+  max-width: 1800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: "Poppins", sans-serif;
+  color: #222;
+}
+
+.hero-section {
+  position: relative;
+  width: 100%;
+  height: 50vh;
+}
+
+.hero-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(50%);
+}
+
+.hero-text {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 4rem;
+  font-weight: bold;
+  color: white;
+}
+
+.content-container {
+  padding: 20px;
+}
+
+.slider-section {
+  padding: 25px 0;
+  text-align: center;
+  height: 500px;
+}
+
+.facts-container {
+  background: #fff8e1;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.dishes-section {
+  background: #ffeed9;
+  padding: 10px;
+  text-align: center;
+}
+
+.plan-trip-button {
+  font-size: 22px;
+  padding: 15px 30px;
+  border: none;
+  background: #ff5733;
+  color: white;
+}

@@ -1,0 +1,130 @@
+.leh-container {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+.hero-section {
+  position: relative;
+  text-align: center;
+}
+
+.hero-image {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+
+.hero-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 3rem;
+  font-weight: bold;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+.leh-content {
+  margin: 20px 0;
+}
+
+.title {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.intro {
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+section {
+  margin: 20px 0;
+}
+
+.slider-section {
+  margin: 40px 0;
+}
+
+.slide-item {
+  text-align: center;
+}
+
+.slide-item img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.facts-container {
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+
+.facts-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.facts-content ul {
+  list-style: none;
+  padding: 0;
+}
+
+.facts-content li {
+  font-size: 1.2rem;
+  padding: 5px 0;
+}
+
+.dishes-section {
+  margin: 40px 0;
+  text-align: center;
+}
+
+.dishes-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.dish-item {
+  width: 200px;
+  text-align: center;
+}
+
+.dish-item img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.plan-trip-container {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.plan-trip-button {
+  background: #ff6200;
+  color: white;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.plan-trip-button:hover {
+  background: #e55a00;
+}

@@ -1,0 +1,501 @@
+Source,Destination,Operator,Distance (Kms),Duration,Bus Type,Departure,Arrival,Bus Price,Bus Arrival Date
+Nashik,Vadodara,RedBus,1967,21:18,Luxury Coach,08:47,15:04,4003,03-04-2025
+Jaipur,Coimbatore,Rajdhani Travels,309,02:02,Luxury Coach,00:50,00:02,6275,08-03-2025
+Agra,Guwahati,SRS Travels,573,12:00,Luxury Coach,15:04,17:34,5218,14-03-2025
+Bangalore,Chennai,RedBus,1438,10:31,Sleeper,01:42,10:20,7587,05-04-2025
+Hyderabad,Indore,KSRTC,1808,19:19,Express,06:58,02:23,1875,18-04-2025
+Bangalore,Indore,Neeta Travels,1570,14:11,Express,07:48,16:35,2401,13-02-2025
+Kolkata,Mumbai,Parveen Travels,1990,13:41,Luxury Coach,02:45,11:17,6705,30-04-2025
+Gwalior,Guwahati,Rajdhani Travels,1699,02:32,Luxury Coach,05:07,15:07,7943,15-03-2025
+Delhi,Nagpur,RedBus,395,07:32,Sleeper,06:20,00:32,4089,13-04-2025
+Pune,Amritsar,Rajdhani Travels,1462,02:13,Express,17:26,11:50,6366,28-04-2025
+Kolkata,Amritsar,Parveen Travels,368,08:55,Express,11:07,19:48,4883,11-02-2025
+Pune,Patna,Parveen Travels,632,11:09,AC Seater,20:24,06:09,6548,07-04-2025
+Bangalore,Surat,KSRTC,630,04:18,Express,17:25,09:58,5711,19-02-2025
+Jamshedpur,Guwahati,RedBus,1305,23:13,Sleeper,07:37,22:41,6070,15-02-2025
+Pune,Surat,Neeta Travels,1939,16:42,Sleeper,09:41,13:02,1375,27-03-2025
+Agra,Chennai,KSRTC,1685,14:54,Semi-Sleeper,02:25,02:40,3998,15-04-2025
+Hyderabad,Amritsar,VRL Travels,344,15:13,Volvo,13:33,09:23,7253,25-02-2025
+Bangalore,Guwahati,SRS Travels,1295,06:06,Express,04:50,22:21,2986,23-04-2025
+Hyderabad,Amritsar,Neeta Travels,811,17:56,Volvo,19:37,19:08,5390,18-04-2025
+Pune,Coimbatore,Neeta Travels,1092,08:36,Luxury Coach,17:47,00:40,1093,30-03-2025
+Kolkata,Surat,Rajdhani Travels,1446,10:58,Sleeper,16:29,14:12,2282,19-03-2025
+Jaipur,Surat,Parveen Travels,1122,07:24,AC Seater,18:57,13:30,2843,07-02-2025
+Gwalior,Indore,Rajdhani Travels,822,11:33,Express,14:08,05:58,7117,26-04-2025
+Bangalore,Indore,KSRTC,1332,03:02,Express,00:16,14:31,5324,02-02-2025
+Jamshedpur,Chennai,VRL Travels,1733,05:53,Luxury Coach,01:53,18:56,5832,21-04-2025
+Jaipur,Guwahati,Neeta Travels,1338,23:03,Volvo,09:10,15:50,5541,14-02-2025
+Hyderabad,Coimbatore,Parveen Travels,1980,06:21,Semi-Sleeper,01:24,06:21,3416,04-04-2025
+Jaipur,Amritsar,KSRTC,1631,14:06,Volvo,13:43,17:28,4842,05-02-2025
+Jaipur,Surat,Neeta Travels,1764,09:08,Express,06:06,01:38,4763,25-02-2025
+Jaipur,Mumbai,RedBus,1655,06:13,Sleeper,16:09,13:53,4705,15-04-2025
+Pune,Surat,RedBus,527,14:16,Sleeper,12:44,04:50,5009,24-02-2025
+Shimla,Amritsar,KSRTC,990,15:00,Semi-Sleeper,10:34,22:52,1160,17-03-2025
+Shimla,Lucknow,SRS Travels,1243,08:45,Volvo,07:31,18:32,4994,24-04-2025
+Jaipur,Mumbai,VRL Travels,1439,12:13,Express,02:45,01:50,4355,01-03-2025
+Delhi,Chennai,Neeta Travels,595,17:36,Volvo,19:17,15:11,950,17-02-2025
+Jaipur,Lucknow,Parveen Travels,316,20:47,AC Seater,11:54,20:36,2768,08-02-2025
+Jamshedpur,Nagpur,Parveen Travels,356,02:57,Luxury Coach,11:59,20:50,2169,06-04-2025
+Delhi,Surat,SRS Travels,384,20:08,Sleeper,22:57,05:39,925,05-03-2025
+Jaipur,Mumbai,Rajdhani Travels,1871,04:51,Sleeper,11:13,08:58,4812,22-04-2025
+Jaipur,Indore,Parveen Travels,1507,11:37,Express,19:08,09:59,2133,01-05-2025
+Jaipur,Indore,RedBus,1356,09:39,Luxury Coach,06:26,05:48,6074,09-02-2025
+Agra,Coimbatore,Parveen Travels,498,02:04,Luxury Coach,20:06,04:25,4094,02-04-2025
+Kolkata,Indore,SRS Travels,1589,19:03,Express,04:15,02:51,4730,15-02-2025
+Pune,Surat,Neeta Travels,972,13:19,Luxury Coach,08:17,22:14,1882,04-03-2025
+Gwalior,Patna,Neeta Travels,618,04:44,Volvo,05:31,03:17,5724,07-04-2025
+Gwalior,Indore,Rajdhani Travels,992,11:33,AC Seater,11:16,19:29,6813,03-04-2025
+Hyderabad,Indore,Parveen Travels,1083,17:28,Volvo,06:35,15:05,7783,03-03-2025
+Bangalore,Lucknow,SRS Travels,1625,21:58,Luxury Coach,02:50,11:17,1690,21-04-2025
+Agra,Indore,SRS Travels,767,20:49,Luxury Coach,22:37,00:59,6517,22-04-2025
+Agra,Mumbai,Neeta Travels,1357,20:34,Sleeper,08:36,18:36,2102,02-05-2025
+Jaipur,Mumbai,Neeta Travels,1953,22:21,Express,23:15,11:28,939,30-04-2025
+Jaipur,Lucknow,VRL Travels,844,12:21,Express,15:01,20:43,6347,15-02-2025
+Jamshedpur,Amritsar,RedBus,1582,02:29,Luxury Coach,19:20,00:48,6655,14-02-2025
+Jaipur,Guwahati,KSRTC,826,22:28,Express,17:09,09:51,6058,21-02-2025
+Gwalior,Chennai,RedBus,1725,06:16,Sleeper,18:15,01:47,1064,12-03-2025
+Hyderabad,Nagpur,Neeta Travels,1221,07:50,Semi-Sleeper,16:38,06:23,6364,15-02-2025
+Jaipur,Coimbatore,KSRTC,958,04:25,Volvo,20:36,22:36,822,10-02-2025
+Hyderabad,Chennai,Parveen Travels,1606,09:15,Semi-Sleeper,03:43,14:56,7805,07-03-2025
+Jaipur,Chennai,Parveen Travels,454,19:41,Luxury Coach,00:19,06:56,791,08-04-2025
+Shimla,Surat,SRS Travels,1379,09:45,Volvo,19:08,05:31,7098,24-03-2025
+Kolkata,Indore,KSRTC,1098,22:07,Express,04:22,20:33,2174,23-02-2025
+Shimla,Patna,VRL Travels,1061,19:35,AC Seater,18:43,06:29,4608,08-03-2025
+Kolkata,Lucknow,KSRTC,1986,04:46,Luxury Coach,18:22,22:40,1822,27-04-2025
+Gwalior,Coimbatore,Neeta Travels,762,19:53,Luxury Coach,05:46,10:22,2874,17-04-2025
+Gwalior,Nagpur,Parveen Travels,690,08:14,Luxury Coach,15:55,11:09,5937,17-04-2025
+Jaipur,Guwahati,SRS Travels,558,07:08,Express,13:57,11:08,5145,13-04-2025
+Gwalior,Amritsar,KSRTC,1351,02:52,Sleeper,03:55,10:51,5142,25-02-2025
+Hyderabad,Coimbatore,KSRTC,1888,06:39,Luxury Coach,22:55,08:43,6100,14-03-2025
+Bangalore,Guwahati,RedBus,352,21:00,Luxury Coach,03:11,11:45,6672,12-02-2025
+Delhi,Chennai,SRS Travels,1344,16:54,AC Seater,07:12,21:11,4924,05-02-2025
+Bangalore,Indore,VRL Travels,1896,15:32,Express,22:35,03:45,6881,26-04-2025
+Hyderabad,Surat,KSRTC,1717,06:28,Express,09:07,11:09,2017,22-02-2025
+Pune,Mumbai,SRS Travels,1092,04:42,Luxury Coach,01:57,15:22,1907,20-04-2025
+Bangalore,Amritsar,RedBus,777,21:59,Sleeper,16:41,23:11,4573,04-03-2025
+Delhi,Nagpur,Rajdhani Travels,804,04:01,Luxury Coach,01:09,21:52,560,08-04-2025
+Agra,Coimbatore,RedBus,414,16:44,Semi-Sleeper,00:45,14:33,2924,20-04-2025
+Jaipur,Chennai,VRL Travels,743,07:59,Express,03:11,14:56,5031,01-02-2025
+Kolkata,Indore,Rajdhani Travels,1245,15:46,Luxury Coach,09:03,11:36,1420,18-04-2025
+Jamshedpur,Mumbai,KSRTC,1205,24:41:00,Sleeper,01:27,08:57,4785,13-04-2025
+Gwalior,Chennai,Neeta Travels,667,02:16,Volvo,17:59,00:50,3437,12-03-2025
+Jamshedpur,Mumbai,Neeta Travels,644,13:13,Luxury Coach,13:15,01:24,5730,20-02-2025
+Jaipur,Coimbatore,Rajdhani Travels,529,16:38,Express,00:49,19:42,3133,02-05-2025
+Pune,Mumbai,Neeta Travels,686,04:21,Volvo,06:24,20:31,3451,31-03-2025
+Delhi,Guwahati,SRS Travels,558,23:53,Luxury Coach,21:55,19:03,6352,14-03-2025
+Kolkata,Indore,VRL Travels,1841,06:11,Express,01:40,21:43,2285,19-02-2025
+Agra,Amritsar,KSRTC,1970,12:45,Sleeper,14:14,07:46,1608,09-04-2025
+Delhi,Chennai,Neeta Travels,1456,11:45,Volvo,21:13,05:45,6728,06-03-2025
+Jamshedpur,Guwahati,VRL Travels,1052,16:20,Express,12:04,17:56,3800,14-03-2025
+Gwalior,Amritsar,Rajdhani Travels,664,24:35:00,Sleeper,18:55,17:51,5298,02-02-2025
+Shimla,Coimbatore,VRL Travels,988,23:20,AC Seater,04:44,20:52,1176,19-04-2025
+Hyderabad,Indore,VRL Travels,1468,02:45,Luxury Coach,15:50,20:16,6026,02-05-2025
+Jamshedpur,Mumbai,SRS Travels,1017,02:13,Sleeper,00:14,20:11,7232,23-03-2025
+Pune,Patna,VRL Travels,1418,15:58,Volvo,18:23,23:47,506,28-03-2025
+Jaipur,Chennai,Rajdhani Travels,704,14:20,Semi-Sleeper,19:43,04:05,1885,08-02-2025
+Delhi,Mumbai,Neeta Travels,787,19:47,Sleeper,00:38,20:17,2314,20-03-2025
+Hyderabad,Nagpur,Rajdhani Travels,1228,02:14,Sleeper,06:32,04:54,7370,10-02-2025
+Jaipur,Amritsar,KSRTC,1312,21:39,Semi-Sleeper,11:53,20:05,6989,10-04-2025
+Jaipur,Coimbatore,SRS Travels,1253,19:50,AC Seater,17:01,00:04,5500,02-02-2025
+Pune,Chennai,Neeta Travels,815,07:23,Express,17:47,01:17,5270,11-03-2025
+Jaipur,Coimbatore,RedBus,1550,19:06,Sleeper,20:56,19:36,6812,03-03-2025
+Gwalior,Surat,KSRTC,414,02:39,Express,20:52,07:34,3574,28-02-2025
+Agra,Amritsar,Rajdhani Travels,1367,04:02,Luxury Coach,22:19,07:29,2734,27-03-2025
+Kolkata,Guwahati,VRL Travels,1259,23:30,Express,05:53,17:54,1653,03-03-2025
+Shimla,Nagpur,Rajdhani Travels,891,18:42,Express,15:56,10:57,5726,26-04-2025
+Jaipur,Lucknow,KSRTC,1659,09:26,Luxury Coach,23:33,04:48,1147,19-02-2025
+Pune,Patna,Neeta Travels,813,08:20,Express,20:44,06:44,3848,25-03-2025
+Jaipur,Indore,SRS Travels,562,12:04,Express,17:11,10:07,6347,07-03-2025
+Pune,Patna,Parveen Travels,1863,09:35,Sleeper,22:50,11:32,1699,14-04-2025
+Bangalore,Lucknow,Rajdhani Travels,1436,11:19,Luxury Coach,23:27,02:53,3331,23-03-2025
+Bangalore,Indore,Neeta Travels,605,22:26,Luxury Coach,02:43,07:09,6717,10-02-2025
+Jaipur,Nagpur,VRL Travels,785,13:27,Sleeper,12:06,03:14,2080,22-04-2025
+Jamshedpur,Guwahati,KSRTC,668,11:18,Semi-Sleeper,14:26,12:23,6592,26-04-2025
+Hyderabad,Surat,RedBus,986,15:48,Sleeper,19:15,18:10,4128,29-04-2025
+Pune,Lucknow,KSRTC,313,20:29,Sleeper,09:20,16:47,3141,17-04-2025
+Jamshedpur,Indore,SRS Travels,1560,24:07:00,Semi-Sleeper,01:21,04:08,2471,12-03-2025
+Kolkata,Chennai,Parveen Travels,1016,11:22,Semi-Sleeper,06:08,12:30,1469,05-03-2025
+Agra,Mumbai,SRS Travels,1323,11:46,Sleeper,09:27,17:32,1808,12-02-2025
+Jamshedpur,Surat,RedBus,1274,10:56,Sleeper,23:16,22:49,2863,15-04-2025
+Hyderabad,Patna,RedBus,936,17:08,Semi-Sleeper,12:48,11:39,6483,05-02-2025
+Jaipur,Mumbai,KSRTC,1945,04:47,AC Seater,17:10,05:02,7325,11-02-2025
+Bangalore,Patna,Parveen Travels,1399,05:07,Express,14:30,04:06,2982,19-03-2025
+Agra,Lucknow,KSRTC,573,24:01:00,Semi-Sleeper,05:19,10:31,4223,19-03-2025
+Kolkata,Coimbatore,Neeta Travels,1713,20:44,Sleeper,15:36,03:07,5421,23-02-2025
+Hyderabad,Guwahati,Rajdhani Travels,1367,19:31,Express,13:54,18:33,3148,01-03-2025
+Bangalore,Patna,VRL Travels,1267,16:42,Volvo,18:28,00:08,3264,21-04-2025
+Jamshedpur,Mumbai,Parveen Travels,1283,08:22,Express,07:58,12:05,1749,14-02-2025
+Shimla,Coimbatore,Parveen Travels,1568,03:05,Semi-Sleeper,14:57,23:54,5206,12-04-2025
+Shimla,Coimbatore,Rajdhani Travels,1336,05:59,Sleeper,21:38,10:40,2628,13-04-2025
+Gwalior,Nagpur,Rajdhani Travels,852,17:56,AC Seater,18:58,16:15,4719,11-03-2025
+Shimla,Lucknow,RedBus,1635,20:00,Sleeper,11:08,04:14,5176,08-02-2025
+Delhi,Surat,Rajdhani Travels,645,07:12,Sleeper,14:22,12:28,526,21-03-2025
+Bangalore,Patna,Neeta Travels,1138,07:03,Volvo,02:19,04:44,5822,23-02-2025
+Jaipur,Indore,Parveen Travels,1198,09:43,AC Seater,16:01,11:58,2680,18-02-2025
+Gwalior,Indore,RedBus,1972,11:13,Sleeper,06:21,11:47,1443,07-02-2025
+Gwalior,Guwahati,VRL Travels,486,17:22,Express,14:20,03:51,639,16-02-2025
+Gwalior,Guwahati,KSRTC,1194,20:37,AC Seater,20:33,03:02,7471,14-04-2025
+Shimla,Coimbatore,Neeta Travels,720,16:05,Express,21:58,18:45,5213,08-03-2025
+Hyderabad,Amritsar,RedBus,1596,20:55,Volvo,20:11,18:04,934,22-02-2025
+Jamshedpur,Indore,Neeta Travels,1026,07:14,Semi-Sleeper,23:08,01:40,1249,18-04-2025
+Hyderabad,Amritsar,KSRTC,973,11:16,Express,13:51,18:14,7100,12-02-2025
+Agra,Patna,Neeta Travels,713,13:52,Semi-Sleeper,00:55,19:42,3896,06-03-2025
+Delhi,Lucknow,RedBus,643,15:05,Express,21:23,03:00,597,26-04-2025
+Pune,Surat,Neeta Travels,1219,24:58:00,Express,21:13,17:21,4478,15-02-2025
+Bangalore,Coimbatore,Parveen Travels,1952,09:05,Semi-Sleeper,17:56,23:13,6689,14-03-2025
+Delhi,Lucknow,Rajdhani Travels,1848,24:47:00,Volvo,05:02,23:45,1933,17-04-2025
+Gwalior,Coimbatore,Rajdhani Travels,498,13:14,Volvo,16:35,06:28,3694,03-02-2025
+Hyderabad,Chennai,Neeta Travels,1637,20:37,Semi-Sleeper,17:19,03:25,3675,20-03-2025
+Gwalior,Chennai,KSRTC,318,15:10,Express,11:04,04:54,6062,21-03-2025
+Pune,Patna,RedBus,1218,13:04,Volvo,17:38,01:56,5685,19-03-2025
+Gwalior,Lucknow,VRL Travels,801,18:19,Express,01:19,23:31,4455,12-02-2025
+Jaipur,Chennai,SRS Travels,511,02:43,AC Seater,19:47,04:19,5614,02-03-2025
+Kolkata,Nagpur,RedBus,1416,18:51,Luxury Coach,10:43,09:06,2801,17-03-2025
+Delhi,Mumbai,Parveen Travels,1442,20:06,Sleeper,09:33,13:40,651,29-03-2025
+Kolkata,Lucknow,Neeta Travels,1496,13:07,Express,07:05,13:13,2073,20-02-2025
+Agra,Coimbatore,RedBus,1669,08:30,AC Seater,21:56,15:07,2972,04-02-2025
+Hyderabad,Surat,Parveen Travels,451,16:24,Volvo,08:02,08:20,3009,19-04-2025
+Hyderabad,Lucknow,Neeta Travels,1710,14:23,Volvo,06:54,12:55,5562,08-02-2025
+Hyderabad,Guwahati,RedBus,768,24:40:00,Sleeper,23:21,06:54,1267,02-05-2025
+Kolkata,Mumbai,Neeta Travels,510,08:38,Express,12:33,00:11,6138,04-03-2025
+Hyderabad,Amritsar,SRS Travels,453,04:56,Semi-Sleeper,23:30,18:07,1516,31-03-2025
+Pune,Surat,KSRTC,1209,20:15,Semi-Sleeper,12:01,19:46,5724,18-04-2025
+Agra,Patna,RedBus,779,04:55,Express,17:57,20:40,3032,15-02-2025
+Hyderabad,Chennai,SRS Travels,364,22:05,AC Seater,07:05,06:42,2644,29-03-2025
+Bangalore,Chennai,Neeta Travels,544,13:21,Volvo,21:44,11:25,1289,16-03-2025
+Kolkata,Nagpur,KSRTC,1288,05:32,Luxury Coach,03:09,00:58,1196,15-03-2025
+Agra,Lucknow,Rajdhani Travels,684,15:07,Semi-Sleeper,20:01,08:25,5259,14-04-2025
+Hyderabad,Amritsar,Parveen Travels,1188,02:05,Semi-Sleeper,03:40,21:38,4374,10-02-2025
+Shimla,Coimbatore,KSRTC,797,20:03,Volvo,22:40,17:45,4475,15-03-2025
+Jaipur,Surat,VRL Travels,379,08:38,Sleeper,05:56,23:37,2161,01-05-2025
+Hyderabad,Coimbatore,SRS Travels,858,06:23,AC Seater,13:47,13:18,5432,13-03-2025
+Delhi,Indore,Parveen Travels,901,20:12,Semi-Sleeper,22:46,10:06,3591,08-02-2025
+Bangalore,Amritsar,Neeta Travels,571,16:18,Semi-Sleeper,11:41,02:31,3295,15-03-2025
+Jamshedpur,Amritsar,KSRTC,1086,22:56,Express,18:23,03:41,721,22-04-2025
+Agra,Mumbai,SRS Travels,442,15:13,Volvo,06:51,15:29,788,20-03-2025
+Shimla,Guwahati,SRS Travels,577,24:28:00,Volvo,23:12,15:29,1815,10-03-2025
+Jamshedpur,Coimbatore,Rajdhani Travels,1209,23:13,Express,03:22,03:45,521,06-02-2025
+Shimla,Chennai,RedBus,1612,14:07,Sleeper,19:21,00:49,4971,02-04-2025
+Jaipur,Chennai,SRS Travels,479,21:19,AC Seater,12:59,18:23,1267,12-04-2025
+Jaipur,Amritsar,KSRTC,1938,23:24,Sleeper,03:37,20:41,2980,23-02-2025
+Agra,Amritsar,RedBus,1258,08:07,Sleeper,05:10,03:08,7486,07-04-2025
+Delhi,Mumbai,VRL Travels,964,08:11,Express,10:52,14:27,4959,08-02-2025
+Jaipur,Surat,VRL Travels,501,13:19,AC Seater,01:09,12:42,7491,04-04-2025
+Delhi,Guwahati,SRS Travels,1433,21:54,Luxury Coach,00:30,14:49,1062,17-02-2025
+Delhi,Lucknow,Rajdhani Travels,596,08:46,Express,07:05,21:59,2654,24-04-2025
+Hyderabad,Patna,KSRTC,1237,05:35,AC Seater,01:54,17:21,3758,30-03-2025
+Jaipur,Nagpur,KSRTC,707,07:30,Express,04:26,13:04,5858,06-03-2025
+Kolkata,Nagpur,Neeta Travels,1870,02:04,AC Seater,22:03,16:46,1922,27-04-2025
+Hyderabad,Coimbatore,Rajdhani Travels,360,17:35,AC Seater,00:38,17:25,1080,26-03-2025
+Bangalore,Coimbatore,Rajdhani Travels,593,16:07,Express,01:34,23:57,6840,08-03-2025
+Delhi,Lucknow,RedBus,531,22:06,AC Seater,16:51,18:27,2566,20-03-2025
+Agra,Nagpur,VRL Travels,1736,17:41,Express,21:54,06:46,5478,22-04-2025
+Delhi,Chennai,RedBus,1160,09:56,Express,12:29,07:19,2033,12-02-2025
+Kolkata,Guwahati,RedBus,1784,10:16,Luxury Coach,17:23,11:50,1214,22-04-2025
+Gwalior,Chennai,RedBus,1634,18:30,Semi-Sleeper,11:49,19:58,2238,08-04-2025
+Agra,Nagpur,Neeta Travels,1221,02:05,Sleeper,14:35,18:07,5292,22-04-2025
+Delhi,Surat,RedBus,1484,16:54,Luxury Coach,17:19,21:29,6396,05-04-2025
+Delhi,Nagpur,VRL Travels,1433,14:36,Semi-Sleeper,02:22,12:56,5284,14-04-2025
+Hyderabad,Mumbai,Neeta Travels,308,24:38:00,Luxury Coach,13:24,23:21,4383,07-03-2025
+Gwalior,Lucknow,SRS Travels,979,12:40,AC Seater,22:54,04:00,7501,02-02-2025
+Jaipur,Patna,Rajdhani Travels,911,14:51,AC Seater,09:15,03:55,1144,21-04-2025
+Shimla,Amritsar,Rajdhani Travels,1434,18:50,Sleeper,23:27,10:36,7122,11-03-2025
+Hyderabad,Nagpur,Parveen Travels,1863,20:46,Sleeper,00:14,03:10,2603,01-02-2025
+Shimla,Guwahati,Rajdhani Travels,1540,22:50,Express,03:07,19:32,7859,20-02-2025
+Jamshedpur,Coimbatore,Parveen Travels,1062,15:32,Semi-Sleeper,23:42,06:22,1274,03-02-2025
+Shimla,Amritsar,Neeta Travels,995,02:27,AC Seater,16:33,20:12,4617,18-02-2025
+Bangalore,Surat,VRL Travels,392,07:46,Sleeper,23:02,20:19,2059,29-04-2025
+Kolkata,Coimbatore,Neeta Travels,340,07:43,Semi-Sleeper,09:56,00:14,1667,18-03-2025
+Gwalior,Indore,Parveen Travels,1513,21:54,Volvo,09:11,15:41,2598,14-02-2025
+Jaipur,Coimbatore,Parveen Travels,338,06:10,Express,19:46,15:11,4963,14-03-2025
+Kolkata,Indore,KSRTC,384,17:43,Express,11:24,04:41,7312,12-03-2025
+Gwalior,Lucknow,SRS Travels,812,12:02,Express,08:23,18:34,7575,16-04-2025
+Gwalior,Amritsar,RedBus,777,21:39,Luxury Coach,22:35,02:28,3724,10-02-2025
+Gwalior,Surat,SRS Travels,1428,03:38,Semi-Sleeper,22:25,00:52,1134,16-03-2025
+Jaipur,Chennai,SRS Travels,1183,15:21,Semi-Sleeper,03:03,10:34,6380,05-02-2025
+Pune,Amritsar,SRS Travels,1724,10:43,Semi-Sleeper,16:52,08:22,5836,14-03-2025
+Kolkata,Amritsar,SRS Travels,401,03:57,Express,11:48,19:54,1390,02-04-2025
+Jamshedpur,Chennai,KSRTC,1414,05:03,Luxury Coach,10:46,20:18,655,26-04-2025
+Pune,Surat,Neeta Travels,1543,14:50,AC Seater,07:40,10:36,7925,22-02-2025
+Pune,Amritsar,VRL Travels,1506,03:49,Volvo,23:33,12:03,1954,10-03-2025
+Delhi,Nagpur,VRL Travels,1981,10:08,Express,02:45,08:26,4789,28-03-2025
+Shimla,Guwahati,SRS Travels,1779,06:18,Luxury Coach,20:36,07:26,5414,05-03-2025
+Delhi,Surat,KSRTC,999,19:05,Luxury Coach,02:34,00:57,5782,23-04-2025
+Agra,Amritsar,Parveen Travels,736,23:51,Sleeper,04:18,15:03,5853,21-02-2025
+Kolkata,Surat,RedBus,1052,16:50,Volvo,11:02,09:24,2362,19-02-2025
+Delhi,Indore,SRS Travels,1615,23:12,Volvo,22:58,02:17,5158,04-02-2025
+Gwalior,Lucknow,SRS Travels,1498,05:21,Express,17:49,21:27,4843,15-03-2025
+Jamshedpur,Indore,VRL Travels,1429,07:36,Semi-Sleeper,00:43,02:05,2195,18-03-2025
+Delhi,Coimbatore,Neeta Travels,1670,05:51,AC Seater,23:17,05:30,4766,12-04-2025
+Hyderabad,Coimbatore,KSRTC,1277,22:45,Express,04:52,21:22,3109,03-03-2025
+Jaipur,Guwahati,VRL Travels,527,06:15,Semi-Sleeper,07:01,15:42,2894,04-02-2025
+Kolkata,Surat,Neeta Travels,1256,16:17,Sleeper,04:50,23:40,4184,09-03-2025
+Jamshedpur,Patna,KSRTC,642,09:31,Sleeper,11:59,19:42,1025,31-03-2025
+Hyderabad,Lucknow,Neeta Travels,1849,06:41,Luxury Coach,12:02,18:28,5097,16-03-2025
+Gwalior,Mumbai,Neeta Travels,1351,23:17,Semi-Sleeper,05:39,12:34,1025,03-02-2025
+Bangalore,Patna,Neeta Travels,772,06:19,Semi-Sleeper,19:50,06:23,4123,10-03-2025
+Jamshedpur,Chennai,Neeta Travels,494,11:24,Volvo,10:04,02:47,2161,01-02-2025
+Pune,Indore,Rajdhani Travels,1539,14:18,Luxury Coach,07:04,15:07,3719,08-02-2025
+Gwalior,Lucknow,RedBus,1421,24:55:00,AC Seater,13:48,11:40,6513,24-02-2025
+Jamshedpur,Nagpur,Neeta Travels,1474,03:26,Volvo,00:50,14:16,4080,05-04-2025
+Gwalior,Chennai,Parveen Travels,1646,05:32,AC Seater,16:34,01:27,2131,20-04-2025
+Shimla,Indore,SRS Travels,1980,06:25,Semi-Sleeper,09:07,21:55,3965,24-04-2025
+Pune,Amritsar,Neeta Travels,1394,08:11,Express,17:51,02:44,3301,09-02-2025
+Bangalore,Chennai,RedBus,576,15:04,Luxury Coach,06:15,10:29,1339,06-03-2025
+Hyderabad,Coimbatore,Neeta Travels,1058,23:03,Volvo,02:50,12:06,6627,30-03-2025
+Kolkata,Coimbatore,Parveen Travels,1286,11:44,Luxury Coach,07:15,04:17,6288,25-03-2025
+Jamshedpur,Indore,RedBus,1059,22:13,Volvo,16:53,07:24,3287,11-04-2025
+Pune,Surat,Rajdhani Travels,569,09:00,Semi-Sleeper,22:22,19:59,1358,01-05-2025
+Jaipur,Guwahati,VRL Travels,1012,09:42,Sleeper,18:31,12:14,1655,03-03-2025
+Agra,Patna,Parveen Travels,1236,20:06,Express,10:56,19:52,2802,01-04-2025
+Bangalore,Amritsar,SRS Travels,1047,12:12,Luxury Coach,08:20,08:36,1617,09-03-2025
+Pune,Chennai,Parveen Travels,1780,11:41,Volvo,14:59,09:20,3903,12-03-2025
+Shimla,Chennai,RedBus,1917,08:00,Volvo,00:36,03:19,4994,27-02-2025
+Gwalior,Mumbai,Rajdhani Travels,319,14:57,Semi-Sleeper,22:23,11:34,827,28-03-2025
+Delhi,Chennai,RedBus,502,20:42,Volvo,09:03,20:53,1765,06-04-2025
+Jaipur,Patna,RedBus,1453,13:57,Volvo,06:11,06:16,5033,04-02-2025
+Jaipur,Patna,Rajdhani Travels,327,10:14,Express,11:25,19:08,2215,11-03-2025
+Hyderabad,Guwahati,Rajdhani Travels,448,22:09,Luxury Coach,19:36,09:05,5636,12-02-2025
+Jamshedpur,Mumbai,SRS Travels,1217,10:42,Luxury Coach,16:34,19:55,6434,23-03-2025
+Shimla,Coimbatore,SRS Travels,1909,22:36,Luxury Coach,04:49,18:46,3804,09-04-2025
+Agra,Lucknow,KSRTC,1264,23:48,Luxury Coach,20:37,16:43,6223,07-03-2025
+Kolkata,Chennai,Neeta Travels,1367,17:35,Luxury Coach,04:58,11:28,5988,02-02-2025
+Pune,Surat,KSRTC,383,09:50,Luxury Coach,09:41,00:28,5720,04-03-2025
+Pune,Mumbai,VRL Travels,1070,05:09,Express,03:33,19:51,1958,03-03-2025
+Bangalore,Indore,Parveen Travels,911,05:44,Express,15:56,15:47,6062,19-03-2025
+Gwalior,Surat,KSRTC,939,09:28,Express,18:13,21:27,2346,20-03-2025
+Shimla,Patna,Parveen Travels,337,03:05,Sleeper,22:45,10:07,5520,17-04-2025
+Shimla,Lucknow,Parveen Travels,1390,17:46,Sleeper,11:21,08:11,7997,04-02-2025
+Jamshedpur,Patna,RedBus,749,13:40,Express,10:12,21:21,2881,24-03-2025
+Jamshedpur,Coimbatore,Neeta Travels,316,02:01,Luxury Coach,22:08,21:53,1063,24-04-2025
+Pune,Surat,SRS Travels,1052,17:27,Express,08:43,04:36,5734,10-04-2025
+Hyderabad,Guwahati,Rajdhani Travels,1085,23:36,Sleeper,12:10,08:46,3546,02-05-2025
+Hyderabad,Mumbai,KSRTC,1644,22:31,AC Seater,17:32,07:09,7639,06-03-2025
+Hyderabad,Coimbatore,Parveen Travels,1770,09:45,Semi-Sleeper,16:40,15:48,7756,24-04-2025
+Agra,Chennai,RedBus,1327,19:00,Volvo,10:59,10:19,7416,28-03-2025
+Jaipur,Patna,Rajdhani Travels,300,08:00,Volvo,21:59,16:20,3750,11-04-2025
+Jaipur,Guwahati,Rajdhani Travels,1215,14:44,Sleeper,06:09,01:58,514,01-02-2025
+Jaipur,Chennai,Rajdhani Travels,1485,22:58,Luxury Coach,17:45,16:16,6827,29-04-2025
+Hyderabad,Indore,SRS Travels,1623,19:35,Volvo,17:20,23:06,2618,18-03-2025
+Delhi,Coimbatore,Parveen Travels,739,15:46,Volvo,00:08,02:26,5336,21-04-2025
+Gwalior,Mumbai,SRS Travels,1869,24:45:00,Sleeper,22:28,05:18,3332,30-03-2025
+Jaipur,Chennai,SRS Travels,1949,14:26,AC Seater,18:27,06:54,5591,23-03-2025
+Gwalior,Guwahati,VRL Travels,1941,05:29,Express,14:09,09:30,7116,10-04-2025
+Jaipur,Mumbai,Parveen Travels,454,17:44,Luxury Coach,10:25,08:19,7526,26-04-2025
+Gwalior,Mumbai,Parveen Travels,958,11:36,Volvo,22:56,19:50,6002,22-04-2025
+Kolkata,Coimbatore,Rajdhani Travels,350,22:29,Luxury Coach,17:52,17:24,3643,16-03-2025
+Gwalior,Surat,VRL Travels,923,10:27,AC Seater,17:48,12:07,6444,21-03-2025
+Agra,Nagpur,VRL Travels,1206,08:13,Volvo,07:43,22:37,7283,01-05-2025
+Delhi,Amritsar,VRL Travels,324,22:05,Luxury Coach,10:25,05:36,2806,04-02-2025
+Kolkata,Lucknow,SRS Travels,986,11:43,AC Seater,21:35,06:34,7988,15-04-2025
+Kolkata,Coimbatore,Rajdhani Travels,325,21:16,Luxury Coach,12:02,21:03,2290,01-04-2025
+Jamshedpur,Mumbai,KSRTC,1102,03:19,AC Seater,08:55,00:38,3000,21-02-2025
+Gwalior,Patna,SRS Travels,773,11:09,Express,06:03,15:56,4940,21-03-2025
+Jaipur,Chennai,Rajdhani Travels,1283,04:05,Express,13:40,07:00,1390,26-03-2025
+Pune,Chennai,Parveen Travels,1875,06:56,Volvo,04:31,03:32,5341,21-02-2025
+Agra,Guwahati,SRS Travels,794,11:07,Express,14:47,11:13,3754,30-04-2025
+Jamshedpur,Patna,SRS Travels,1319,22:03,AC Seater,05:04,20:51,7192,19-02-2025
+Jamshedpur,Chennai,KSRTC,722,15:05,Luxury Coach,17:58,21:34,2087,20-02-2025
+Gwalior,Mumbai,VRL Travels,1109,24:02:00,Express,20:18,08:19,986,19-02-2025
+Delhi,Amritsar,RedBus,1944,20:01,Sleeper,14:56,06:06,1070,19-02-2025
+Bangalore,Indore,KSRTC,1033,09:49,Volvo,08:50,08:17,519,27-03-2025
+Jaipur,Surat,Parveen Travels,744,19:17,Volvo,03:38,02:02,797,10-04-2025
+Bangalore,Nagpur,Rajdhani Travels,1998,04:06,Express,03:13,17:25,3960,11-04-2025
+Jaipur,Coimbatore,VRL Travels,1441,24:18:00,Volvo,01:31,14:18,4458,29-03-2025
+Hyderabad,Surat,Parveen Travels,1655,23:55,Sleeper,18:57,15:20,4291,02-05-2025
+Kolkata,Mumbai,Parveen Travels,1669,06:37,Luxury Coach,08:32,23:49,5544,27-04-2025
+Delhi,Guwahati,SRS Travels,922,19:17,Luxury Coach,03:43,10:24,6695,18-04-2025
+Pune,Lucknow,KSRTC,1883,24:22:00,Semi-Sleeper,08:09,02:02,3986,16-04-2025
+Jaipur,Amritsar,Parveen Travels,457,12:06,Semi-Sleeper,03:53,02:54,2526,16-04-2025
+Shimla,Lucknow,VRL Travels,839,13:37,Semi-Sleeper,19:01,11:49,6202,08-03-2025
+Delhi,Amritsar,RedBus,1677,24:13:00,AC Seater,17:29,21:26,4297,28-02-2025
+Kolkata,Chennai,RedBus,1899,08:44,Semi-Sleeper,21:49,18:14,566,14-04-2025
+Kolkata,Indore,KSRTC,1588,23:32,Express,22:13,19:25,1535,10-04-2025
+Jaipur,Mumbai,Rajdhani Travels,1023,06:22,Sleeper,19:03,04:57,4176,14-02-2025
+Kolkata,Coimbatore,RedBus,1147,23:22,AC Seater,19:34,10:44,4337,05-04-2025
+Kolkata,Indore,Rajdhani Travels,990,21:10,AC Seater,03:38,19:36,3805,04-02-2025
+Gwalior,Guwahati,Parveen Travels,1145,18:13,Sleeper,10:15,14:45,2083,03-04-2025
+Kolkata,Mumbai,RedBus,410,07:24,Express,05:11,08:18,5785,21-03-2025
+Delhi,Guwahati,Neeta Travels,425,02:59,AC Seater,13:32,18:13,3407,20-04-2025
+Gwalior,Nagpur,VRL Travels,843,18:35,Express,13:15,02:54,4532,13-02-2025
+Gwalior,Coimbatore,VRL Travels,461,07:59,AC Seater,08:16,05:00,849,21-03-2025
+Hyderabad,Patna,VRL Travels,1874,24:15:00,Luxury Coach,17:01,21:15,3402,26-03-2025
+Agra,Indore,Rajdhani Travels,521,13:50,Express,10:06,06:58,4889,20-03-2025
+Pune,Patna,Rajdhani Travels,462,03:35,Semi-Sleeper,10:54,19:21,3217,06-02-2025
+Pune,Patna,Rajdhani Travels,364,18:12,AC Seater,06:06,10:11,5981,13-02-2025
+Pune,Surat,SRS Travels,1469,18:05,Sleeper,13:47,05:14,6359,02-03-2025
+Pune,Mumbai,KSRTC,443,07:16,Express,09:05,05:14,4594,22-02-2025
+Shimla,Coimbatore,Parveen Travels,1147,20:54,Luxury Coach,10:03,01:07,4976,28-04-2025
+Jaipur,Nagpur,Parveen Travels,554,13:53,Luxury Coach,15:03,06:31,4055,14-04-2025
+Shimla,Chennai,VRL Travels,1450,08:47,Sleeper,03:30,11:25,3387,29-04-2025
+Pune,Chennai,SRS Travels,927,02:13,Express,01:20,20:19,2872,09-03-2025
+Agra,Surat,SRS Travels,1359,06:53,Luxury Coach,04:41,13:54,3813,22-02-2025
+Agra,Guwahati,RedBus,1151,11:28,Luxury Coach,03:31,16:25,4401,22-03-2025
+Jaipur,Patna,Parveen Travels,707,13:54,Volvo,05:54,00:07,1954,21-04-2025
+Kolkata,Chennai,Rajdhani Travels,1036,09:34,Luxury Coach,21:26,13:20,5585,21-04-2025
+Bangalore,Patna,Rajdhani Travels,738,22:46,Sleeper,07:11,04:42,7139,07-03-2025
+Jaipur,Chennai,Neeta Travels,567,23:38,Volvo,10:25,18:42,1794,15-04-2025
+Bangalore,Surat,RedBus,1529,22:48,Luxury Coach,22:33,09:04,5714,07-02-2025
+Shimla,Guwahati,KSRTC,833,12:23,Express,18:30,06:47,2609,20-03-2025
+Gwalior,Amritsar,VRL Travels,1200,09:56,Luxury Coach,06:25,15:17,2103,22-04-2025
+Agra,Guwahati,RedBus,435,17:41,AC Seater,06:37,01:17,787,20-04-2025
+Delhi,Patna,Parveen Travels,1437,12:39,Express,00:06,06:36,666,14-02-2025
+Agra,Coimbatore,SRS Travels,1199,18:25,AC Seater,09:55,20:44,641,09-03-2025
+Shimla,Chennai,KSRTC,585,05:42,Express,17:39,13:44,4595,11-03-2025
+Agra,Patna,KSRTC,1626,16:40,AC Seater,07:42,14:42,4404,13-04-2025
+Pune,Mumbai,VRL Travels,1211,02:12,Express,08:25,05:35,5160,05-04-2025
+Kolkata,Indore,KSRTC,1957,10:23,Express,13:30,23:34,6530,27-04-2025
+Gwalior,Patna,VRL Travels,1916,17:00,Volvo,01:14,12:08,5410,28-03-2025
+Bangalore,Guwahati,Rajdhani Travels,1230,07:41,Sleeper,03:53,00:46,2489,06-03-2025
+Bangalore,Chennai,Rajdhani Travels,1516,24:45:00,Volvo,05:17,10:32,6889,04-03-2025
+Jamshedpur,Chennai,RedBus,500,19:47,Luxury Coach,20:46,18:02,7297,11-04-2025
+Delhi,Surat,Parveen Travels,980,15:21,AC Seater,22:14,16:49,3827,01-05-2025
+Agra,Coimbatore,VRL Travels,1600,20:49,Express,11:38,15:04,6907,02-04-2025
+Gwalior,Lucknow,Neeta Travels,660,22:02,AC Seater,01:50,00:26,2154,08-04-2025
+Hyderabad,Lucknow,VRL Travels,554,13:04,Volvo,02:49,14:05,3127,06-02-2025
+Hyderabad,Chennai,Neeta Travels,394,03:52,Luxury Coach,21:35,20:11,4628,21-03-2025
+Hyderabad,Coimbatore,Parveen Travels,1782,12:33,Volvo,15:39,15:51,5351,21-03-2025
+Hyderabad,Guwahati,SRS Travels,1170,12:00,Semi-Sleeper,18:49,14:58,4814,25-02-2025
+Gwalior,Nagpur,KSRTC,1209,08:11,AC Seater,03:04,21:58,5119,14-03-2025
+Delhi,Surat,RedBus,565,06:26,Sleeper,16:50,07:44,5691,01-03-2025
+Shimla,Amritsar,VRL Travels,1949,18:10,Luxury Coach,12:01,10:09,5672,15-04-2025
+Jamshedpur,Surat,VRL Travels,1857,23:29,AC Seater,21:12,14:12,1696,28-04-2025
+Jaipur,Indore,Neeta Travels,525,20:48,Semi-Sleeper,23:12,23:17,6306,16-03-2025
+Pune,Mumbai,SRS Travels,1831,05:47,Luxury Coach,23:20,20:18,4237,04-04-2025
+Jaipur,Lucknow,Rajdhani Travels,1443,16:28,Volvo,03:46,02:54,5848,09-04-2025
+Gwalior,Indore,RedBus,907,02:59,Volvo,06:50,22:54,860,08-04-2025
+Bangalore,Coimbatore,KSRTC,773,11:36,Luxury Coach,14:19,07:48,7767,19-02-2025
+Kolkata,Amritsar,VRL Travels,752,02:24,AC Seater,13:48,06:53,4643,08-04-2025
+Delhi,Guwahati,KSRTC,478,11:02,Express,16:18,13:50,2377,27-03-2025
+Kolkata,Nagpur,VRL Travels,1267,22:25,Sleeper,12:40,02:32,6167,15-03-2025
+Agra,Coimbatore,Parveen Travels,857,13:48,Semi-Sleeper,16:06,12:43,4019,05-04-2025
+Bangalore,Lucknow,Neeta Travels,1380,16:22,Express,21:30,20:54,6456,12-03-2025
+Gwalior,Lucknow,SRS Travels,1482,04:05,Sleeper,06:30,22:39,4149,12-04-2025
+Hyderabad,Chennai,Neeta Travels,747,19:04,Express,12:42,21:18,2072,03-04-2025
+Gwalior,Indore,RedBus,1237,23:36,Semi-Sleeper,22:13,13:33,7884,07-02-2025
+Agra,Nagpur,Parveen Travels,355,07:00,Express,09:28,18:10,522,12-04-2025
+Jamshedpur,Nagpur,Parveen Travels,1605,09:51,Luxury Coach,06:00,18:56,5823,25-03-2025
+Delhi,Mumbai,Neeta Travels,464,12:37,Sleeper,10:32,18:09,7580,01-02-2025
+Jamshedpur,Surat,Neeta Travels,1174,12:13,AC Seater,08:29,08:42,2790,13-02-2025
+Shimla,Guwahati,Neeta Travels,561,07:43,Express,05:30,09:23,7192,01-03-2025
+Bangalore,Chennai,RedBus,1156,16:06,AC Seater,14:03,21:59,6609,01-03-2025
+Pune,Mumbai,SRS Travels,1462,23:52,Sleeper,19:47,05:47,5373,07-04-2025
+Kolkata,Amritsar,Parveen Travels,319,08:28,Sleeper,20:21,06:36,4340,12-03-2025
+Hyderabad,Coimbatore,Parveen Travels,1601,06:22,Semi-Sleeper,15:37,21:49,3296,24-02-2025
+Jamshedpur,Mumbai,VRL Travels,437,14:49,AC Seater,08:31,16:05,2250,30-04-2025
+Jamshedpur,Lucknow,Rajdhani Travels,784,22:42,AC Seater,09:00,15:41,2702,29-04-2025
+Pune,Coimbatore,VRL Travels,645,03:44,Volvo,20:20,01:30,1528,23-02-2025
+Pune,Chennai,KSRTC,1307,04:38,Express,09:36,02:55,2749,22-02-2025
+Pune,Patna,Neeta Travels,1250,17:57,Volvo,02:18,00:22,6953,22-03-2025
+Pune,Patna,Neeta Travels,1918,22:18,AC Seater,02:08,10:57,1322,05-04-2025
+Jamshedpur,Guwahati,Neeta Travels,1142,19:07,AC Seater,20:48,10:53,1175,05-02-2025
+Agra,Patna,SRS Travels,686,08:22,Express,12:13,04:17,3869,04-02-2025
+Delhi,Chennai,VRL Travels,1182,18:26,Sleeper,01:06,15:42,6426,10-02-2025
+Agra,Surat,RedBus,941,17:41,Express,10:31,00:25,6990,06-04-2025
+Kolkata,Mumbai,Parveen Travels,1105,20:11,Semi-Sleeper,01:22,12:12,4179,21-02-2025
+Jaipur,Coimbatore,Rajdhani Travels,1347,22:55,Semi-Sleeper,22:18,08:31,6857,28-03-2025
+Bangalore,Mumbai,SRS Travels,1590,05:40,Luxury Coach,01:32,09:16,1321,02-03-2025
+Jamshedpur,Nagpur,SRS Travels,501,10:14,Express,01:31,14:09,5753,17-03-2025
+Kolkata,Patna,Rajdhani Travels,771,24:15:00,Luxury Coach,00:47,05:46,2446,29-03-2025
+Pune,Indore,Rajdhani Travels,881,06:31,Sleeper,12:35,15:17,5160,01-05-2025
+Jamshedpur,Amritsar,Rajdhani Travels,588,23:42,Express,13:34,02:01,5297,18-02-2025
+Pune,Guwahati,RedBus,1842,17:40,Semi-Sleeper,23:17,09:14,1393,18-03-2025
+Jamshedpur,Guwahati,KSRTC,355,15:51,Luxury Coach,07:04,18:52,6497,03-02-2025
+Agra,Indore,KSRTC,742,21:27,AC Seater,18:27,05:17,4500,01-02-2025
+Agra,Coimbatore,VRL Travels,349,02:57,Volvo,21:59,04:03,4563,25-04-2025
+Delhi,Amritsar,RedBus,302,04:04,Express,13:13,07:31,629,23-03-2025
+Jaipur,Guwahati,Neeta Travels,1644,17:36,Sleeper,12:25,20:00,2742,27-04-2025
+Hyderabad,Chennai,VRL Travels,422,04:30,Sleeper,07:02,15:13,7490,24-04-2025
+Jamshedpur,Indore,VRL Travels,1297,23:53,Volvo,14:20,02:29,5913,21-03-2025
+Bangalore,Patna,Parveen Travels,1090,17:49,Volvo,06:46,09:04,893,04-02-2025
+Jamshedpur,Patna,Neeta Travels,440,04:38,AC Seater,06:55,17:48,6311,30-03-2025
+Pune,Guwahati,RedBus,531,13:20,AC Seater,21:43,09:49,3260,03-02-2025
+Pune,Chennai,Rajdhani Travels,1615,12:21,Semi-Sleeper,02:05,04:45,3555,03-04-2025
+Delhi,Indore,VRL Travels,532,11:29,Volvo,00:58,19:16,5672,02-04-2025
+Shimla,Guwahati,RedBus,1600,22:53,Express,11:21,06:41,3479,04-02-2025
+Pune,Chennai,SRS Travels,1892,15:23,Express,08:13,00:41,1411,18-03-2025
+Pune,Coimbatore,VRL Travels,1555,20:23,Express,19:14,03:43,4617,16-04-2025
+Agra,Amritsar,SRS Travels,1913,16:36,Express,17:41,12:00,1418,29-03-2025
+Hyderabad,Chennai,Rajdhani Travels,1912,06:44,Luxury Coach,23:13,10:28,4621,05-02-2025
+Bangalore,Guwahati,Parveen Travels,1130,15:07,Volvo,08:46,19:40,7402,21-03-2025
+Gwalior,Indore,KSRTC,1161,22:46,Express,13:53,15:02,1751,06-02-2025
+Bangalore,Lucknow,VRL Travels,518,18:32,Semi-Sleeper,05:06,22:24,3346,28-03-2025
+Delhi,Indore,SRS Travels,1999,21:33,Express,05:15,09:54,920,23-02-2025
+Gwalior,Surat,VRL Travels,865,24:00:00,AC Seater,10:23,18:07,789,20-02-2025
+Kolkata,Surat,Rajdhani Travels,898,17:01,Luxury Coach,15:16,05:45,5798,08-03-2025
+Jaipur,Guwahati,Rajdhani Travels,1830,04:58,AC Seater,22:44,22:52,2389,16-03-2025
+Agra,Patna,VRL Travels,738,07:40,AC Seater,14:31,00:07,1851,26-03-2025
+Delhi,Chennai,SRS Travels,1171,10:39,Luxury Coach,02:07,23:43,1415,18-04-2025
+Kolkata,Amritsar,Neeta Travels,1449,05:31,AC Seater,00:18,03:37,5608,18-02-2025
+Jaipur,Amritsar,Neeta Travels,1198,02:49,Luxury Coach,19:34,18:47,2522,05-03-2025
+Bangalore,Guwahati,Neeta Travels,714,23:28,Sleeper,04:56,17:00,3996,23-02-2025
+Shimla,Chennai,KSRTC,440,17:10,Sleeper,10:46,22:53,818,21-04-2025
+Hyderabad,Indore,RedBus,1377,13:46,Sleeper,15:09,01:24,7641,18-02-2025
+Gwalior,Chennai,Parveen Travels,957,06:05,Volvo,07:49,03:25,7164,15-04-2025
+Jaipur,Patna,Rajdhani Travels,1884,16:46,AC Seater,05:36,08:06,2401,15-04-2025
+Pune,Indore,Rajdhani Travels,1837,14:18,AC Seater,14:48,08:33,968,16-04-2025
+Bangalore,Lucknow,Parveen Travels,387,18:25,AC Seater,13:28,08:42,5202,26-02-2025
+Kolkata,Nagpur,RedBus,1770,04:56,Express,15:10,06:58,4055,04-04-2025
+Delhi,Patna,VRL Travels,896,20:46,Volvo,12:11,00:16,6358,02-02-2025
+Agra,Amritsar,SRS Travels,680,24:49:00,Volvo,11:34,16:55,5495,25-03-2025
+Jaipur,Coimbatore,Rajdhani Travels,1086,09:25,AC Seater,11:40,10:14,3176,19-04-2025
+Gwalior,Coimbatore,Rajdhani Travels,1310,07:26,Express,15:20,11:22,4005,17-04-2025
+Agra,Chennai,KSRTC,1439,21:31,AC Seater,08:01,18:16,5244,17-04-2025
+Delhi,Amritsar,RedBus,738,13:48,Sleeper,01:01,03:22,1203,04-02-2025
+Agra,Indore,Neeta Travels,764,15:33,Sleeper,07:52,03:12,2800,02-05-2025
+Bangalore,Mumbai,KSRTC,1853,05:15,Volvo,09:51,15:27,3992,27-02-2025
+Jaipur,Surat,Parveen Travels,1309,16:54,Sleeper,00:02,03:57,6861,29-04-2025
+Shimla,Nagpur,Neeta Travels,1129,19:27,Luxury Coach,15:38,11:16,6707,23-04-2025
+Pune,Mumbai,SRS Travels,962,02:19,Volvo,22:35,00:41,5629,17-04-2025
+Kolkata,Guwahati,RedBus,1884,15:37,Semi-Sleeper,04:56,01:21,2853,01-03-2025
+Agra,Amritsar,KSRTC,1045,24:55:00,AC Seater,13:11,09:55,671,13-04-2025
+Shimla,Surat,Neeta Travels,1365,11:47,Express,11:05,02:02,3747,23-02-2025
+Gwalior,Amritsar,Rajdhani Travels,426,02:18,Semi-Sleeper,10:26,03:31,3482,09-02-2025
+Jamshedpur,Mumbai,KSRTC,726,20:28,Volvo,12:44,11:58,4811,21-04-2025
+Gwalior,Mumbai,Neeta Travels,710,18:24,Express,19:56,15:07,2519,16-02-2025
+Jaipur,Indore,VRL Travels,1557,16:26,Semi-Sleeper,19:10,05:17,6639,20-03-2025
+Pune,Lucknow,Parveen Travels,1442,12:15,Semi-Sleeper,14:20,09:39,2727,24-03-2025
+Pune,Nagpur,SRS Travels,1408,21:40,Express,04:24,18:56,727,13-03-2025
+Shimla,Guwahati,RedBus,305,07:29,Luxury Coach,13:12,19:23,5281,19-02-2025
+Kolkata,Coimbatore,RedBus,534,23:05,AC Seater,23:05,22:10,3446,02-05-2025
+Jaipur,Patna,Parveen Travels,1458,11:05,Semi-Sleeper,05:23,15:20,3880,22-04-2025
+Delhi,Chennai,KSRTC,716,15:56,Sleeper,04:42,10:14,7667,25-04-2025
+Shimla,Mumbai,KSRTC,1406,16:08,Express,18:03,18:03,687,04-02-2025
+Pune,Nagpur,Rajdhani Travels,1904,19:23,AC Seater,11:11,20:02,6163,15-03-2025
+Pune,Lucknow,KSRTC,1341,10:30,Express,21:36,09:22,7679,23-03-2025
+Pune,Indore,KSRTC,809,16:22,AC Seater,14:49,13:33,3091,04-03-2025
+Jamshedpur,Patna,Parveen Travels,1059,21:49,Luxury Coach,01:06,13:21,7765,02-02-2025
+Shimla,Chennai,KSRTC,802,03:04,Express,15:48,13:14,5452,28-03-2025
+Jamshedpur,Chennai,RedBus,1798,16:22,Luxury Coach,14:35,07:02,4026,13-02-2025
+Kolkata,Surat,Neeta Travels,858,19:28,AC Seater,21:10,13:42,1890,05-03-2025
+Hyderabad,Mumbai,Parveen Travels,675,13:06,Volvo,05:58,09:52,3080,09-04-2025
+Jamshedpur,Lucknow,SRS Travels,594,12:51,Volvo,10:30,19:36,6469,05-02-2025
+Delhi,Surat,KSRTC,1197,05:06,Sleeper,20:40,05:00,4158,25-03-2025
+Gwalior,Nagpur,SRS Travels,1677,21:58,Sleeper,12:00,02:42,667,29-04-2025
+Jamshedpur,Nagpur,VRL Travels,494,06:12,Sleeper,07:57,00:31,6553,08-02-2025
+Bangalore,Indore,KSRTC,1812,24:30:00,Express,06:48,21:24,1112,29-04-2025
+Kolkata,Lucknow,Rajdhani Travels,1912,09:42,Volvo,11:44,13:18,7277,02-04-2025
+Shimla,Nagpur,VRL Travels,390,14:13,Semi-Sleeper,14:55,14:37,1902,29-04-2025
+Jamshedpur,Patna,Parveen Travels,855,13:00,Express,00:18,11:43,7395,22-03-2025
+Jaipur,Mumbai,Neeta Travels,511,17:53,Sleeper,05:39,13:34,554,07-02-2025
+Jamshedpur,Patna,KSRTC,904,21:30,Semi-Sleeper,17:58,04:44,6032,25-04-2025
+Bangalore,Lucknow,Rajdhani Travels,901,16:38,Sleeper,05:09,20:41,7076,05-03-2025
+Agra,Indore,SRS Travels,961,02:04,Express,21:42,17:06,5387,06-02-2025
+Pune,Patna,RedBus,504,11:27,AC Seater,09:01,20:39,2945,18-04-2025
+Kolkata,Chennai,VRL Travels,886,15:15,Luxury Coach,01:42,19:16,3370,01-04-2025
+Bangalore,Lucknow,RedBus,863,23:04,Luxury Coach,08:38,16:11,6060,08-02-2025
+Kolkata,Guwahati,KSRTC,1535,12:59,Luxury Coach,02:49,08:05,2994,10-04-2025
+Kolkata,Patna,KSRTC,1673,20:56,Express,20:40,20:06,7635,14-04-2025
+Shimla,Mumbai,Parveen Travels,703,13:45,AC Seater,22:21,12:23,5183,03-04-2025
+Jaipur,Mumbai,KSRTC,1832,24:24:00,Luxury Coach,20:27,10:50,735,06-02-2025
+Shimla,Patna,SRS Travels,1965,24:34:00,AC Seater,17:10,23:03,6357,28-03-2025
+Kolkata,Indore,SRS Travels,349,09:22,Sleeper,10:51,00:11,3122,20-02-2025
+Delhi,Guwahati,KSRTC,1177,03:40,AC Seater,06:32,17:49,5242,17-02-2025
+Kolkata,Nagpur,VRL Travels,1768,18:57,Express,04:18,12:32,5898,10-03-2025
+Pune,Mumbai,SRS Travels,1871,16:02,Volvo,20:51,06:32,684,10-04-2025
+Agra,Patna,Rajdhani Travels,1374,20:54,Volvo,05:43,00:54,6139,19-04-2025
+Jaipur,Guwahati,Parveen Travels,438,24:43:00,AC Seater,10:20,13:14,3081,07-04-2025
+Shimla,Amritsar,SRS Travels,842,24:03:00,Semi-Sleeper,08:26,06:58,1637,10-04-2025
+Pune,Patna,Rajdhani Travels,1383,11:31,Luxury Coach,04:55,09:43,1406,09-03-2025
+Agra,Mumbai,SRS Travels,1531,07:37,Sleeper,00:27,08:53,5287,21-02-2025
+Pune,Mumbai,Rajdhani Travels,1765,09:58,Luxury Coach,20:21,07:13,6361,19-03-2025

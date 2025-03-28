@@ -1,0 +1,501 @@
+Traveller,Budget,Mode
+2 people,Luxury,Flight
+1,Luxury,Train
+1,Cheap,Flight
+2 people,Luxury,Bus
+1,Cheap,Bus
+1,Luxury,Train
+1,Luxury,Bus
+3 to 5 people,Cheap,Train
+2 people,Cheap,Train
+3 to 5 people,Moderate,Bus
+3 to 5 people,Moderate,Bus
+1,Moderate,Flight
+1,Luxury,Bus
+3 to 5 people,Moderate,Flight
+5 to 10 people,Cheap,Bus
+1,Cheap,Bus
+2 people,Luxury,Train
+1,Cheap,Bus
+1,Cheap,Flight
+3 to 5 people,Luxury,Train
+3 to 5 people,Moderate,Flight
+1,Moderate,Bus
+3 to 5 people,Luxury,Train
+3 to 5 people,Luxury,Train
+3 to 5 people,Moderate,Train
+1,Moderate,Train
+2 people,Luxury,Train
+5 to 10 people,Moderate,Train
+5 to 10 people,Luxury,Train
+1,Moderate,Train
+2 people,Luxury,Bus
+1,Luxury,Train
+5 to 10 people,Luxury,Flight
+2 people,Moderate,Bus
+1,Moderate,Bus
+1,Moderate,Bus
+3 to 5 people,Luxury,Train
+3 to 5 people,Cheap,Flight
+5 to 10 people,Cheap,Flight
+2 people,Moderate,Flight
+1,Luxury,Train
+1,Cheap,Bus
+3 to 5 people,Cheap,Train
+3 to 5 people,Luxury,Bus
+3 to 5 people,Moderate,Bus
+2 people,Luxury,Flight
+2 people,Moderate,Train
+2 people,Cheap,Train
+2 people,Moderate,Bus
+5 to 10 people,Luxury,Train
+1,Moderate,Train
+3 to 5 people,Cheap,Flight
+2 people,Luxury,Flight
+5 to 10 people,Cheap,Train
+3 to 5 people,Cheap,Bus
+1,Cheap,Flight
+1,Moderate,Bus
+5 to 10 people,Cheap,Train
+3 to 5 people,Moderate,Train
+1,Luxury,Train
+5 to 10 people,Cheap,Bus
+5 to 10 people,Moderate,Bus
+1,Luxury,Train
+5 to 10 people,Luxury,Flight
+2 people,Cheap,Train
+3 to 5 people,Luxury,Flight
+2 people,Moderate,Flight
+1,Luxury,Train
+1,Luxury,Flight
+3 to 5 people,Cheap,Train
+2 people,Moderate,Train
+5 to 10 people,Cheap,Flight
+5 to 10 people,Moderate,Flight
+1,Luxury,Flight
+3 to 5 people,Luxury,Flight
+1,Cheap,Flight
+3 to 5 people,Cheap,Bus
+5 to 10 people,Moderate,Bus
+3 to 5 people,Moderate,Bus
+3 to 5 people,Luxury,Train
+3 to 5 people,Moderate,Train
+3 to 5 people,Moderate,Train
+3 to 5 people,Luxury,Flight
+3 to 5 people,Luxury,Train
+1,Cheap,Bus
+1,Luxury,Train
+1,Cheap,Bus
+3 to 5 people,Moderate,Train
+5 to 10 people,Cheap,Flight
+1,Luxury,Flight
+5 to 10 people,Moderate,Train
+5 to 10 people,Moderate,Flight
+3 to 5 people,Luxury,Train
+2 people,Cheap,Train
+5 to 10 people,Cheap,Flight
+5 to 10 people,Luxury,Bus
+5 to 10 people,Luxury,Flight
+2 people,Cheap,Flight
+3 to 5 people,Cheap,Bus
+1,Cheap,Train
+3 to 5 people,Cheap,Flight
+3 to 5 people,Cheap,Bus
+3 to 5 people,Moderate,Flight
+2 people,Cheap,Bus
+5 to 10 people,Cheap,Flight
+2 people,Cheap,Flight
+1,Moderate,Bus
+2 people,Moderate,Train
+2 people,Luxury,Train
+5 to 10 people,Luxury,Flight
+3 to 5 people,Moderate,Bus
+1,Moderate,Bus
+5 to 10 people,Luxury,Train
+1,Luxury,Flight
+5 to 10 people,Moderate,Flight
+3 to 5 people,Luxury,Bus
+2 people,Moderate,Flight
+1,Cheap,Bus
+5 to 10 people,Luxury,Bus
+3 to 5 people,Luxury,Train
+2 people,Luxury,Bus
+3 to 5 people,Luxury,Bus
+2 people,Cheap,Flight
+1,Cheap,Train
+1,Moderate,Train
+3 to 5 people,Cheap,Train
+2 people,Cheap,Bus
+2 people,Luxury,Bus
+1,Moderate,Flight
+5 to 10 people,Luxury,Bus
+2 people,Luxury,Train
+1,Moderate,Train
+2 people,Luxury,Flight
+5 to 10 people,Luxury,Train
+1,Cheap,Flight
+5 to 10 people,Cheap,Bus
+3 to 5 people,Moderate,Bus
+1,Luxury,Bus
+1,Luxury,Flight
+5 to 10 people,Moderate,Train
+1,Cheap,Flight
+3 to 5 people,Luxury,Bus
+2 people,Luxury,Train
+3 to 5 people,Moderate,Bus
+1,Luxury,Flight
+2 people,Cheap,Bus
+2 people,Luxury,Flight
+2 people,Moderate,Bus
+5 to 10 people,Cheap,Flight
+1,Moderate,Bus
+5 to 10 people,Moderate,Train
+2 people,Luxury,Train
+3 to 5 people,Cheap,Train
+2 people,Luxury,Train
+1,Moderate,Flight
+1,Luxury,Train
+5 to 10 people,Luxury,Train
+3 to 5 people,Luxury,Flight
+3 to 5 people,Cheap,Train
+5 to 10 people,Luxury,Flight
+3 to 5 people,Luxury,Flight
+1,Cheap,Bus
+5 to 10 people,Luxury,Bus
+3 to 5 people,Cheap,Flight
+5 to 10 people,Luxury,Flight
+1,Luxury,Bus
+2 people,Cheap,Train
+3 to 5 people,Cheap,Bus
+1,Cheap,Flight
+1,Cheap,Bus
+2 people,Cheap,Bus
+2 people,Luxury,Train
+2 people,Luxury,Bus
+5 to 10 people,Luxury,Bus
+2 people,Moderate,Train
+1,Moderate,Bus
+3 to 5 people,Moderate,Train
+2 people,Moderate,Flight
+2 people,Moderate,Bus
+5 to 10 people,Cheap,Train
+5 to 10 people,Moderate,Flight
+1,Cheap,Bus
+5 to 10 people,Luxury,Flight
+2 people,Cheap,Flight
+1,Moderate,Flight
+3 to 5 people,Moderate,Bus
+2 people,Cheap,Train
+2 people,Luxury,Train
+2 people,Luxury,Bus
+5 to 10 people,Luxury,Flight
+5 to 10 people,Luxury,Bus
+1,Luxury,Train
+1,Cheap,Bus
+2 people,Moderate,Bus
+5 to 10 people,Moderate,Flight
+2 people,Cheap,Flight
+2 people,Cheap,Bus
+1,Luxury,Bus
+2 people,Cheap,Train
+1,Moderate,Flight
+3 to 5 people,Luxury,Flight
+5 to 10 people,Cheap,Bus
+3 to 5 people,Moderate,Flight
+1,Luxury,Train
+2 people,Cheap,Flight
+1,Moderate,Flight
+3 to 5 people,Luxury,Train
+3 to 5 people,Moderate,Bus
+1,Luxury,Bus
+3 to 5 people,Moderate,Flight
+3 to 5 people,Luxury,Bus
+5 to 10 people,Cheap,Flight
+1,Cheap,Flight
+1,Moderate,Bus
+1,Luxury,Bus
+5 to 10 people,Moderate,Train
+5 to 10 people,Luxury,Flight
+2 people,Moderate,Flight
+2 people,Cheap,Flight
+3 to 5 people,Moderate,Flight
+3 to 5 people,Luxury,Bus
+2 people,Cheap,Flight
+5 to 10 people,Luxury,Train
+3 to 5 people,Cheap,Train
+3 to 5 people,Moderate,Flight
+1,Cheap,Bus
+2 people,Luxury,Train
+2 people,Cheap,Flight
+5 to 10 people,Moderate,Flight
+5 to 10 people,Cheap,Bus
+5 to 10 people,Cheap,Flight
+1,Cheap,Bus
+2 people,Cheap,Bus
+2 people,Moderate,Bus
+2 people,Moderate,Train
+2 people,Moderate,Flight
+2 people,Moderate,Train
+1,Luxury,Bus
+2 people,Luxury,Bus
+1,Luxury,Bus
+1,Luxury,Flight
+5 to 10 people,Moderate,Flight
+5 to 10 people,Luxury,Train
+1,Moderate,Bus
+1,Luxury,Flight
+5 to 10 people,Moderate,Train
+2 people,Moderate,Flight
+1,Moderate,Flight
+3 to 5 people,Luxury,Bus
+1,Moderate,Bus
+3 to 5 people,Moderate,Flight
+3 to 5 people,Luxury,Train
+5 to 10 people,Moderate,Flight
+2 people,Moderate,Flight
+1,Luxury,Flight
+5 to 10 people,Cheap,Flight
+2 people,Moderate,Train
+2 people,Luxury,Bus
+1,Cheap,Flight
+2 people,Luxury,Bus
+5 to 10 people,Cheap,Flight
+2 people,Luxury,Train
+3 to 5 people,Luxury,Flight
+2 people,Cheap,Flight
+1,Cheap,Flight
+1,Cheap,Bus
+2 people,Moderate,Train
+1,Cheap,Bus
+3 to 5 people,Luxury,Flight
+2 people,Luxury,Bus
+5 to 10 people,Moderate,Train
+3 to 5 people,Moderate,Bus
+5 to 10 people,Moderate,Train
+2 people,Luxury,Bus
+1,Cheap,Bus
+5 to 10 people,Cheap,Flight
+5 to 10 people,Luxury,Train
+3 to 5 people,Cheap,Bus
+5 to 10 people,Cheap,Flight
+2 people,Cheap,Train
+3 to 5 people,Moderate,Bus
+2 people,Cheap,Train
+3 to 5 people,Moderate,Flight
+1,Moderate,Flight
+5 to 10 people,Luxury,Train
+3 to 5 people,Moderate,Bus
+3 to 5 people,Moderate,Bus
+1,Moderate,Train
+1,Cheap,Train
+1,Cheap,Flight
+3 to 5 people,Luxury,Flight
+1,Cheap,Bus
+3 to 5 people,Moderate,Bus
+1,Luxury,Flight
+1,Cheap,Flight
+1,Moderate,Train
+1,Luxury,Bus
+5 to 10 people,Moderate,Train
+3 to 5 people,Cheap,Train
+5 to 10 people,Cheap,Bus
+3 to 5 people,Cheap,Train
+2 people,Cheap,Bus
+1,Luxury,Flight
+5 to 10 people,Moderate,Train
+2 people,Moderate,Flight
+3 to 5 people,Luxury,Flight
+2 people,Moderate,Bus
+5 to 10 people,Cheap,Flight
+5 to 10 people,Moderate,Flight
+3 to 5 people,Cheap,Bus
+5 to 10 people,Luxury,Bus
+2 people,Moderate,Bus
+2 people,Moderate,Bus
+5 to 10 people,Moderate,Bus
+5 to 10 people,Moderate,Train
+1,Luxury,Flight
+2 people,Cheap,Train
+2 people,Luxury,Flight
+5 to 10 people,Luxury,Train
+5 to 10 people,Cheap,Flight
+5 to 10 people,Luxury,Flight
+1,Moderate,Flight
+1,Luxury,Flight
+2 people,Luxury,Flight
+3 to 5 people,Cheap,Bus
+5 to 10 people,Cheap,Flight
+2 people,Cheap,Train
+3 to 5 people,Luxury,Train
+3 to 5 people,Moderate,Bus
+5 to 10 people,Cheap,Flight
+1,Moderate,Train
+2 people,Cheap,Flight
+2 people,Luxury,Bus
+2 people,Cheap,Flight
+1,Luxury,Bus
+3 to 5 people,Moderate,Flight
+3 to 5 people,Moderate,Flight
+5 to 10 people,Cheap,Train
+5 to 10 people,Cheap,Flight
+1,Moderate,Bus
+5 to 10 people,Cheap,Bus
+5 to 10 people,Moderate,Flight
+3 to 5 people,Luxury,Flight
+2 people,Luxury,Train
+1,Luxury,Flight
+5 to 10 people,Cheap,Train
+2 people,Luxury,Train
+2 people,Moderate,Bus
+5 to 10 people,Cheap,Train
+1,Moderate,Flight
+5 to 10 people,Moderate,Train
+1,Moderate,Flight
+1,Cheap,Train
+5 to 10 people,Cheap,Bus
+3 to 5 people,Cheap,Bus
+1,Luxury,Flight
+1,Luxury,Flight
+2 people,Luxury,Train
+1,Luxury,Bus
+2 people,Cheap,Bus
+1,Moderate,Train
+2 people,Cheap,Flight
+1,Moderate,Flight
+1,Cheap,Bus
+2 people,Luxury,Train
+1,Luxury,Train
+2 people,Moderate,Bus
+3 to 5 people,Cheap,Bus
+5 to 10 people,Moderate,Flight
+5 to 10 people,Cheap,Train
+3 to 5 people,Moderate,Bus
+1,Moderate,Bus
+1,Cheap,Train
+2 people,Cheap,Train
+1,Moderate,Train
+5 to 10 people,Moderate,Train
+2 people,Luxury,Train
+2 people,Luxury,Flight
+2 people,Cheap,Flight
+3 to 5 people,Cheap,Train
+2 people,Cheap,Train
+1,Cheap,Train
+2 people,Luxury,Flight
+1,Cheap,Flight
+5 to 10 people,Cheap,Flight
+3 to 5 people,Moderate,Bus
+3 to 5 people,Moderate,Bus
+3 to 5 people,Moderate,Flight
+3 to 5 people,Cheap,Flight
+5 to 10 people,Luxury,Train
+5 to 10 people,Moderate,Flight
+2 people,Luxury,Bus
+5 to 10 people,Cheap,Bus
+2 people,Moderate,Bus
+3 to 5 people,Luxury,Flight
+3 to 5 people,Moderate,Bus
+3 to 5 people,Cheap,Bus
+3 to 5 people,Luxury,Flight
+1,Cheap,Bus
+3 to 5 people,Cheap,Bus
+2 people,Moderate,Bus
+1,Moderate,Train
+3 to 5 people,Moderate,Bus
+3 to 5 people,Luxury,Train
+1,Moderate,Train
+1,Moderate,Bus
+5 to 10 people,Cheap,Bus
+5 to 10 people,Moderate,Flight
+1,Cheap,Flight
+5 to 10 people,Cheap,Flight
+3 to 5 people,Cheap,Train
+3 to 5 people,Moderate,Bus
+1,Luxury,Flight
+2 people,Luxury,Bus
+2 people,Cheap,Bus
+1,Moderate,Bus
+2 people,Luxury,Flight
+3 to 5 people,Luxury,Bus
+5 to 10 people,Cheap,Flight
+1,Moderate,Train
+5 to 10 people,Moderate,Flight
+1,Cheap,Bus
+1,Luxury,Train
+2 people,Moderate,Bus
+5 to 10 people,Luxury,Train
+2 people,Luxury,Train
+5 to 10 people,Moderate,Bus
+2 people,Cheap,Bus
+1,Moderate,Bus
+3 to 5 people,Moderate,Train
+2 people,Cheap,Train
+3 to 5 people,Cheap,Train
+2 people,Luxury,Bus
+3 to 5 people,Luxury,Bus
+5 to 10 people,Cheap,Bus
+3 to 5 people,Cheap,Bus
+5 to 10 people,Moderate,Bus
+5 to 10 people,Moderate,Flight
+3 to 5 people,Luxury,Train
+5 to 10 people,Cheap,Train
+5 to 10 people,Luxury,Bus
+1,Luxury,Bus
+5 to 10 people,Luxury,Flight
+5 to 10 people,Moderate,Bus
+2 people,Luxury,Flight
+2 people,Cheap,Train
+5 to 10 people,Luxury,Bus
+3 to 5 people,Luxury,Bus
+1,Luxury,Train
+1,Cheap,Flight
+3 to 5 people,Luxury,Train
+3 to 5 people,Luxury,Flight
+1,Cheap,Flight
+3 to 5 people,Cheap,Flight
+5 to 10 people,Cheap,Bus
+5 to 10 people,Moderate,Flight
+3 to 5 people,Luxury,Bus
+3 to 5 people,Cheap,Train
+3 to 5 people,Moderate,Bus
+1,Luxury,Flight
+5 to 10 people,Moderate,Bus
+2 people,Moderate,Train
+2 people,Luxury,Flight
+2 people,Cheap,Flight
+2 people,Moderate,Bus
+2 people,Cheap,Bus
+3 to 5 people,Luxury,Bus
+2 people,Luxury,Flight
+1,Luxury,Flight
+3 to 5 people,Cheap,Train
+1,Cheap,Bus
+3 to 5 people,Cheap,Flight
+1,Moderate,Flight
+5 to 10 people,Cheap,Bus
+1,Moderate,Bus
+3 to 5 people,Moderate,Flight
+2 people,Luxury,Flight
+3 to 5 people,Cheap,Flight
+2 people,Moderate,Bus
+1,Luxury,Train
+2 people,Moderate,Bus
+1,Luxury,Train
+3 to 5 people,Moderate,Train
+2 people,Luxury,Bus
+3 to 5 people,Moderate,Bus
+2 people,Cheap,Flight
+3 to 5 people,Luxury,Flight
+1,Cheap,Bus
+2 people,Moderate,Bus
+5 to 10 people,Luxury,Bus
+1,Cheap,Flight
+1,Cheap,Flight
+2 people,Cheap,Train
+1,Moderate,Train
+3 to 5 people,Moderate,Flight
+5 to 10 people,Luxury,Bus
+5 to 10 people,Moderate,Train
+1,Cheap,Train
+5 to 10 people,Cheap,Flight
+3 to 5 people,Moderate,Bus
