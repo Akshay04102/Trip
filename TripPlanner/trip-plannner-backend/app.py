@@ -233,7 +233,8 @@ train_df = train_df.rename(columns={
     "From": "source", "To": "destination", "Train Name": "train_name",
     "Train No": "train_no", "Duration": "duration", "Type": "type",
     "Departure Time": "departure_time", "Arrival Time": "arrival_time",
-    "Price Category": "price_category", "Train Date": "train_date"
+    "Price Category": "price_category",  "Train Price": "train_price",
+    "Train Date": "train_date"
 })
 
 # Standardize bus data

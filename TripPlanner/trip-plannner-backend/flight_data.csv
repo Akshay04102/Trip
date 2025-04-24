@@ -1,501 +1,501 @@
 Source,Destination,Flight Number,Airline,Duration,Departure Time,Arrival Time,Flight Type,Aircraft Type,Flight Category,Flight Price,Flight Date
-Nashik,Vadodara,AI322,SpiceJet,02:57,22:33,23:01,International,Embraer E175,Luxury,13086,03-04-2025
-Nashik,Goa,UK696,GoAir,03:15,08:09,10:16,Domestic,ATR 72,Moderate,12083,24-02-2025
-Kolkata,Ahmedabad,UK773,TruJet,03:11,23:30,01:58,Domestic,Boeing 737,Moderate,18328,25-03-2025
-Lucknow,Chandigarh,6E538,Alliance Air,01:54,03:40,04:19,Domestic,Airbus A320,Moderate,18974,18-02-2025
-Pune,Goa,G8399,GoAir,01:59,19:51,22:48,Domestic,Boeing 787,Cheap,15687,10-02-2025
-Kolkata,Ahmedabad,6E468,GoAir,01:08,21:21,22:24,Domestic,Embraer E175,Cheap,19118,31-03-2025
-Chennai,Patna,SG995,GoAir,01:50,07:28,08:46,International,ATR 72,Cheap,18521,15-02-2025
-Kolkata,Chandigarh,G8310,IndiGo,01:07,01:39,02:10,International,ATR 72,Moderate,3110,15-04-2025
-Mumbai,Indore,UK276,SpiceJet,02:54,11:30,12:20,Domestic,Boeing 787,Moderate,8223,19-03-2025
-Pune,Surat,6E573,SpiceJet,01:03,12:10,14:02,Domestic,Airbus A320,Cheap,14359,25-04-2025
-Pune,Jaipur,G8811,GoAir,01:15,19:51,20:04,Domestic,Boeing 737,Cheap,7126,28-03-2025
-Bangalore,Goa,UK349,GoAir,02:40,17:09,18:38,International,Boeing 787,Cheap,12716,26-04-2025
-Bangalore,Chandigarh,G8334,SpiceJet,02:08,21:07,00:02,International,ATR 72,Luxury,6416,26-02-2025
-Kolkata,Indore,SG696,Akasa Air,03:02,00:53,03:55,International,Boeing 787,Cheap,17402,25-03-2025
-Kolkata,Delhi,G8395,IndiGo,03:36,08:06,11:54,Domestic,ATR 72,Cheap,10282,01-05-2025
-Mumbai,Nagpur,UK861,Air India,01:01,17:59,20:08,Domestic,Boeing 787,Luxury,9179,22-02-2025
-Chennai,Chandigarh,AI667,Air India,02:32,02:17,03:20,International,Boeing 787,Moderate,7287,10-02-2025
-Pune,Jaipur,G8891,SpiceJet,01:17,05:29,06:39,Domestic,Bombardier CRJ900,Luxury,17987,18-03-2025
-Pune,Chandigarh,6E882,GoAir,02:54,15:16,17:39,International,Embraer E175,Moderate,4126,08-02-2025
-Delhi,Goa,AI122,Akasa Air,02:58,22:58,00:09,Domestic,Boeing 737,Luxury,7902,08-02-2025
-Hyderabad,Nagpur,6E909,Alliance Air,02:27,20:03,21:22,International,Boeing 737,Moderate,3296,04-03-2025
-Delhi,Jaipur,SG159,TruJet,02:37,12:08,13:30,Domestic,Bombardier CRJ900,Cheap,12232,02-03-2025
-Pune,Indore,UK447,Alliance Air,01:58,02:45,04:44,International,Boeing 787,Moderate,5149,15-02-2025
-Mumbai,Nagpur,G8863,Air India,03:56,02:02,04:06,Domestic,Airbus A320,Cheap,17865,26-03-2025
-Lucknow,Delhi,UK394,SpiceJet,03:50,16:08,19:50,Domestic,Boeing 737,Luxury,5453,12-04-2025
-Lucknow,Surat,6E933,Vistara,01:49,20:28,23:17,International,Bombardier CRJ900,Cheap,3551,02-03-2025
-Bangalore,Delhi,UK116,SpiceJet,01:18,05:04,08:27,Domestic,ATR 72,Luxury,11852,05-03-2025
-Mumbai,Goa,G8159,TruJet,03:24,18:48,20:10,Domestic,ATR 72,Luxury,15021,13-02-2025
-Pune,Ahmedabad,SG211,SpiceJet,02:11,05:03,08:34,International,Boeing 737,Moderate,16343,10-02-2025
-Bangalore,Goa,G8246,GoAir,02:56,22:34,23:28,Domestic,Embraer E175,Luxury,14060,27-03-2025
-Chennai,Ahmedabad,6E927,TruJet,03:55,02:55,04:00,International,Bombardier CRJ900,Cheap,15503,14-02-2025
-Kolkata,Ahmedabad,AI404,IndiGo,01:14,00:13,01:04,International,Airbus A320,Luxury,6795,15-02-2025
-Delhi,Ahmedabad,G8355,Air India,01:49,22:04,23:50,Domestic,Airbus A320,Moderate,7180,02-02-2025
-Kolkata,Indore,6E420,GoAir,03:57,11:17,12:13,Domestic,Embraer E175,Cheap,7727,22-02-2025
-Kolkata,Ahmedabad,G8352,Air India,01:50,13:27,14:18,Domestic,Boeing 787,Cheap,6248,17-03-2025
-Bangalore,Patna,AI880,Akasa Air,02:01,05:28,06:10,International,Boeing 787,Cheap,12670,29-03-2025
-Udaipur,Ahmedabad,UK159,GoAir,02:38,16:00,18:20,Domestic,Boeing 737,Cheap,9055,01-04-2025
-Pune,Ahmedabad,AI574,Air India,02:38,04:30,06:34,Domestic,Boeing 737,Moderate,6670,29-04-2025
-Kolkata,Bhubaneswar,AI849,Air India,02:10,21:00,23:40,Domestic,Bombardier CRJ900,Moderate,10148,03-02-2025
-Udaipur,Nagpur,G8218,Alliance Air,03:58,17:13,18:17,International,Boeing 787,Luxury,16855,08-02-2025
-Hyderabad,Surat,UK523,Air India,03:16,16:32,18:49,International,Embraer E175,Luxury,19141,05-03-2025
-Delhi,Ahmedabad,G8328,SpiceJet,02:30,14:13,15:06,International,Boeing 737,Cheap,16521,26-02-2025
-Chennai,Delhi,SG300,Vistara,01:28,08:53,09:41,International,Embraer E175,Moderate,9157,21-02-2025
-Udaipur,Goa,6E539,IndiGo,02:00,11:59,12:09,Domestic,ATR 72,Cheap,15925,09-04-2025
-Bangalore,Jaipur,6E335,Alliance Air,02:24,19:49,21:41,International,Boeing 737,Luxury,3311,07-02-2025
-Bangalore,Delhi,G8558,Akasa Air,02:09,06:59,08:53,Domestic,Bombardier CRJ900,Cheap,14306,09-03-2025
-Lucknow,Goa,AI633,Air India,03:44,07:15,08:07,Domestic,Boeing 737,Cheap,13823,14-04-2025
-Delhi,Surat,AI682,TruJet,02:25,00:45,03:39,International,Airbus A320,Luxury,5346,25-03-2025
-Delhi,Chandigarh,G8594,IndiGo,02:09,09:00,12:37,Domestic,Boeing 737,Moderate,14865,16-02-2025
-Hyderabad,Indore,G8107,SpiceJet,03:49,18:08,20:17,Domestic,Embraer E175,Luxury,11985,15-04-2025
-Mumbai,Chandigarh,UK687,TruJet,02:35,10:15,11:32,International,Boeing 737,Cheap,16653,08-04-2025
-Hyderabad,Indore,UK866,Alliance Air,03:15,20:10,22:59,International,ATR 72,Luxury,15115,15-03-2025
-Pune,Goa,G8181,Air India,02:31,22:15,01:51,Domestic,Boeing 737,Moderate,17892,18-03-2025
-Chennai,Goa,UK850,Air India,02:19,00:50,01:50,Domestic,ATR 72,Cheap,7373,16-03-2025
-Kolkata,Goa,SG440,Akasa Air,01:43,05:51,07:21,International,ATR 72,Cheap,15096,01-03-2025
-Pune,Patna,SG572,IndiGo,01:05,10:34,11:50,International,Bombardier CRJ900,Luxury,19578,25-02-2025
-Nashik,Surat,UK770,GoAir,01:59,10:33,12:43,International,Boeing 787,Moderate,16302,03-03-2025
-Hyderabad,Bhubaneswar,SG926,IndiGo,01:19,05:30,08:14,Domestic,Boeing 737,Luxury,16328,02-04-2025
-Delhi,Nagpur,AI877,SpiceJet,01:40,07:25,10:25,International,Boeing 787,Luxury,3199,17-03-2025
-Nashik,Ahmedabad,SG614,IndiGo,02:59,04:50,06:04,International,Embraer E175,Moderate,7496,05-02-2025
-Udaipur,Patna,SG709,Akasa Air,02:19,04:42,07:25,International,Embraer E175,Cheap,6683,03-02-2025
-Hyderabad,Surat,SG540,Akasa Air,02:53,00:03,01:24,International,Embraer E175,Cheap,4846,02-02-2025
-Chennai,Surat,SG245,TruJet,01:43,17:47,18:05,Domestic,Bombardier CRJ900,Moderate,11740,07-03-2025
-Bangalore,Goa,6E456,GoAir,02:05,19:06,22:59,International,Airbus A320,Luxury,12181,01-05-2025
-Bangalore,Patna,SG411,Alliance Air,02:19,16:10,19:35,Domestic,Bombardier CRJ900,Cheap,18672,02-04-2025
-Hyderabad,Bhubaneswar,G8564,TruJet,01:43,23:20,02:31,International,Airbus A320,Moderate,19576,14-02-2025
-Delhi,Bhubaneswar,SG614,Akasa Air,01:23,04:37,05:16,Domestic,Bombardier CRJ900,Cheap,10565,02-02-2025
-Chennai,Goa,UK371,Vistara,01:22,11:31,13:57,Domestic,Embraer E175,Moderate,14203,12-04-2025
-Pune,Jaipur,6.00E+213,Akasa Air,01:43,05:55,06:03,International,ATR 72,Luxury,10125,26-03-2025
-Udaipur,Jaipur,G8149,Alliance Air,03:13,06:55,09:14,Domestic,Airbus A320,Moderate,17809,21-02-2025
-Bangalore,Goa,SG190,IndiGo,01:18,18:37,20:34,Domestic,Boeing 787,Luxury,9090,26-03-2025
-Hyderabad,Patna,G8932,SpiceJet,02:28,14:09,15:03,International,Airbus A320,Moderate,4557,22-04-2025
-Kolkata,Surat,G8425,SpiceJet,01:27,02:57,03:10,Domestic,Airbus A320,Moderate,19188,08-03-2025
-Udaipur,Goa,6.00E+307,TruJet,01:42,10:13,11:15,International,Boeing 787,Moderate,15013,15-02-2025
-Hyderabad,Goa,6E699,IndiGo,02:40,10:56,13:54,Domestic,ATR 72,Cheap,18012,29-04-2025
-Kolkata,Bhubaneswar,G8387,IndiGo,01:53,15:44,18:00,International,Bombardier CRJ900,Cheap,4829,15-04-2025
-Chennai,Jaipur,AI725,Vistara,02:44,02:51,05:00,Domestic,Bombardier CRJ900,Moderate,5434,15-02-2025
-Mumbai,Bhubaneswar,UK821,IndiGo,03:39,01:29,03:08,Domestic,ATR 72,Cheap,5197,23-04-2025
-Hyderabad,Bhubaneswar,SG273,SpiceJet,02:25,21:08,23:53,Domestic,Airbus A320,Luxury,8244,02-05-2025
-Chennai,Jaipur,6E851,Air India,03:13,19:37,20:27,Domestic,Boeing 737,Moderate,9784,11-04-2025
-Nashik,Ahmedabad,G8871,IndiGo,01:34,00:06,01:01,International,Embraer E175,Moderate,7403,16-02-2025
-Mumbai,Jaipur,SG944,Vistara,02:00,04:12,05:02,International,Boeing 787,Moderate,17614,13-03-2025
-Hyderabad,Patna,SG431,Alliance Air,03:21,16:09,18:29,Domestic,Airbus A320,Luxury,7643,02-04-2025
-Nashik,Surat,SG841,IndiGo,01:52,16:05,19:54,Domestic,Boeing 787,Moderate,3046,01-04-2025
-Bangalore,Bhubaneswar,UK735,IndiGo,01:06,19:07,21:10,Domestic,Airbus A320,Cheap,10427,12-04-2025
-Hyderabad,Patna,AI664,Air India,01:05,14:08,15:34,Domestic,Boeing 787,Cheap,4047,02-03-2025
-Udaipur,Goa,AI692,IndiGo,01:59,19:45,21:12,International,Airbus A320,Cheap,17413,12-04-2025
-Pune,Jaipur,UK441,Akasa Air,03:19,04:53,06:19,Domestic,Embraer E175,Moderate,3254,17-03-2025
-Pune,Bhubaneswar,AI259,SpiceJet,01:49,09:21,11:13,Domestic,Embraer E175,Luxury,8760,21-02-2025
-Kolkata,Surat,SG656,SpiceJet,02:56,14:06,16:52,International,Embraer E175,Moderate,10766,13-02-2025
-Mumbai,Delhi,SG172,TruJet,03:25,12:42,13:23,International,Embraer E175,Cheap,4083,24-02-2025
-Udaipur,Patna,SG227,TruJet,01:12,11:48,13:09,International,Bombardier CRJ900,Cheap,5357,20-04-2025
-Chennai,Indore,AI313,Vistara,03:12,20:32,22:39,Domestic,ATR 72,Cheap,19358,21-03-2025
-Lucknow,Bhubaneswar,AI457,Air India,02:19,17:51,20:47,Domestic,Boeing 787,Moderate,19857,11-03-2025
-Delhi,Goa,6.00E+285,Alliance Air,01:32,01:23,03:03,Domestic,Boeing 737,Cheap,13901,08-04-2025
-Hyderabad,Delhi,AI640,Akasa Air,01:19,06:16,09:29,International,Embraer E175,Cheap,19174,26-02-2025
-Kolkata,Chandigarh,G8395,Alliance Air,03:18,00:23,03:23,International,Boeing 787,Moderate,11641,28-02-2025
-Udaipur,Ahmedabad,SG269,Akasa Air,01:02,03:52,04:58,International,Airbus A320,Luxury,8956,04-02-2025
-Pune,Nagpur,SG241,TruJet,02:36,18:57,19:04,Domestic,Boeing 787,Cheap,4132,02-05-2025
-Hyderabad,Delhi,UK888,IndiGo,01:56,19:36,20:51,International,Bombardier CRJ900,Moderate,16880,15-03-2025
-Pune,Bhubaneswar,UK872,Air India,02:52,06:30,08:44,International,ATR 72,Cheap,11370,17-02-2025
-Kolkata,Chandigarh,UK803,GoAir,01:00,00:02,02:57,International,ATR 72,Cheap,19702,23-03-2025
-Kolkata,Indore,G8509,Akasa Air,02:28,09:11,10:20,Domestic,Bombardier CRJ900,Moderate,14480,12-03-2025
-Lucknow,Bhubaneswar,SG414,TruJet,03:56,16:38,17:06,International,Embraer E175,Cheap,9629,16-03-2025
-Mumbai,Goa,6E547,Akasa Air,02:33,11:19,13:35,International,Embraer E175,Cheap,12739,27-03-2025
-Chennai,Bhubaneswar,SG574,SpiceJet,02:32,13:45,16:43,Domestic,Airbus A320,Moderate,16475,24-02-2025
-Nashik,Jaipur,SG855,GoAir,02:57,10:15,11:46,International,Boeing 787,Cheap,12220,20-03-2025
-Chennai,Patna,SG137,GoAir,01:15,21:00,00:54,Domestic,Bombardier CRJ900,Cheap,4072,27-04-2025
-Kolkata,Goa,G8506,TruJet,03:25,06:58,07:06,Domestic,Boeing 787,Cheap,11562,07-04-2025
-Pune,Jaipur,G8622,TruJet,02:48,22:26,00:31,International,Boeing 787,Cheap,3126,02-02-2025
-Chennai,Jaipur,AI501,TruJet,03:14,05:59,08:02,Domestic,Airbus A320,Luxury,14766,28-02-2025
-Nashik,Jaipur,G8722,Akasa Air,01:26,10:54,13:32,Domestic,Boeing 737,Moderate,3330,23-04-2025
-Chennai,Surat,SG582,IndiGo,03:53,02:54,04:25,International,ATR 72,Luxury,12698,27-03-2025
-Mumbai,Patna,UK929,Air India,03:56,08:32,09:35,International,ATR 72,Cheap,16072,28-03-2025
-Pune,Patna,AI646,IndiGo,02:34,05:48,07:55,Domestic,Boeing 787,Luxury,4686,21-02-2025
-Kolkata,Ahmedabad,UK559,IndiGo,02:27,02:52,03:58,International,Airbus A320,Cheap,16850,12-02-2025
-Delhi,Bhubaneswar,AI522,Alliance Air,03:14,13:28,16:10,International,Bombardier CRJ900,Cheap,7493,15-04-2025
-Mumbai,Jaipur,6E718,Air India,03:29,09:00,10:38,Domestic,Boeing 787,Cheap,13505,11-03-2025
-Mumbai,Ahmedabad,UK955,Vistara,02:13,12:01,14:21,International,Bombardier CRJ900,Cheap,11104,08-03-2025
-Hyderabad,Ahmedabad,G8581,Akasa Air,01:13,18:09,20:25,International,Boeing 787,Luxury,13869,14-04-2025
-Nashik,Goa,AI467,Alliance Air,02:11,08:05,09:26,International,Boeing 787,Moderate,17550,01-02-2025
-Hyderabad,Bhubaneswar,G8456,GoAir,03:22,01:38,03:08,Domestic,ATR 72,Cheap,6559,09-02-2025
-Mumbai,Delhi,6E631,Alliance Air,03:32,11:55,13:27,Domestic,ATR 72,Cheap,7291,03-04-2025
-Mumbai,Patna,UK690,Alliance Air,01:42,23:11,01:56,International,Airbus A320,Cheap,17953,21-03-2025
-Bangalore,Indore,AI304,IndiGo,02:17,19:10,22:58,Domestic,Embraer E175,Moderate,8364,20-02-2025
-Delhi,Surat,G8291,IndiGo,02:56,23:59,00:23,Domestic,Embraer E175,Moderate,11561,02-04-2025
-Bangalore,Bhubaneswar,UK252,Akasa Air,01:56,12:38,15:21,International,Boeing 787,Luxury,13824,21-02-2025
-Kolkata,Jaipur,UK944,SpiceJet,03:50,05:20,07:10,International,Airbus A320,Moderate,9274,12-02-2025
-Udaipur,Nagpur,G8350,GoAir,01:52,06:05,08:24,International,Airbus A320,Cheap,10761,11-02-2025
-Chennai,Bhubaneswar,G8692,GoAir,02:01,10:01,11:24,Domestic,Boeing 737,Moderate,6285,02-02-2025
-Bangalore,Surat,SG388,Vistara,01:40,19:24,22:42,Domestic,ATR 72,Luxury,19655,20-03-2025
-Lucknow,Patna,SG718,SpiceJet,03:40,03:10,06:41,Domestic,Airbus A320,Cheap,18062,12-03-2025
-Delhi,Patna,6E980,TruJet,03:18,12:48,15:44,International,Airbus A320,Luxury,19940,03-04-2025
-Udaipur,Surat,AI932,TruJet,02:42,23:55,01:01,International,Embraer E175,Luxury,12791,03-04-2025
-Nashik,Nagpur,UK331,SpiceJet,01:00,14:52,15:33,Domestic,ATR 72,Luxury,11805,18-02-2025
-Udaipur,Goa,UK888,GoAir,03:39,19:57,21:33,Domestic,Bombardier CRJ900,Luxury,19723,11-02-2025
-Pune,Patna,UK980,SpiceJet,02:19,07:24,09:19,Domestic,Boeing 787,Luxury,14675,14-04-2025
-Nashik,Ahmedabad,UK136,Alliance Air,03:50,17:19,18:20,Domestic,Airbus A320,Luxury,16931,07-04-2025
-Hyderabad,Delhi,G8504,Alliance Air,01:35,15:04,17:14,Domestic,Airbus A320,Cheap,4267,25-04-2025
-Bangalore,Indore,UK797,IndiGo,01:00,18:43,21:02,Domestic,Boeing 737,Luxury,14091,05-03-2025
-Mumbai,Bhubaneswar,AI951,Alliance Air,01:44,21:16,00:14,Domestic,Boeing 787,Moderate,14418,25-04-2025
-Delhi,Indore,SG688,GoAir,01:15,00:50,01:24,International,Bombardier CRJ900,Luxury,19367,13-04-2025
-Chennai,Indore,AI908,SpiceJet,02:53,07:25,09:46,Domestic,Boeing 737,Cheap,19297,08-02-2025
-Delhi,Indore,G8886,Alliance Air,02:51,05:03,06:00,International,Bombardier CRJ900,Cheap,5020,06-02-2025
-Kolkata,Chandigarh,6E424,SpiceJet,02:27,13:40,14:38,International,ATR 72,Moderate,19984,11-04-2025
-Bangalore,Nagpur,UK285,Vistara,02:48,08:09,11:44,Domestic,ATR 72,Luxury,14371,26-02-2025
-Nashik,Goa,UK575,Air India,02:51,15:29,18:59,Domestic,ATR 72,Cheap,16535,24-04-2025
-Delhi,Ahmedabad,G8326,GoAir,02:55,05:01,08:18,International,Boeing 787,Cheap,5738,19-03-2025
-Chennai,Nagpur,G8492,SpiceJet,02:45,14:23,15:03,International,Boeing 787,Cheap,9540,12-03-2025
-Hyderabad,Ahmedabad,SG995,Alliance Air,03:50,15:33,18:57,International,Embraer E175,Luxury,18290,26-04-2025
-Lucknow,Bhubaneswar,6E947,Akasa Air,02:44,23:00,02:23,International,Embraer E175,Luxury,14661,12-04-2025
-Chennai,Surat,UK913,Air India,01:52,01:14,03:47,Domestic,ATR 72,Moderate,5456,21-04-2025
-Nashik,Jaipur,6E537,GoAir,02:31,21:05,23:32,International,Embraer E175,Cheap,11667,26-04-2025
-Pune,Patna,G8921,GoAir,01:37,05:46,08:56,International,Boeing 787,Cheap,4286,17-04-2025
-Mumbai,Ahmedabad,SG259,SpiceJet,03:01,03:28,06:25,Domestic,Bombardier CRJ900,Luxury,10652,24-04-2025
-Nashik,Goa,6E568,Air India,03:08,12:01,13:38,International,Bombardier CRJ900,Moderate,4816,21-02-2025
-Chennai,Goa,UK784,GoAir,01:44,23:05,01:18,Domestic,ATR 72,Moderate,19089,22-04-2025
-Kolkata,Jaipur,6E931,IndiGo,02:14,04:54,07:57,Domestic,ATR 72,Moderate,18977,05-02-2025
-Hyderabad,Goa,AI656,IndiGo,02:27,09:15,11:07,International,Airbus A320,Cheap,19476,27-03-2025
-Hyderabad,Bhubaneswar,G8385,Akasa Air,02:05,18:06,21:16,Domestic,Boeing 787,Luxury,4461,27-02-2025
-Kolkata,Goa,SG152,Air India,02:24,10:12,11:47,International,Bombardier CRJ900,Cheap,16134,06-03-2025
-Bangalore,Chandigarh,UK918,Akasa Air,03:29,21:28,22:20,International,Boeing 737,Luxury,10236,20-02-2025
-Bangalore,Jaipur,6E448,SpiceJet,02:07,19:04,21:39,International,ATR 72,Moderate,14241,17-04-2025
-Chennai,Surat,UK493,SpiceJet,02:21,09:57,10:08,International,Airbus A320,Moderate,10905,02-04-2025
-Mumbai,Goa,UK163,GoAir,01:27,07:07,09:47,International,Boeing 737,Luxury,4631,03-03-2025
-Hyderabad,Patna,6E317,SpiceJet,01:52,17:44,20:52,Domestic,Airbus A320,Cheap,11295,24-04-2025
-Lucknow,Chandigarh,AI304,Akasa Air,03:48,00:48,01:37,International,Embraer E175,Luxury,14504,08-03-2025
-Pune,Surat,6E892,Vistara,01:44,15:21,16:34,International,Embraer E175,Cheap,16368,15-04-2025
-Lucknow,Ahmedabad,G8752,GoAir,01:58,13:44,16:03,International,Boeing 737,Luxury,16404,26-02-2025
-Bangalore,Nagpur,G8997,SpiceJet,03:06,14:08,16:17,Domestic,Bombardier CRJ900,Luxury,15638,09-03-2025
-Delhi,Surat,6E464,SpiceJet,03:41,19:02,20:01,International,Boeing 737,Cheap,15107,24-04-2025
-Nashik,Goa,UK492,IndiGo,03:28,14:10,16:09,Domestic,Boeing 737,Moderate,13240,26-02-2025
-Delhi,Nagpur,G8372,IndiGo,02:22,03:40,04:10,International,Boeing 737,Cheap,6450,17-03-2025
-Chennai,Indore,AI209,GoAir,02:50,00:51,03:01,International,Boeing 787,Moderate,18259,04-04-2025
-Bangalore,Chandigarh,G8293,GoAir,03:21,13:52,14:48,International,Airbus A320,Cheap,13985,09-04-2025
-Bangalore,Bhubaneswar,6.00E+285,SpiceJet,02:58,21:22,23:48,International,ATR 72,Moderate,4806,05-03-2025
-Kolkata,Goa,G8531,SpiceJet,01:36,10:18,12:39,Domestic,ATR 72,Cheap,11748,11-02-2025
-Delhi,Goa,UK152,Alliance Air,02:29,16:19,18:20,Domestic,Bombardier CRJ900,Moderate,7487,10-04-2025
-Lucknow,Surat,6E789,Alliance Air,02:35,04:15,07:38,Domestic,Bombardier CRJ900,Cheap,17636,09-03-2025
-Delhi,Jaipur,AI744,Alliance Air,01:12,21:53,22:13,International,Boeing 737,Cheap,3024,31-03-2025
-Bangalore,Goa,AI962,Alliance Air,03:31,16:52,19:58,Domestic,Embraer E175,Moderate,6633,02-04-2025
-Chennai,Nagpur,UK150,Vistara,02:29,13:20,16:43,International,Embraer E175,Moderate,12709,12-04-2025
-Bangalore,Bhubaneswar,UK969,TruJet,01:11,15:17,18:05,Domestic,Bombardier CRJ900,Luxury,12463,18-04-2025
-Delhi,Chandigarh,SG285,IndiGo,03:13,20:22,21:47,Domestic,Bombardier CRJ900,Cheap,6245,18-04-2025
-Lucknow,Nagpur,AI576,Air India,02:48,23:46,00:34,Domestic,Airbus A320,Luxury,17212,13-04-2025
-Udaipur,Jaipur,UK700,Vistara,02:16,13:02,14:31,Domestic,Embraer E175,Luxury,8308,21-02-2025
-Delhi,Goa,G8281,GoAir,02:14,00:28,03:43,Domestic,Boeing 737,Cheap,7426,26-03-2025
-Udaipur,Chandigarh,G8406,SpiceJet,01:58,19:29,21:20,Domestic,Embraer E175,Moderate,13169,03-02-2025
-Hyderabad,Goa,G8791,TruJet,03:24,23:34,00:05,International,Boeing 787,Cheap,17162,03-04-2025
-Udaipur,Ahmedabad,G8915,IndiGo,03:21,09:19,12:05,International,Boeing 737,Moderate,14959,13-03-2025
-Pune,Goa,SG205,IndiGo,02:38,13:24,15:40,International,Bombardier CRJ900,Luxury,14494,02-04-2025
-Pune,Bhubaneswar,UK579,SpiceJet,01:13,11:09,12:57,Domestic,ATR 72,Luxury,3635,18-04-2025
-Udaipur,Indore,G8816,IndiGo,02:28,16:57,19:58,International,ATR 72,Moderate,8004,21-02-2025
-Chennai,Bhubaneswar,SG191,Air India,02:30,13:12,16:47,Domestic,Boeing 787,Moderate,8318,19-03-2025
-Pune,Nagpur,AI452,Air India,02:58,06:56,08:15,International,Embraer E175,Cheap,14294,10-04-2025
-Lucknow,Nagpur,G8277,Air India,03:19,09:05,11:43,International,Airbus A320,Luxury,14465,09-03-2025
-Udaipur,Jaipur,6E338,Air India,01:05,05:13,08:44,International,Boeing 787,Cheap,17460,05-04-2025
-Chennai,Nagpur,SG723,Alliance Air,03:38,12:30,15:04,International,ATR 72,Moderate,8985,02-05-2025
-Udaipur,Surat,SG113,SpiceJet,02:46,00:42,03:35,Domestic,Airbus A320,Luxury,19166,18-04-2025
-Nashik,Bhubaneswar,6E470,Vistara,01:51,18:23,21:45,International,Bombardier CRJ900,Luxury,18359,10-02-2025
-Kolkata,Delhi,SG852,GoAir,01:48,20:49,23:49,International,ATR 72,Cheap,16473,05-04-2025
-Pune,Nagpur,6.00E+276,GoAir,02:57,04:44,05:22,Domestic,Boeing 787,Cheap,9172,26-02-2025
-Hyderabad,Delhi,UK628,GoAir,02:57,13:57,16:35,Domestic,Boeing 787,Moderate,14230,25-04-2025
-Bangalore,Ahmedabad,UK695,SpiceJet,02:15,01:02,03:50,International,Boeing 787,Luxury,6731,28-03-2025
-Bangalore,Jaipur,6E352,Vistara,01:04,06:43,08:04,Domestic,Boeing 737,Luxury,14958,30-03-2025
-Bangalore,Surat,G8187,Air India,01:45,20:27,22:25,Domestic,Bombardier CRJ900,Moderate,19904,18-03-2025
-Hyderabad,Goa,SG919,IndiGo,01:19,08:38,09:50,Domestic,ATR 72,Cheap,7845,28-02-2025
-Lucknow,Ahmedabad,SG468,GoAir,03:00,07:29,09:11,Domestic,Boeing 787,Luxury,9366,18-04-2025
-Bangalore,Indore,SG222,GoAir,02:48,15:14,18:00,International,ATR 72,Cheap,11078,14-04-2025
-Nashik,Bhubaneswar,G8231,IndiGo,03:32,13:04,16:38,Domestic,Boeing 787,Cheap,4406,04-03-2025
-Mumbai,Bhubaneswar,6E566,TruJet,01:47,13:35,16:40,International,Boeing 737,Cheap,15423,17-04-2025
-Mumbai,Indore,SG373,TruJet,02:53,14:42,16:01,International,Boeing 737,Moderate,6594,29-03-2025
-Kolkata,Surat,UK218,Akasa Air,01:41,08:23,11:36,Domestic,Boeing 787,Cheap,8137,19-03-2025
-Udaipur,Bhubaneswar,SG982,Air India,01:16,21:36,22:14,International,Bombardier CRJ900,Luxury,10144,09-03-2025
-Chennai,Goa,6.00E+195,GoAir,03:11,16:07,19:41,Domestic,Boeing 787,Cheap,14742,07-04-2025
-Hyderabad,Goa,AI289,Alliance Air,03:40,09:50,12:20,International,Airbus A320,Luxury,10248,26-04-2025
-Delhi,Surat,G8938,TruJet,02:47,10:39,12:17,Domestic,ATR 72,Cheap,19663,06-04-2025
-Pune,Delhi,6E449,SpiceJet,02:55,01:26,04:28,International,Embraer E175,Moderate,14333,23-03-2025
-Mumbai,Nagpur,SG476,IndiGo,02:45,10:53,13:03,Domestic,Boeing 737,Luxury,11562,06-02-2025
-Pune,Indore,SG901,TruJet,01:12,15:54,16:24,International,Embraer E175,Luxury,19070,05-02-2025
-Lucknow,Ahmedabad,G8839,Akasa Air,01:03,07:30,10:05,Domestic,ATR 72,Luxury,11450,22-04-2025
-Chennai,Ahmedabad,AI122,TruJet,02:54,05:05,06:11,International,ATR 72,Luxury,3352,18-04-2025
-Mumbai,Indore,G8142,Air India,01:03,09:43,12:01,Domestic,Bombardier CRJ900,Moderate,6509,01-05-2025
-Chennai,Indore,SG646,Air India,02:10,11:15,13:11,Domestic,Airbus A320,Moderate,6823,27-04-2025
-Lucknow,Bhubaneswar,6E694,TruJet,03:38,09:47,12:05,International,ATR 72,Cheap,16548,15-03-2025
-Udaipur,Ahmedabad,AI895,SpiceJet,02:45,20:25,21:25,Domestic,Boeing 787,Moderate,14547,25-02-2025
-Hyderabad,Indore,UK815,Alliance Air,02:43,21:34,22:11,International,Embraer E175,Moderate,15119,26-04-2025
-Lucknow,Ahmedabad,AI381,GoAir,01:28,17:04,18:52,International,Boeing 737,Cheap,6970,30-04-2025
-Lucknow,Patna,AI236,Alliance Air,01:55,12:37,13:32,International,Boeing 787,Luxury,4871,01-02-2025
-Delhi,Jaipur,UK818,IndiGo,03:36,17:26,19:33,Domestic,Boeing 787,Cheap,10091,25-02-2025
-Bangalore,Ahmedabad,G8270,IndiGo,01:57,18:49,19:02,Domestic,ATR 72,Cheap,8332,09-04-2025
-Mumbai,Goa,SG912,GoAir,02:36,17:04,19:49,Domestic,ATR 72,Cheap,17607,23-03-2025
-Bangalore,Indore,6.00E+137,IndiGo,01:10,09:30,12:43,International,Boeing 787,Moderate,17044,20-04-2025
-Mumbai,Patna,SG620,IndiGo,01:05,07:02,08:35,Domestic,ATR 72,Luxury,3026,06-04-2025
-Kolkata,Indore,UK504,Air India,02:14,18:23,21:25,Domestic,Bombardier CRJ900,Moderate,4636,12-02-2025
-Pune,Chandigarh,UK749,Alliance Air,03:13,15:48,16:19,Domestic,Boeing 737,Luxury,13886,06-02-2025
-Delhi,Chandigarh,UK811,Vistara,02:24,06:58,07:04,International,Boeing 787,Cheap,14711,01-02-2025
-Delhi,Goa,SG914,IndiGo,03:24,19:06,22:47,International,Boeing 787,Cheap,5543,11-04-2025
-Pune,Indore,SG202,Air India,01:39,06:53,08:34,International,ATR 72,Moderate,15723,21-03-2025
-Nashik,Jaipur,G8800,SpiceJet,01:52,09:55,11:08,International,Boeing 737,Moderate,14210,11-03-2025
-Nashik,Patna,UK635,Vistara,02:11,20:48,23:53,International,Embraer E175,Cheap,14153,06-03-2025
-Udaipur,Ahmedabad,6E751,Vistara,02:07,16:17,19:03,Domestic,ATR 72,Moderate,6587,25-02-2025
-Kolkata,Nagpur,UK735,Akasa Air,01:12,03:48,04:23,Domestic,Airbus A320,Luxury,7751,20-02-2025
-Lucknow,Chandigarh,6E595,SpiceJet,03:59,21:16,00:21,Domestic,Boeing 787,Moderate,10448,01-03-2025
-Delhi,Nagpur,6.00E+281,Air India,01:40,22:17,00:21,International,Boeing 787,Luxury,19893,18-04-2025
-Pune,Patna,AI714,Alliance Air,02:27,00:34,03:22,Domestic,Boeing 737,Cheap,5462,01-04-2025
-Nashik,Patna,G8945,IndiGo,03:53,23:12,02:00,Domestic,Airbus A320,Luxury,17944,03-03-2025
-Mumbai,Patna,6.00E+305,GoAir,03:12,02:38,05:57,International,ATR 72,Moderate,15755,10-02-2025
-Mumbai,Goa,UK891,Akasa Air,03:53,02:20,03:02,Domestic,Boeing 737,Moderate,11893,01-02-2025
-Delhi,Indore,6E682,Alliance Air,02:09,19:43,21:05,Domestic,Boeing 787,Moderate,5675,02-02-2025
-Bangalore,Delhi,SG483,TruJet,03:38,16:39,17:59,International,Airbus A320,Cheap,4340,17-04-2025
-Kolkata,Goa,6E866,TruJet,02:45,14:18,15:25,Domestic,Embraer E175,Luxury,14201,28-03-2025
-Pune,Patna,G8358,Vistara,03:43,08:00,09:20,International,ATR 72,Luxury,5793,27-03-2025
-Nashik,Ahmedabad,G8552,TruJet,01:35,13:21,16:54,International,Airbus A320,Luxury,4642,22-04-2025
-Udaipur,Patna,UK558,Air India,01:33,21:41,22:42,Domestic,Embraer E175,Moderate,18439,04-02-2025
-Udaipur,Ahmedabad,6E817,Alliance Air,01:51,02:21,05:37,International,Boeing 787,Cheap,19591,07-04-2025
-Lucknow,Bhubaneswar,AI923,SpiceJet,02:51,04:23,05:12,International,Bombardier CRJ900,Moderate,12758,12-03-2025
-Bangalore,Goa,6E710,IndiGo,03:47,19:39,21:50,International,Bombardier CRJ900,Moderate,17570,24-03-2025
-Hyderabad,Surat,SG424,Air India,02:15,01:56,03:17,Domestic,Embraer E175,Luxury,6601,19-02-2025
-Bangalore,Goa,UK472,GoAir,02:55,15:02,16:08,International,Bombardier CRJ900,Cheap,10139,12-04-2025
-Chennai,Surat,UK728,Akasa Air,03:38,23:44,02:15,International,Bombardier CRJ900,Luxury,10253,19-03-2025
-Mumbai,Patna,G8620,Air India,03:15,03:33,06:38,International,ATR 72,Moderate,17016,13-02-2025
-Bangalore,Jaipur,SG116,GoAir,01:18,13:50,14:20,International,Boeing 787,Luxury,16391,09-02-2025
-Hyderabad,Nagpur,G8672,SpiceJet,01:32,19:32,20:44,International,Boeing 787,Moderate,11029,10-02-2025
-Mumbai,Chandigarh,AI272,Vistara,02:26,07:12,08:36,International,Bombardier CRJ900,Moderate,5093,26-02-2025
-Nashik,Goa,AI874,Akasa Air,03:09,13:38,16:35,Domestic,ATR 72,Moderate,18603,12-04-2025
-Mumbai,Goa,UK104,GoAir,02:53,03:04,04:18,Domestic,Boeing 737,Cheap,16314,13-02-2025
-Mumbai,Chandigarh,G8481,Alliance Air,02:26,02:59,05:08,International,Boeing 737,Luxury,15137,22-03-2025
-Hyderabad,Chandigarh,AI520,Alliance Air,01:29,14:47,16:27,Domestic,Bombardier CRJ900,Moderate,19685,26-04-2025
-Hyderabad,Surat,G8406,GoAir,02:50,18:46,19:57,International,Embraer E175,Moderate,17774,28-03-2025
-Udaipur,Delhi,G8365,Air India,03:40,11:39,13:38,Domestic,Boeing 737,Cheap,10702,01-04-2025
-Hyderabad,Goa,SG412,Vistara,02:45,18:40,19:44,Domestic,Embraer E175,Luxury,14487,24-03-2025
-Lucknow,Ahmedabad,6E315,Vistara,02:42,08:17,10:23,Domestic,Bombardier CRJ900,Moderate,17432,10-03-2025
-Lucknow,Ahmedabad,G8105,Alliance Air,01:20,20:55,23:00,International,ATR 72,Cheap,3078,16-03-2025
-Chennai,Nagpur,AI108,Vistara,03:19,01:59,03:15,International,Bombardier CRJ900,Cheap,17142,17-02-2025
-Delhi,Goa,6.00E+257,SpiceJet,03:37,16:17,17:47,International,Boeing 737,Moderate,7547,14-02-2025
-Mumbai,Goa,AI638,Alliance Air,03:31,10:31,13:19,International,Boeing 787,Luxury,8548,08-02-2025
-Delhi,Jaipur,G8533,TruJet,01:28,20:04,21:18,International,Airbus A320,Moderate,18343,22-04-2025
-Nashik,Delhi,SG923,Air India,03:32,22:57,00:00,International,Boeing 737,Moderate,12485,17-04-2025
-Hyderabad,Surat,UK370,TruJet,03:29,14:09,16:49,Domestic,Boeing 737,Moderate,14350,21-03-2025
-Pune,Nagpur,AI633,Vistara,03:15,13:06,16:41,Domestic,Embraer E175,Moderate,15954,10-04-2025
-Nashik,Indore,UK725,SpiceJet,03:45,14:18,16:30,Domestic,Boeing 787,Moderate,7901,17-03-2025
-Hyderabad,Ahmedabad,UK960,Air India,03:39,17:02,20:04,International,Bombardier CRJ900,Cheap,5491,12-02-2025
-Pune,Goa,UK440,TruJet,01:21,16:51,17:02,Domestic,ATR 72,Luxury,16848,07-02-2025
-Pune,Indore,SG695,Vistara,02:51,16:27,18:40,Domestic,ATR 72,Luxury,4540,13-03-2025
-Nashik,Nagpur,6E416,TruJet,03:06,06:40,08:41,International,Boeing 787,Moderate,3787,08-02-2025
-Udaipur,Indore,AI643,IndiGo,03:29,19:57,22:37,Domestic,Bombardier CRJ900,Luxury,14633,08-03-2025
-Delhi,Surat,SG101,SpiceJet,01:44,05:23,06:58,Domestic,Bombardier CRJ900,Moderate,10621,27-03-2025
-Kolkata,Patna,SG388,TruJet,02:10,03:45,05:20,Domestic,Embraer E175,Moderate,19035,28-04-2025
-Delhi,Chandigarh,UK626,Air India,01:52,03:28,05:43,Domestic,Boeing 737,Luxury,7759,17-04-2025
-Nashik,Goa,6E720,GoAir,03:15,20:44,22:19,Domestic,Embraer E175,Luxury,14503,06-04-2025
-Lucknow,Patna,SG807,Akasa Air,03:07,18:57,20:18,Domestic,ATR 72,Moderate,5974,05-03-2025
-Udaipur,Delhi,UK517,GoAir,01:27,15:27,17:21,International,Bombardier CRJ900,Cheap,12254,15-04-2025
-Bangalore,Indore,SG337,IndiGo,03:11,05:33,06:38,International,Airbus A320,Moderate,18744,26-04-2025
-Mumbai,Indore,6E505,SpiceJet,02:28,21:11,00:53,Domestic,Boeing 787,Cheap,19901,06-04-2025
-Bangalore,Indore,G8696,Akasa Air,02:54,17:01,18:19,International,ATR 72,Moderate,5083,07-02-2025
-Pune,Delhi,AI680,GoAir,03:36,18:08,20:38,Domestic,Boeing 737,Luxury,3153,08-03-2025
-Delhi,Indore,UK974,SpiceJet,03:04,11:21,13:12,Domestic,Bombardier CRJ900,Luxury,18086,19-03-2025
-Mumbai,Nagpur,G8191,TruJet,01:14,13:46,15:50,Domestic,Embraer E175,Cheap,18285,01-03-2025
-Pune,Delhi,AI172,IndiGo,03:50,03:23,05:09,International,Airbus A320,Cheap,8147,11-03-2025
-Delhi,Indore,SG852,Akasa Air,02:22,07:45,10:37,International,Bombardier CRJ900,Moderate,4501,06-03-2025
-Pune,Nagpur,UK861,IndiGo,03:19,14:47,17:33,Domestic,Embraer E175,Moderate,9502,05-04-2025
-Hyderabad,Ahmedabad,6.00E+244,GoAir,03:39,12:14,14:12,International,ATR 72,Moderate,14320,04-04-2025
-Pune,Bhubaneswar,SG143,TruJet,03:31,07:03,08:51,Domestic,Boeing 787,Cheap,4867,11-04-2025
-Lucknow,Patna,6E714,Vistara,01:50,11:04,14:39,International,Airbus A320,Moderate,3179,22-02-2025
-Nashik,Nagpur,AI485,Vistara,01:39,00:57,01:53,International,Boeing 787,Luxury,7374,13-02-2025
-Bangalore,Ahmedabad,G8974,TruJet,02:50,04:41,06:26,Domestic,Airbus A320,Luxury,19558,08-02-2025
-Pune,Ahmedabad,AI441,Air India,02:01,23:40,00:18,International,ATR 72,Moderate,11599,17-04-2025
-Lucknow,Nagpur,G8772,SpiceJet,03:56,12:25,15:47,International,Boeing 787,Luxury,9567,13-03-2025
-Delhi,Chandigarh,6E828,GoAir,01:02,23:15,01:25,Domestic,Bombardier CRJ900,Moderate,7212,28-03-2025
-Mumbai,Delhi,6.00E+173,Akasa Air,01:56,01:34,02:49,Domestic,Embraer E175,Luxury,7347,12-04-2025
-Udaipur,Delhi,AI749,Vistara,02:47,08:57,09:50,International,Airbus A320,Moderate,17599,18-04-2025
-Pune,Indore,G8683,SpiceJet,01:06,01:38,03:10,Domestic,ATR 72,Cheap,7184,05-04-2025
-Nashik,Goa,G8698,Vistara,01:52,08:12,11:34,Domestic,ATR 72,Moderate,8903,14-04-2025
-Kolkata,Indore,G8657,SpiceJet,03:49,02:27,03:19,Domestic,Airbus A320,Moderate,6576,29-03-2025
-Chennai,Nagpur,UK807,SpiceJet,02:45,18:24,19:15,Domestic,Boeing 787,Luxury,8930,01-03-2025
-Hyderabad,Surat,SG184,GoAir,03:15,18:51,20:42,International,Boeing 737,Cheap,9952,13-02-2025
-Bangalore,Nagpur,AI266,GoAir,02:22,21:21,23:29,Domestic,Embraer E175,Luxury,4372,09-02-2025
-Hyderabad,Indore,UK347,TruJet,02:30,03:38,05:38,Domestic,Boeing 787,Luxury,6784,02-03-2025
-Udaipur,Patna,SG938,IndiGo,02:21,08:15,11:38,International,Boeing 787,Moderate,6909,22-03-2025
-Chennai,Goa,6E990,Vistara,03:50,10:33,12:32,International,Bombardier CRJ900,Luxury,7865,15-02-2025
-Mumbai,Goa,6.00E+271,TruJet,03:24,01:10,03:30,International,Airbus A320,Luxury,10125,29-04-2025
-Nashik,Nagpur,UK399,TruJet,02:15,20:44,22:45,Domestic,Bombardier CRJ900,Luxury,8514,03-02-2025
-Hyderabad,Ahmedabad,SG799,Air India,03:43,06:30,08:51,Domestic,Boeing 737,Luxury,13555,26-04-2025
-Mumbai,Delhi,SG708,Vistara,02:37,21:13,22:12,Domestic,Bombardier CRJ900,Cheap,6015,02-03-2025
-Udaipur,Goa,UK187,Air India,01:14,06:49,09:47,Domestic,Bombardier CRJ900,Cheap,7418,15-02-2025
-Delhi,Bhubaneswar,6E776,Akasa Air,01:26,08:10,09:46,International,Bombardier CRJ900,Moderate,12908,09-02-2025
-Pune,Bhubaneswar,G8152,GoAir,03:11,14:05,16:58,Domestic,Embraer E175,Moderate,4361,21-04-2025
-Lucknow,Surat,SG962,GoAir,02:36,23:29,02:34,International,Boeing 787,Moderate,10222,02-04-2025
-Udaipur,Bhubaneswar,SG437,Alliance Air,03:28,09:56,10:41,International,Embraer E175,Luxury,15835,19-02-2025
-Hyderabad,Jaipur,6.00E+247,Akasa Air,02:11,17:11,20:14,Domestic,Embraer E175,Moderate,8794,01-05-2025
-Lucknow,Chandigarh,AI641,Vistara,01:01,08:25,09:58,International,Boeing 737,Luxury,10903,25-02-2025
-Mumbai,Goa,SG825,GoAir,01:31,08:47,09:01,International,ATR 72,Luxury,7159,04-03-2025
-Udaipur,Surat,6E556,GoAir,01:05,13:53,16:26,International,Airbus A320,Cheap,19516,14-02-2025
-Pune,Patna,SG102,Vistara,02:53,14:09,16:59,International,Airbus A320,Cheap,8536,06-02-2025
-Bangalore,Patna,SG395,TruJet,02:56,03:45,04:18,Domestic,Bombardier CRJ900,Cheap,3523,08-03-2025
-Hyderabad,Ahmedabad,6E528,IndiGo,03:06,09:44,11:27,Domestic,Bombardier CRJ900,Cheap,11456,10-04-2025
-Lucknow,Jaipur,6.00E+253,SpiceJet,02:46,16:50,17:41,Domestic,Bombardier CRJ900,Cheap,10663,10-03-2025
-Chennai,Surat,UK785,Air India,02:16,00:27,02:53,Domestic,Boeing 787,Luxury,8123,09-03-2025
-Chennai,Ahmedabad,SG861,IndiGo,02:00,11:55,14:56,International,Bombardier CRJ900,Moderate,8428,09-03-2025
-Lucknow,Nagpur,AI231,Vistara,03:24,20:52,22:45,International,Boeing 737,Luxury,15825,23-02-2025
-Udaipur,Chandigarh,UK704,GoAir,01:59,22:00,23:52,International,Boeing 787,Cheap,5421,05-04-2025
-Mumbai,Chandigarh,SG363,Alliance Air,01:32,00:18,01:25,Domestic,Bombardier CRJ900,Luxury,7679,03-02-2025
-Chennai,Delhi,UK960,Air India,03:40,06:32,09:05,Domestic,Bombardier CRJ900,Luxury,13527,21-03-2025
-Pune,Jaipur,UK635,Vistara,03:58,13:44,14:22,Domestic,Embraer E175,Moderate,12666,30-03-2025
-Bangalore,Surat,6E855,Air India,03:48,07:52,08:14,Domestic,Boeing 737,Cheap,9212,15-04-2025
-Pune,Ahmedabad,SG508,Akasa Air,02:56,19:11,22:45,International,Bombardier CRJ900,Cheap,12037,20-02-2025
-Nashik,Patna,SG907,GoAir,01:04,13:24,14:24,Domestic,Airbus A320,Cheap,9287,15-03-2025
-Hyderabad,Ahmedabad,UK196,GoAir,03:49,14:44,17:22,Domestic,Boeing 737,Moderate,5937,29-04-2025
-Delhi,Ahmedabad,SG172,IndiGo,01:38,23:48,01:20,Domestic,ATR 72,Cheap,16031,03-04-2025
-Pune,Nagpur,G8342,SpiceJet,03:45,18:46,20:08,International,Embraer E175,Luxury,5028,23-03-2025
-Lucknow,Bhubaneswar,G8769,TruJet,02:28,10:18,12:13,International,Boeing 787,Luxury,6650,12-02-2025
-Udaipur,Chandigarh,G8331,IndiGo,03:08,19:04,21:53,International,Embraer E175,Cheap,19364,18-03-2025
-Hyderabad,Surat,6E314,Vistara,02:56,13:33,16:25,Domestic,Airbus A320,Moderate,9277,23-03-2025
-Lucknow,Jaipur,AI413,Air India,01:19,01:23,04:50,International,Bombardier CRJ900,Moderate,5437,31-03-2025
-Hyderabad,Goa,G8793,IndiGo,01:30,00:29,03:12,International,ATR 72,Moderate,7001,18-02-2025
-Bangalore,Surat,G8958,GoAir,01:38,12:37,13:04,International,Bombardier CRJ900,Cheap,19048,10-04-2025
-Hyderabad,Bhubaneswar,AI367,IndiGo,03:08,22:34,00:29,International,Boeing 787,Cheap,17892,31-03-2025
-Nashik,Nagpur,G8346,IndiGo,03:41,11:25,13:04,Domestic,Airbus A320,Luxury,8591,08-04-2025
-Lucknow,Goa,6E687,Vistara,02:09,02:39,05:14,International,Bombardier CRJ900,Moderate,9571,25-04-2025
-Udaipur,Goa,AI135,SpiceJet,02:13,10:09,11:51,Domestic,Airbus A320,Moderate,12362,29-03-2025
-Hyderabad,Chandigarh,AI907,IndiGo,03:33,17:37,19:53,International,Airbus A320,Moderate,14689,20-04-2025
-Hyderabad,Goa,SG558,Akasa Air,02:27,05:00,06:06,Domestic,Boeing 737,Luxury,17294,01-02-2025
-Kolkata,Delhi,6.00E+222,Alliance Air,02:31,10:07,13:51,Domestic,Embraer E175,Luxury,11180,14-03-2025
-Chennai,Goa,6.00E+269,TruJet,01:18,07:58,10:43,Domestic,Airbus A320,Luxury,8746,23-04-2025
-Pune,Jaipur,G8118,Alliance Air,02:09,10:48,13:00,Domestic,Boeing 737,Cheap,5983,05-03-2025
-Nashik,Surat,AI759,Akasa Air,01:39,03:02,05:14,Domestic,Bombardier CRJ900,Luxury,11088,01-05-2025
-Lucknow,Ahmedabad,AI130,IndiGo,01:27,11:44,12:11,Domestic,Airbus A320,Cheap,12077,13-04-2025
-Hyderabad,Delhi,G8798,Akasa Air,03:55,12:50,15:33,Domestic,Boeing 787,Cheap,8793,22-03-2025
-Pune,Surat,6E779,TruJet,03:21,16:24,19:24,International,Boeing 787,Cheap,19252,12-03-2025
-Lucknow,Chandigarh,6.00E+206,IndiGo,01:51,03:36,05:30,International,Bombardier CRJ900,Luxury,11805,24-03-2025
-Lucknow,Ahmedabad,G8502,Vistara,01:42,15:55,17:51,International,Embraer E175,Luxury,11266,18-04-2025
-Chennai,Nagpur,AI850,SpiceJet,03:38,03:43,04:37,Domestic,ATR 72,Moderate,3245,30-04-2025
-Pune,Ahmedabad,SG492,GoAir,01:43,07:03,08:37,International,Embraer E175,Moderate,19930,04-03-2025
-Delhi,Patna,6E735,Akasa Air,01:33,20:42,22:51,International,Airbus A320,Moderate,6071,12-04-2025
-Hyderabad,Surat,AI653,TruJet,01:24,01:55,03:19,Domestic,ATR 72,Moderate,15678,05-03-2025
-Delhi,Indore,UK201,IndiGo,03:19,18:49,19:31,International,ATR 72,Cheap,18910,07-04-2025
-Lucknow,Patna,AI917,SpiceJet,03:10,09:45,10:45,Domestic,Airbus A320,Moderate,10280,09-03-2025
-Nashik,Bhubaneswar,G8685,Air India,03:01,03:54,05:15,Domestic,Embraer E175,Moderate,5084,18-04-2025
-Chennai,Jaipur,AI838,Alliance Air,02:51,04:25,05:07,International,Embraer E175,Moderate,5054,20-03-2025
-Pune,Patna,AI538,Alliance Air,03:19,09:26,11:51,Domestic,Airbus A320,Luxury,14807,26-04-2025
-Hyderabad,Goa,G8730,IndiGo,03:36,09:39,11:48,Domestic,Embraer E175,Moderate,18891,05-02-2025
-Udaipur,Ahmedabad,G8424,Air India,03:42,01:05,03:07,International,Embraer E175,Luxury,10464,07-02-2025
-Udaipur,Nagpur,UK469,TruJet,02:14,10:20,13:08,International,Boeing 787,Cheap,12536,09-02-2025
-Nashik,Jaipur,G8590,Akasa Air,01:44,05:35,07:05,International,Bombardier CRJ900,Cheap,7711,13-04-2025
-Mumbai,Chandigarh,AI813,SpiceJet,02:18,20:05,22:44,International,Boeing 787,Moderate,9466,04-03-2025
-Hyderabad,Patna,6.00E+148,SpiceJet,01:10,20:52,21:03,International,Boeing 737,Moderate,9334,01-03-2025
-Hyderabad,Delhi,6.00E+260,Akasa Air,02:34,06:33,07:30,Domestic,Bombardier CRJ900,Luxury,12645,22-04-2025
-Mumbai,Chandigarh,UK227,GoAir,03:38,05:17,07:15,Domestic,Boeing 787,Cheap,14569,02-05-2025
-Bangalore,Ahmedabad,SG791,GoAir,02:26,20:03,22:58,International,Bombardier CRJ900,Moderate,19271,04-02-2025
-Nashik,Bhubaneswar,SG637,Vistara,03:08,07:39,09:21,International,ATR 72,Moderate,10013,25-03-2025
-Hyderabad,Nagpur,6.00E+202,Alliance Air,01:29,09:41,10:55,International,Boeing 787,Cheap,6092,18-03-2025
-Chennai,Delhi,6E574,GoAir,02:51,01:02,04:13,International,Boeing 737,Cheap,4614,13-03-2025
-Kolkata,Surat,6E370,Vistara,01:45,21:08,00:15,Domestic,Airbus A320,Luxury,17978,25-04-2025
-Lucknow,Delhi,6.00E+162,Akasa Air,01:26,10:37,11:59,International,Bombardier CRJ900,Cheap,4866,21-02-2025
-Hyderabad,Indore,G8680,GoAir,01:11,18:45,20:45,International,Boeing 737,Luxury,15925,08-03-2025
-Hyderabad,Nagpur,SG134,IndiGo,03:09,17:55,19:13,Domestic,Boeing 737,Moderate,12820,21-03-2025
-Lucknow,Ahmedabad,G8581,SpiceJet,02:55,04:55,05:39,Domestic,Boeing 737,Luxury,10918,10-02-2025
-Lucknow,Surat,G8618,Akasa Air,01:14,19:40,20:38,International,Bombardier CRJ900,Moderate,15726,01-04-2025
-Pune,Bhubaneswar,AI984,TruJet,01:59,18:51,19:58,International,Embraer E175,Cheap,15366,11-03-2025
-Chennai,Bhubaneswar,SG476,IndiGo,03:53,03:15,05:45,Domestic,Bombardier CRJ900,Moderate,5969,29-03-2025
-Lucknow,Ahmedabad,SG343,Vistara,02:32,06:29,07:32,Domestic,ATR 72,Luxury,19055,21-03-2025
-Pune,Chandigarh,AI280,GoAir,03:58,14:59,16:05,International,ATR 72,Moderate,8964,20-03-2025
-Udaipur,Nagpur,G8937,Vistara,03:38,02:42,03:48,Domestic,Boeing 737,Moderate,17706,23-02-2025
-Hyderabad,Delhi,AI660,GoAir,03:33,23:38,01:41,Domestic,Boeing 787,Moderate,3330,11-02-2025
-Kolkata,Patna,SG719,Vistara,03:06,03:42,06:53,Domestic,Embraer E175,Luxury,9489,17-02-2025
-Hyderabad,Goa,G8724,Akasa Air,03:24,21:46,23:06,Domestic,Airbus A320,Luxury,6464,01-02-2025
-Udaipur,Jaipur,UK197,GoAir,03:36,12:45,15:01,International,Embraer E175,Cheap,8573,06-02-2025
-Kolkata,Delhi,SG515,IndiGo,01:25,09:30,12:47,International,Airbus A320,Moderate,10749,07-03-2025
-Chennai,Ahmedabad,AI487,SpiceJet,03:58,07:18,10:22,Domestic,ATR 72,Luxury,9309,18-03-2025
-Mumbai,Delhi,6E735,TruJet,03:33,05:12,07:50,International,ATR 72,Cheap,18637,07-03-2025
-Pune,Indore,SG373,Alliance Air,03:35,06:19,09:39,Domestic,Airbus A320,Moderate,7239,21-04-2025
-Pune,Nagpur,6E406,IndiGo,01:44,00:38,03:59,International,ATR 72,Cheap,19628,29-03-2025
-Udaipur,Delhi,6E808,GoAir,02:50,12:48,15:16,Domestic,Bombardier CRJ900,Moderate,13148,01-05-2025
-Delhi,Goa,6E940,Air India,02:18,07:52,10:24,Domestic,Airbus A320,Moderate,6530,14-04-2025
-Nashik,Jaipur,SG130,SpiceJet,01:34,17:11,20:34,International,ATR 72,Cheap,10228,03-04-2025
-Delhi,Patna,SG811,Akasa Air,01:52,05:04,06:54,International,Bombardier CRJ900,Cheap,12918,10-03-2025
-Hyderabad,Jaipur,AI754,Air India,02:46,10:30,13:43,International,Embraer E175,Cheap,6828,04-04-2025
-Delhi,Nagpur,SG301,TruJet,01:50,08:22,09:42,Domestic,ATR 72,Cheap,19883,22-03-2025
-Nashik,Nagpur,UK760,SpiceJet,01:41,20:45,23:46,International,Boeing 787,Cheap,4844,17-02-2025
-Mumbai,Jaipur,G8251,TruJet,03:36,15:30,16:53,International,ATR 72,Cheap,10256,27-02-2025
-Hyderabad,Jaipur,UK588,Air India,02:20,20:16,21:22,Domestic,Embraer E175,Luxury,8369,26-04-2025
-Pune,Patna,SG789,Vistara,01:55,23:31,00:30,International,Boeing 787,Moderate,6830,23-04-2025
-Bangalore,Bhubaneswar,G8744,TruJet,03:14,20:52,23:19,International,ATR 72,Moderate,16014,15-04-2025
-Delhi,Bhubaneswar,G8859,Air India,03:55,01:23,04:43,Domestic,Boeing 737,Moderate,17145,02-04-2025
-Udaipur,Surat,SG535,Vistara,02:51,19:56,20:52,International,Boeing 737,Moderate,12531,14-03-2025
-Mumbai,Jaipur,6E334,IndiGo,01:37,03:14,04:38,Domestic,Embraer E175,Luxury,19631,25-04-2025
-Nashik,Nagpur,6E846,Akasa Air,01:24,16:57,18:13,Domestic,Boeing 787,Cheap,13847,15-04-2025
-Kolkata,Bhubaneswar,AI639,IndiGo,01:33,20:05,23:49,Domestic,ATR 72,Moderate,3816,30-04-2025
-Mumbai,Nagpur,SG758,SpiceJet,03:58,12:12,15:35,International,Boeing 787,Moderate,17677,02-04-2025
-Kolkata,Ahmedabad,UK130,IndiGo,02:22,17:40,20:45,Domestic,ATR 72,Moderate,18286,02-04-2025
-Bangalore,Nagpur,SG444,SpiceJet,03:21,16:55,19:57,Domestic,Embraer E175,Moderate,6021,13-03-2025
-Mumbai,Indore,6E612,TruJet,03:27,11:38,14:13,International,Boeing 787,Moderate,4418,05-02-2025
-Pune,Chandigarh,UK607,Alliance Air,03:48,20:55,22:31,Domestic,Boeing 787,Luxury,11403,31-03-2025
-Mumbai,Nagpur,SG635,Vistara,01:43,16:08,17:19,International,Bombardier CRJ900,Moderate,11102,27-03-2025
-Delhi,Surat,AI372,Alliance Air,01:18,06:08,07:33,International,Bombardier CRJ900,Luxury,18187,14-04-2025
-Hyderabad,Goa,AI335,IndiGo,01:27,21:29,23:36,International,Embraer E175,Luxury,8264,23-03-2025
-Udaipur,Ahmedabad,AI802,SpiceJet,01:27,01:49,02:51,Domestic,Airbus A320,Moderate,5032,04-04-2025
-Nashik,Chandigarh,SG467,Air India,01:31,10:28,13:19,Domestic,Bombardier CRJ900,Cheap,5361,27-03-2025
-Nashik,Jaipur,6E736,IndiGo,03:41,10:54,11:08,International,ATR 72,Cheap,17728,21-02-2025
-Pune,Surat,SG838,Alliance Air,02:31,00:57,01:55,Domestic,ATR 72,Luxury,9157,20-04-2025
-Udaipur,Nagpur,UK247,Akasa Air,02:32,22:54,23:30,International,Boeing 737,Luxury,18357,19-04-2025
-Nashik,Patna,UK419,SpiceJet,01:34,22:06,23:06,Domestic,Embraer E175,Luxury,10972,07-03-2025
-Nashik,Nagpur,AI862,TruJet,03:37,12:15,13:09,International,ATR 72,Cheap,9790,14-03-2025
-Bangalore,Bhubaneswar,6.00E+273,Vistara,03:36,08:06,09:51,International,Embraer E175,Moderate,10329,08-03-2025
-Chennai,Delhi,6E913,Akasa Air,03:43,07:47,09:42,Domestic,Boeing 787,Moderate,4139,12-04-2025
-Nashik,Bhubaneswar,UK292,IndiGo,02:22,04:09,06:44,International,Bombardier CRJ900,Luxury,18676,06-02-2025
-Chennai,Ahmedabad,SG433,SpiceJet,02:11,07:31,10:36,International,Bombardier CRJ900,Luxury,14678,09-03-2025
-Kolkata,Surat,AI767,Akasa Air,02:52,18:23,21:32,International,Embraer E175,Luxury,15352,17-02-2025
-Hyderabad,Chandigarh,G8854,SpiceJet,03:59,17:54,20:40,Domestic,Airbus A320,Luxury,8824,29-03-2025
-Mumbai,Surat,6.00E+285,Akasa Air,02:15,15:27,17:17,International,Embraer E175,Moderate,17619,19-04-2025
-Pune,Ahmedabad,6.00E+219,Alliance Air,03:30,21:27,22:13,Domestic,Airbus A320,Moderate,8843,28-04-2025
-Nashik,Chandigarh,6E362,Air India,01:22,09:50,11:59,International,Bombardier CRJ900,Luxury,5604,12-04-2025
-Lucknow,Nagpur,6E783,Akasa Air,02:05,18:14,20:55,International,Airbus A320,Moderate,7617,11-03-2025
-Udaipur,Bhubaneswar,G8617,Akasa Air,02:21,23:31,01:35,Domestic,Boeing 737,Luxury,13768,09-03-2025
-Pune,Chandigarh,6.00E+217,TruJet,03:10,04:29,05:16,International,Boeing 737,Moderate,4229,23-03-2025
-Delhi,Nagpur,SG558,Vistara,03:09,02:11,04:05,International,Bombardier CRJ900,Cheap,16507,02-05-2025
-Chennai,Indore,SG168,GoAir,03:30,05:57,07:14,Domestic,Boeing 787,Cheap,5293,03-03-2025
-Mumbai,Indore,SG897,Air India,03:12,01:32,02:47,International,Boeing 787,Luxury,4261,05-03-2025
-Kolkata,Goa,6.00E+295,Air India,03:46,18:29,21:43,International,Bombardier CRJ900,Luxury,3359,07-04-2025
-Lucknow,Patna,AI438,Vistara,03:04,22:40,00:52,International,Bombardier CRJ900,Luxury,10681,30-04-2025
-Hyderabad,Indore,AI845,SpiceJet,03:42,09:27,12:26,International,Bombardier CRJ900,Moderate,18727,04-04-2025
-Nashik,Goa,AI850,Alliance Air,03:28,01:49,03:50,Domestic,Embraer E175,Luxury,18438,24-02-2025
-Mumbai,Indore,G8600,Vistara,02:42,13:45,14:31,Domestic,Boeing 787,Moderate,5385,15-03-2025
-Lucknow,Nagpur,UK895,Alliance Air,02:18,16:38,18:08,International,Bombardier CRJ900,Moderate,6923,28-02-2025
-Chennai,Goa,AI285,Air India,03:19,08:29,09:45,Domestic,ATR 72,Cheap,10533,22-04-2025
-Lucknow,Nagpur,UK390,Akasa Air,01:58,12:51,15:32,International,Airbus A320,Cheap,9380,17-03-2025
-Pune,Patna,UK464,Akasa Air,02:09,23:23,01:43,International,Boeing 787,Moderate,5522,01-04-2025
-Chennai,Ahmedabad,G8858,IndiGo,03:36,00:18,03:30,International,Bombardier CRJ900,Cheap,9606,27-03-2025
-Lucknow,Patna,UK221,SpiceJet,03:09,02:36,04:59,Domestic,Airbus A320,Luxury,8420,13-03-2025
-Bangalore,Delhi,AI427,Air India,03:14,17:18,20:49,Domestic,Airbus A320,Luxury,10877,02-03-2025
-Chennai,Patna,6E794,Akasa Air,02:33,22:02,01:14,Domestic,ATR 72,Moderate,9338,17-03-2025
-Pune,Nagpur,UK803,SpiceJet,01:27,02:39,05:29,Domestic,Boeing 737,Luxury,5233,04-03-2025
-Mumbai,Bhubaneswar,6E892,SpiceJet,01:05,15:55,18:13,Domestic,Boeing 737,Cheap,12400,26-04-2025
-Lucknow,Indore,SG433,Alliance Air,01:14,23:13,02:26,International,Boeing 787,Luxury,17458,24-04-2025
-Delhi,Patna,AI697,Akasa Air,02:59,10:29,12:44,Domestic,Boeing 737,Cheap,6380,06-02-2025
-Hyderabad,Bhubaneswar,SG581,Vistara,03:25,10:33,12:39,Domestic,Boeing 737,Moderate,16464,18-02-2025
-Mumbai,Delhi,AI564,TruJet,03:54,19:40,21:40,Domestic,Bombardier CRJ900,Cheap,15533,23-02-2025
-Mumbai,Goa,G8831,Vistara,03:51,00:30,03:57,International,Boeing 737,Cheap,11369,05-02-2025
-Bangalore,Patna,AI719,Air India,03:02,20:08,22:10,International,Bombardier CRJ900,Moderate,15720,26-03-2025
-Nashik,Patna,G8435,Air India,03:34,07:44,09:12,International,ATR 72,Luxury,15652,18-03-2025
-Pune,Goa,6E391,Vistara,01:58,13:56,16:40,Domestic,Airbus A320,Luxury,14084,18-03-2025
-Udaipur,Chandigarh,SG325,IndiGo,01:43,00:48,02:59,Domestic,Bombardier CRJ900,Moderate,11815,10-02-2025
-Mumbai,Bhubaneswar,SG795,Akasa Air,03:48,17:00,18:46,Domestic,Bombardier CRJ900,Cheap,17239,31-03-2025
-Bangalore,Surat,AI969,SpiceJet,02:07,11:26,13:04,Domestic,ATR 72,Luxury,3842,26-03-2025
-Delhi,Patna,SG446,IndiGo,01:03,10:40,13:14,International,Boeing 787,Moderate,12811,22-02-2025
-Nashik,Ahmedabad,SG994,Akasa Air,03:03,07:14,09:11,Domestic,ATR 72,Luxury,10780,21-04-2025
-Mumbai,Surat,G8343,GoAir,03:19,17:22,20:48,International,Boeing 737,Cheap,5006,03-02-2025
-Lucknow,Jaipur,AI176,Alliance Air,03:40,16:04,19:15,Domestic,Boeing 787,Luxury,13151,12-04-2025
-Lucknow,Bhubaneswar,G8209,Air India,02:17,05:04,07:54,Domestic,Boeing 737,Cheap,8151,28-02-2025
-Chennai,Jaipur,6.00E+138,Akasa Air,03:37,20:47,23:05,International,Embraer E175,Luxury,6991,18-03-2025
-Bangalore,Patna,6E581,SpiceJet,01:01,02:12,03:00,Domestic,ATR 72,Cheap,18284,07-02-2025
-Hyderabad,Delhi,SG219,TruJet,02:54,16:17,17:06,International,ATR 72,Moderate,5605,16-02-2025
-Kolkata,Indore,6E743,SpiceJet,03:33,07:16,08:54,International,Bombardier CRJ900,Moderate,16143,07-03-2025
-Hyderabad,Jaipur,SG833,IndiGo,01:28,00:30,03:19,Domestic,Boeing 737,Cheap,6659,21-04-2025
-Kolkata,Chandigarh,AI962,IndiGo,03:59,18:40,19:21,International,Boeing 787,Moderate,17484,17-03-2025
-Bangalore,Ahmedabad,6E572,Alliance Air,03:41,06:47,07:47,International,ATR 72,Moderate,19282,27-02-2025
-Hyderabad,Nagpur,G8999,IndiGo,01:59,21:25,23:30,Domestic,Boeing 737,Moderate,15174,07-03-2025
-Lucknow,Surat,G8943,GoAir,03:59,20:54,21:18,Domestic,Airbus A320,Moderate,9084,01-03-2025
-Nashik,Patna,SG537,Akasa Air,02:00,21:07,00:40,International,Boeing 787,Luxury,18392,15-02-2025
+Jalgaon,Chennai,AI878,Vistara,03:59,03:53,16:52,Domestic,Airbus A320,Moderate,17728,17-12-2025
+Jalgaon,Hyderabad,AI166,SpiceJet,02:18,17:43,06:32,Domestic,Embraer E175,Economy,16547,15-09-2025
+Mumbai,Indore,AI493,SpiceJet,01:20,17:26,00:11,International,Airbus A320,Economy,18899,02-11-2025
+Pune,Indore,AI543,SpiceJet,02:41,14:51,13:10,Domestic,Embraer E175,Economy,5064,10-09-2025
+Nashik,Vadodara,AI167,IndiGo,02:22,12:59,02:09,Domestic,Boeing 737,Economy,8083,31-07-2025
+Solapur,Indore,AI694,Vistara,03:51,09:39,05:07,Domestic,Boeing 737,Luxury,12081,04-04-2025
+Nashik,Bhopal,AI471,Vistara,03:57,18:48,05:16,International,ATR 72,Luxury,18053,02-04-2025
+Jalgaon,Udaipur,AI592,IndiGo,02:29,18:18,03:31,Domestic,Embraer E175,Luxury,11949,14-12-2025
+Amravati,Jaipur,AI634,IndiGo,03:19,11:55,15:29,Domestic,Embraer E175,Luxury,10775,09-08-2025
+Solapur,Bhopal,AI297,Vistara,01:13,16:38,15:36,International,ATR 72,Moderate,11838,01-09-2025
+Pune,Jaipur,AI343,Vistara,01:00,11:06,07:05,International,Embraer E175,Moderate,15183,03-03-2025
+Amravati,Udaipur,AI398,TruJet,03:54,12:50,20:58,Domestic,Embraer E175,Luxury,7692,21-12-2025
+Kolhapur,Goa,AI128,TruJet,02:45,20:20,06:50,Domestic,Airbus A320,Moderate,19823,19-11-2025
+Amravati,Indore,AI442,SpiceJet,03:49,11:41,20:51,Domestic,Airbus A320,Moderate,14182,20-02-2025
+Aurangabad,Hyderabad,AI552,IndiGo,01:23,05:09,03:05,International,Airbus A320,Luxury,16590,07-07-2025
+Kolhapur,Jaipur,AI382,IndiGo,03:25,07:21,18:27,International,Embraer E175,Economy,18534,10-03-2025
+Pune,Jaipur,AI880,IndiGo,03:52,14:08,01:17,International,Airbus A320,Luxury,5100,06-02-2025
+Mumbai,Goa,AI691,Air India,01:56,10:46,19:16,Domestic,Embraer E175,Moderate,12565,15-06-2025
+Jalgaon,Udaipur,AI411,GoAir,01:36,13:34,21:18,Domestic,Embraer E175,Moderate,13251,22-07-2025
+Mumbai,Bhopal,AI903,IndiGo,02:20,01:51,23:09,International,Airbus A320,Economy,12333,02-08-2025
+Kolhapur,Ahmedabad,AI579,SpiceJet,02:36,08:12,03:40,International,Embraer E175,Luxury,10617,03-09-2025
+Solapur,Hyderabad,AI530,GoAir,01:43,10:08,14:18,International,ATR 72,Economy,19203,01-07-2025
+Nagpur,Surat,AI137,GoAir,02:19,23:18,01:05,International,ATR 72,Economy,9090,08-04-2025
+Solapur,Ahmedabad,AI300,SpiceJet,01:11,11:14,21:14,International,ATR 72,Moderate,15927,12-10-2025
+Pune,Vadodara,AI171,Vistara,03:57,09:58,16:12,Domestic,ATR 72,Economy,8341,29-06-2025
+Mumbai,Chennai,AI946,TruJet,02:13,19:05,23:27,International,Boeing 737,Moderate,14218,06-10-2025
+Nashik,Vadodara,AI961,SpiceJet,02:55,07:26,22:43,Domestic,Airbus A320,Luxury,13845,07-10-2025
+Amravati,Vadodara,AI763,SpiceJet,02:46,04:49,03:01,International,Airbus A320,Luxury,19901,15-09-2025
+Pune,Hyderabad,AI798,TruJet,01:51,11:31,22:46,Domestic,ATR 72,Luxury,10522,29-01-2025
+Thane,Hyderabad,AI865,IndiGo,02:33,09:47,22:47,International,ATR 72,Economy,5965,08-08-2025
+Nagpur,Udaipur,AI658,Air India,02:31,04:57,00:47,International,Embraer E175,Moderate,13764,20-03-2025
+Mumbai,Goa,AI405,Air India,02:57,17:48,04:46,Domestic,ATR 72,Economy,6236,09-12-2025
+Pune,Goa,AI405,SpiceJet,01:40,15:23,08:02,International,Embraer E175,Moderate,17720,27-04-2025
+Kolhapur,Goa,AI339,Vistara,03:39,06:07,12:56,International,Airbus A320,Moderate,14256,11-07-2025
+Mumbai,Chennai,AI702,GoAir,01:38,15:02,13:17,Domestic,Boeing 737,Moderate,7942,02-03-2025
+Thane,Chennai,AI397,GoAir,01:29,11:33,13:09,Domestic,ATR 72,Luxury,15303,06-09-2025
+Nashik,Udaipur,AI731,TruJet,03:43,19:18,15:29,Domestic,ATR 72,Luxury,19880,30-11-2025
+Kolhapur,Vadodara,AI863,SpiceJet,01:41,11:32,12:36,Domestic,ATR 72,Luxury,13612,13-02-2025
+Kolhapur,Udaipur,AI462,SpiceJet,02:16,12:08,15:35,International,Boeing 737,Luxury,14288,15-06-2025
+Nashik,Ahmedabad,AI624,SpiceJet,02:40,04:27,02:16,International,ATR 72,Luxury,11620,18-08-2025
+Thane,Hyderabad,AI316,IndiGo,01:51,22:01,09:18,Domestic,Embraer E175,Moderate,11522,01-10-2025
+Mumbai,Udaipur,AI373,Vistara,03:42,03:27,15:03,International,ATR 72,Economy,10084,30-11-2025
+Aurangabad,Bhopal,AI731,Air India,01:29,21:39,03:39,International,ATR 72,Luxury,13816,22-02-2025
+Solapur,Ahmedabad,AI778,GoAir,01:16,02:35,03:11,International,Airbus A320,Luxury,13050,03-02-2025
+Amravati,Hyderabad,AI692,IndiGo,02:47,23:41,12:21,International,Airbus A320,Luxury,9154,05-04-2025
+Mumbai,Jaipur,AI315,TruJet,03:18,04:07,05:50,International,ATR 72,Economy,11973,02-08-2025
+Nagpur,Surat,AI692,GoAir,03:42,14:24,09:33,International,Embraer E175,Moderate,17060,19-06-2025
+Pune,Vadodara,AI917,TruJet,03:07,23:22,20:01,Domestic,ATR 72,Luxury,17145,13-06-2025
+Aurangabad,Udaipur,AI298,Air India,02:10,20:06,19:56,Domestic,Airbus A320,Economy,12825,01-02-2025
+Pune,Hyderabad,AI554,IndiGo,01:05,21:27,18:22,International,Airbus A320,Economy,11276,26-06-2025
+Aurangabad,Udaipur,AI348,TruJet,03:54,02:13,10:23,Domestic,ATR 72,Luxury,14096,01-02-2025
+Aurangabad,Indore,AI161,SpiceJet,01:19,18:56,00:59,International,Embraer E175,Moderate,5040,26-10-2025
+Aurangabad,Hyderabad,AI188,TruJet,01:14,02:25,23:33,International,Airbus A320,Economy,13500,18-02-2025
+Kolhapur,Surat,AI673,SpiceJet,02:18,22:34,10:17,Domestic,Embraer E175,Moderate,18519,19-12-2025
+Kolhapur,Bhopal,AI916,IndiGo,02:16,19:23,01:53,International,Airbus A320,Luxury,5202,02-03-2025
+Amravati,Indore,AI764,Vistara,01:01,04:20,06:06,Domestic,Airbus A320,Economy,9615,25-11-2025
+Amravati,Hyderabad,AI420,Vistara,02:14,15:41,17:58,International,ATR 72,Moderate,11020,05-12-2025
+Solapur,Surat,AI473,IndiGo,03:21,10:31,14:13,Domestic,Boeing 737,Luxury,15438,31-07-2025
+Amravati,Hyderabad,AI434,TruJet,03:51,17:08,03:55,Domestic,Boeing 737,Moderate,12265,21-09-2025
+Amravati,Jaipur,AI574,SpiceJet,03:34,08:30,04:54,Domestic,Boeing 737,Luxury,8006,30-05-2025
+Kolhapur,Goa,AI456,GoAir,02:33,14:54,19:59,International,Embraer E175,Economy,15350,12-09-2025
+Nagpur,Vadodara,AI932,Vistara,01:38,23:45,18:26,International,Boeing 737,Luxury,13742,01-04-2025
+Amravati,Chennai,AI765,Air India,02:12,19:09,14:02,International,Boeing 737,Moderate,14325,04-03-2025
+Jalgaon,Jaipur,AI336,Air India,03:28,15:31,13:23,International,Embraer E175,Economy,18934,05-07-2025
+Thane,Hyderabad,AI616,TruJet,03:13,19:39,23:41,Domestic,ATR 72,Moderate,16517,01-12-2025
+Solapur,Surat,AI253,SpiceJet,01:28,02:36,22:00,Domestic,Airbus A320,Moderate,9782,06-12-2025
+Jalgaon,Surat,AI277,GoAir,02:32,08:58,03:05,Domestic,Boeing 737,Moderate,7316,28-10-2025
+Nashik,Indore,AI767,TruJet,02:44,22:41,03:28,International,Boeing 737,Moderate,18207,14-03-2025
+Mumbai,Jaipur,AI913,SpiceJet,01:32,07:44,00:58,Domestic,Airbus A320,Luxury,15330,11-07-2025
+Jalgaon,Bhopal,AI439,Vistara,01:03,08:39,00:00,Domestic,Embraer E175,Luxury,6052,16-01-2025
+Amravati,Vadodara,AI231,Vistara,01:09,04:40,19:31,International,Boeing 737,Luxury,17534,05-01-2025
+Aurangabad,Jaipur,AI822,IndiGo,03:40,14:35,17:56,Domestic,Boeing 737,Luxury,19773,04-07-2025
+Nashik,Hyderabad,AI495,SpiceJet,03:32,23:24,05:39,Domestic,Embraer E175,Economy,9172,17-12-2025
+Nagpur,Udaipur,AI379,IndiGo,02:10,08:11,23:35,International,Airbus A320,Economy,6494,22-08-2025
+Kolhapur,Hyderabad,AI173,IndiGo,03:22,19:23,00:35,International,Airbus A320,Luxury,19845,02-12-2025
+Thane,Indore,AI659,IndiGo,01:28,10:38,00:54,International,Airbus A320,Economy,10434,24-01-2025
+Nashik,Ahmedabad,AI694,SpiceJet,02:58,23:57,04:22,Domestic,Airbus A320,Moderate,12957,25-08-2025
+Thane,Jaipur,AI873,GoAir,01:49,15:32,13:57,International,Airbus A320,Moderate,13334,21-09-2025
+Aurangabad,Jaipur,AI797,GoAir,01:35,21:00,14:37,Domestic,Embraer E175,Moderate,19020,04-07-2025
+Nashik,Indore,AI916,IndiGo,02:13,20:11,14:18,Domestic,ATR 72,Economy,17125,27-11-2025
+Nagpur,Chennai,AI118,SpiceJet,03:18,18:01,15:00,Domestic,ATR 72,Moderate,6254,29-12-2025
+Amravati,Chennai,AI371,IndiGo,02:06,20:21,13:36,International,Boeing 737,Luxury,11970,11-01-2025
+Thane,Indore,AI375,IndiGo,02:26,21:01,12:39,Domestic,Embraer E175,Moderate,7382,07-06-2025
+Thane,Indore,AI797,GoAir,03:45,09:25,08:12,Domestic,ATR 72,Luxury,15609,03-07-2025
+Nagpur,Udaipur,AI254,TruJet,02:35,22:01,18:41,Domestic,ATR 72,Luxury,15680,07-12-2025
+Jalgaon,Indore,AI905,IndiGo,02:40,21:18,06:21,Domestic,ATR 72,Moderate,7046,22-05-2025
+Kolhapur,Indore,AI357,GoAir,03:17,07:58,05:59,Domestic,Airbus A320,Economy,18235,15-05-2025
+Kolhapur,Jaipur,AI955,Air India,01:23,01:38,19:58,International,Boeing 737,Luxury,12094,15-04-2025
+Jalgaon,Ahmedabad,AI224,SpiceJet,03:22,23:28,13:07,Domestic,Airbus A320,Economy,14297,10-04-2025
+Amravati,Vadodara,AI861,Air India,03:51,02:23,04:08,International,Boeing 737,Luxury,16611,21-05-2025
+Nagpur,Hyderabad,AI366,GoAir,03:02,19:12,09:11,International,Embraer E175,Moderate,9239,30-05-2025
+Amravati,Jaipur,AI108,TruJet,02:08,09:02,17:59,Domestic,Airbus A320,Economy,15843,04-09-2025
+Thane,Jaipur,AI471,Air India,03:08,00:51,03:47,International,Airbus A320,Economy,8847,23-05-2025
+Thane,Hyderabad,AI382,TruJet,03:52,21:20,09:49,Domestic,ATR 72,Luxury,13075,24-03-2025
+Kolhapur,Hyderabad,AI383,Vistara,01:59,12:38,06:20,Domestic,ATR 72,Moderate,16451,07-07-2025
+Aurangabad,Vadodara,AI875,Vistara,02:16,20:12,17:29,International,Boeing 737,Luxury,16730,20-03-2025
+Solapur,Hyderabad,AI227,Vistara,02:32,19:14,22:37,Domestic,Boeing 737,Luxury,5547,27-02-2025
+Jalgaon,Surat,AI352,TruJet,01:47,11:13,07:17,Domestic,Airbus A320,Economy,16120,28-09-2025
+Mumbai,Surat,AI156,SpiceJet,01:36,22:21,09:50,International,ATR 72,Economy,13028,13-09-2025
+Solapur,Ahmedabad,AI695,SpiceJet,01:46,21:02,01:34,Domestic,ATR 72,Economy,8769,06-08-2025
+Aurangabad,Jaipur,AI952,TruJet,01:38,02:07,01:45,International,Boeing 737,Moderate,15196,03-07-2025
+Nashik,Jaipur,AI877,IndiGo,02:16,20:18,15:26,Domestic,Boeing 737,Moderate,18363,05-11-2025
+Aurangabad,Surat,AI469,TruJet,03:12,05:39,12:50,Domestic,Airbus A320,Economy,15478,01-07-2025
+Nashik,Vadodara,AI407,Vistara,02:58,15:20,11:13,International,Boeing 737,Economy,5340,09-02-2025
+Pune,Bhopal,AI294,Air India,01:58,14:01,03:36,Domestic,Boeing 737,Moderate,12749,14-08-2025
+Solapur,Indore,AI388,SpiceJet,01:39,00:32,04:25,Domestic,Embraer E175,Economy,13967,28-10-2025
+Amravati,Vadodara,AI666,GoAir,03:56,12:04,16:49,Domestic,Boeing 737,Luxury,10303,07-02-2025
+Thane,Surat,AI401,Air India,01:52,06:37,17:58,International,Airbus A320,Moderate,15541,21-07-2025
+Thane,Surat,AI534,Air India,03:41,19:59,00:22,Domestic,ATR 72,Luxury,11973,27-08-2025
+Pune,Chennai,AI410,Vistara,01:54,21:59,14:10,Domestic,ATR 72,Moderate,14980,16-06-2025
+Amravati,Ahmedabad,AI392,IndiGo,01:36,21:18,20:39,Domestic,Embraer E175,Moderate,5291,06-08-2025
+Jalgaon,Jaipur,AI613,TruJet,03:04,23:58,00:19,International,Embraer E175,Moderate,18596,01-06-2025
+Mumbai,Hyderabad,AI237,TruJet,02:49,22:04,12:22,Domestic,Boeing 737,Moderate,16985,12-01-2025
+Amravati,Bhopal,AI556,IndiGo,01:58,13:50,20:18,International,Airbus A320,Economy,6527,12-07-2025
+Nashik,Hyderabad,AI720,Air India,01:12,23:38,07:10,International,ATR 72,Moderate,11903,02-09-2025
+Solapur,Jaipur,AI773,Vistara,02:57,23:59,19:20,International,Airbus A320,Economy,18345,28-07-2025
+Solapur,Hyderabad,AI903,SpiceJet,03:42,10:40,21:39,Domestic,Embraer E175,Economy,6147,11-11-2025
+Mumbai,Hyderabad,AI797,Air India,01:36,06:30,07:51,Domestic,ATR 72,Economy,7837,18-09-2025
+Pune,Udaipur,AI557,Air India,03:04,06:38,00:50,Domestic,Airbus A320,Economy,19540,24-11-2025
+Pune,Ahmedabad,AI510,IndiGo,02:46,12:42,09:16,Domestic,Boeing 737,Luxury,5300,08-01-2025
+Jalgaon,Hyderabad,AI722,IndiGo,02:08,02:10,09:58,International,Embraer E175,Moderate,10514,18-08-2025
+Mumbai,Surat,AI579,TruJet,01:04,01:32,03:06,International,Airbus A320,Economy,12361,31-03-2025
+Pune,Goa,AI961,GoAir,03:20,21:12,20:42,International,Embraer E175,Luxury,17591,04-04-2025
+Thane,Udaipur,AI139,GoAir,03:42,04:52,06:43,Domestic,Boeing 737,Moderate,19539,23-06-2025
+Solapur,Vadodara,AI979,TruJet,02:00,22:12,03:22,Domestic,ATR 72,Moderate,18578,28-11-2025
+Solapur,Goa,AI358,SpiceJet,02:55,11:25,07:03,International,ATR 72,Moderate,5442,22-11-2025
+Pune,Goa,AI710,Vistara,02:17,03:00,20:28,Domestic,ATR 72,Moderate,17711,03-12-2025
+Mumbai,Surat,AI944,Vistara,03:47,03:44,16:40,International,Embraer E175,Moderate,13208,06-09-2025
+Kolhapur,Ahmedabad,AI300,Air India,02:15,00:10,20:44,International,Boeing 737,Luxury,11926,08-10-2025
+Thane,Indore,AI273,Air India,03:09,12:38,16:07,International,Boeing 737,Economy,19024,26-03-2025
+Aurangabad,Goa,AI442,TruJet,01:31,03:06,18:44,International,Boeing 737,Economy,13231,20-05-2025
+Kolhapur,Chennai,AI954,TruJet,01:59,04:03,16:48,International,Boeing 737,Economy,15350,12-06-2025
+Pune,Jaipur,AI149,GoAir,03:20,03:29,22:58,Domestic,Boeing 737,Moderate,12912,08-05-2025
+Nashik,Jaipur,AI670,TruJet,03:42,15:32,04:25,Domestic,Airbus A320,Economy,18575,21-03-2025
+Thane,Ahmedabad,AI715,GoAir,01:28,02:53,22:43,International,Airbus A320,Luxury,19148,24-12-2025
+Amravati,Surat,AI133,IndiGo,02:56,01:33,02:06,International,Airbus A320,Moderate,13215,21-10-2025
+Mumbai,Surat,AI496,GoAir,03:38,09:07,11:06,Domestic,Embraer E175,Moderate,15698,22-03-2025
+Mumbai,Chennai,AI963,Air India,01:23,21:20,05:16,International,Airbus A320,Luxury,10553,02-08-2025
+Solapur,Hyderabad,AI881,GoAir,03:47,22:52,05:59,International,Embraer E175,Luxury,14421,11-12-2025
+Amravati,Vadodara,AI342,SpiceJet,01:19,01:17,21:07,International,Airbus A320,Luxury,9544,02-06-2025
+Solapur,Bhopal,AI225,IndiGo,01:30,00:25,07:20,Domestic,ATR 72,Luxury,15489,01-03-2025
+Jalgaon,Chennai,AI664,Vistara,02:45,17:16,14:23,Domestic,Airbus A320,Economy,8424,06-12-2025
+Mumbai,Chennai,AI796,GoAir,01:49,06:31,19:51,International,Embraer E175,Economy,5747,30-09-2025
+Aurangabad,Surat,AI228,SpiceJet,03:50,17:17,16:55,International,Boeing 737,Moderate,6844,30-01-2025
+Thane,Indore,AI653,SpiceJet,01:53,21:23,20:57,International,Boeing 737,Economy,14052,17-09-2025
+Solapur,Goa,AI173,IndiGo,03:29,11:51,06:06,International,Boeing 737,Economy,7589,09-03-2025
+Solapur,Hyderabad,AI580,IndiGo,01:51,06:29,08:00,International,Boeing 737,Moderate,11103,29-04-2025
+Jalgaon,Bhopal,AI379,Vistara,02:18,06:45,05:03,International,Boeing 737,Economy,15450,20-01-2025
+Mumbai,Bhopal,AI101,Air India,03:07,21:38,07:49,International,Airbus A320,Luxury,11933,20-08-2025
+Jalgaon,Goa,AI103,IndiGo,01:35,18:59,17:50,International,Boeing 737,Luxury,14371,05-10-2025
+Nashik,Bhopal,AI850,SpiceJet,02:31,20:31,03:36,Domestic,Boeing 737,Luxury,16262,13-02-2025
+Aurangabad,Hyderabad,AI519,Vistara,03:36,13:43,19:29,Domestic,Airbus A320,Luxury,19128,25-07-2025
+Amravati,Hyderabad,AI292,Vistara,02:16,23:29,19:16,International,Boeing 737,Economy,8253,24-09-2025
+Pune,Ahmedabad,AI556,Air India,02:22,13:34,14:16,Domestic,ATR 72,Economy,19337,17-09-2025
+Aurangabad,Udaipur,AI247,Vistara,03:07,04:19,22:11,International,Embraer E175,Luxury,19267,12-06-2025
+Mumbai,Surat,AI214,IndiGo,03:05,16:27,19:44,Domestic,Boeing 737,Moderate,14384,28-10-2025
+Pune,Udaipur,AI936,Air India,03:15,04:53,18:32,International,Boeing 737,Luxury,14990,20-03-2025
+Aurangabad,Surat,AI902,Air India,02:23,00:35,01:23,Domestic,Boeing 737,Luxury,8642,24-02-2025
+Thane,Surat,AI286,Vistara,01:13,02:13,13:31,International,Embraer E175,Moderate,18504,12-09-2025
+Nagpur,Chennai,AI912,GoAir,03:48,02:23,02:43,Domestic,Embraer E175,Economy,5273,16-07-2025
+Nashik,Goa,AI807,TruJet,01:34,13:23,19:45,International,Airbus A320,Luxury,18639,10-10-2025
+Jalgaon,Chennai,AI103,SpiceJet,02:17,08:49,12:17,Domestic,Airbus A320,Luxury,19414,17-01-2025
+Jalgaon,Udaipur,AI808,IndiGo,02:18,01:30,00:43,International,Boeing 737,Luxury,14873,19-01-2025
+Mumbai,Surat,AI915,TruJet,01:33,03:50,18:28,International,Embraer E175,Moderate,16715,26-05-2025
+Amravati,Goa,AI558,Vistara,02:16,02:43,07:44,International,Boeing 737,Moderate,10486,10-04-2025
+Mumbai,Vadodara,AI800,TruJet,03:01,03:03,09:50,Domestic,Boeing 737,Moderate,12796,15-03-2025
+Thane,Chennai,AI460,TruJet,02:59,14:14,02:11,International,Embraer E175,Economy,17618,17-02-2025
+Nashik,Hyderabad,AI627,TruJet,01:35,19:25,15:29,International,Airbus A320,Moderate,8362,20-02-2025
+Pune,Hyderabad,AI319,IndiGo,01:33,01:24,07:26,International,Boeing 737,Moderate,16616,21-11-2025
+Solapur,Ahmedabad,AI981,SpiceJet,01:24,08:50,11:46,Domestic,Boeing 737,Economy,14132,14-06-2025
+Aurangabad,Jaipur,AI604,IndiGo,01:33,18:35,09:44,Domestic,ATR 72,Luxury,6740,04-11-2025
+Aurangabad,Chennai,AI358,Vistara,02:31,03:16,08:54,International,Airbus A320,Luxury,16000,12-05-2025
+Amravati,Udaipur,AI215,Air India,02:18,20:49,21:50,Domestic,Boeing 737,Luxury,13874,06-03-2025
+Kolhapur,Udaipur,AI801,Air India,02:24,23:42,08:18,Domestic,Boeing 737,Economy,14387,02-10-2025
+Nagpur,Chennai,AI118,SpiceJet,02:08,06:17,18:21,International,Airbus A320,Economy,19166,10-12-2025
+Aurangabad,Ahmedabad,AI449,TruJet,02:41,14:48,16:55,International,ATR 72,Moderate,16491,29-07-2025
+Nagpur,Chennai,AI993,TruJet,02:18,05:47,18:42,Domestic,Boeing 737,Economy,17283,24-09-2025
+Pune,Vadodara,AI556,TruJet,03:49,12:07,00:18,International,Boeing 737,Moderate,7233,26-05-2025
+Thane,Udaipur,AI275,IndiGo,02:41,14:17,10:35,International,Embraer E175,Luxury,11621,13-02-2025
+Pune,Chennai,AI368,IndiGo,01:47,01:05,01:29,Domestic,Airbus A320,Economy,12973,30-05-2025
+Solapur,Udaipur,AI392,Vistara,02:53,21:36,12:15,International,Airbus A320,Moderate,18036,23-09-2025
+Thane,Goa,AI807,GoAir,01:41,19:53,13:10,International,ATR 72,Moderate,19571,30-06-2025
+Aurangabad,Vadodara,AI915,GoAir,03:50,19:05,11:28,International,Boeing 737,Moderate,9797,19-03-2025
+Mumbai,Udaipur,AI386,IndiGo,03:30,06:31,01:55,International,ATR 72,Moderate,19115,12-09-2025
+Nashik,Jaipur,AI114,IndiGo,01:09,18:00,20:19,International,Embraer E175,Economy,11239,02-11-2025
+Aurangabad,Goa,AI554,Air India,03:19,21:26,14:38,Domestic,Airbus A320,Moderate,17415,12-03-2025
+Aurangabad,Jaipur,AI328,SpiceJet,01:57,21:10,01:47,International,Boeing 737,Economy,19275,01-08-2025
+Aurangabad,Udaipur,AI183,TruJet,02:21,00:25,08:03,Domestic,ATR 72,Moderate,18743,10-11-2025
+Thane,Jaipur,AI757,Air India,03:50,00:15,15:52,Domestic,ATR 72,Economy,6660,21-06-2025
+Solapur,Jaipur,AI339,Vistara,03:12,14:57,21:50,Domestic,ATR 72,Luxury,17786,21-12-2025
+Pune,Udaipur,AI517,Vistara,02:06,22:09,00:06,International,ATR 72,Moderate,18130,02-01-2025
+Jalgaon,Hyderabad,AI630,SpiceJet,03:29,07:15,03:30,International,Embraer E175,Economy,16929,06-11-2025
+Solapur,Goa,AI911,SpiceJet,02:03,08:10,04:07,Domestic,ATR 72,Luxury,10604,30-01-2025
+Thane,Surat,AI954,IndiGo,02:59,06:41,22:22,International,Embraer E175,Economy,11432,19-11-2025
+Aurangabad,Jaipur,AI452,Air India,01:33,01:44,10:40,Domestic,Boeing 737,Moderate,8796,11-08-2025
+Amravati,Jaipur,AI458,SpiceJet,03:57,04:39,19:51,International,Boeing 737,Luxury,17880,28-06-2025
+Mumbai,Udaipur,AI936,GoAir,01:45,13:22,21:14,International,ATR 72,Moderate,18080,27-02-2025
+Nashik,Indore,AI193,Vistara,02:42,04:24,20:10,International,ATR 72,Moderate,19138,23-10-2025
+Amravati,Vadodara,AI122,Vistara,03:53,13:42,03:14,Domestic,Embraer E175,Luxury,14161,13-09-2025
+Thane,Chennai,AI853,Vistara,03:19,08:14,03:56,International,Embraer E175,Luxury,14823,07-07-2025
+Amravati,Indore,AI408,SpiceJet,01:57,02:05,19:31,International,ATR 72,Economy,10374,17-09-2025
+Pune,Bhopal,AI396,IndiGo,01:00,19:00,04:31,Domestic,Embraer E175,Economy,14268,05-02-2025
+Solapur,Bhopal,AI160,IndiGo,01:14,19:06,23:55,International,Embraer E175,Economy,8697,01-08-2025
+Mumbai,Ahmedabad,AI275,IndiGo,02:45,02:30,15:25,Domestic,Boeing 737,Luxury,7944,25-04-2025
+Mumbai,Ahmedabad,AI577,TruJet,01:47,18:39,11:18,International,Boeing 737,Economy,6744,10-11-2025
+Amravati,Goa,AI694,TruJet,02:31,02:43,10:46,International,Airbus A320,Economy,16332,28-06-2025
+Amravati,Chennai,AI504,GoAir,01:05,19:11,00:13,Domestic,ATR 72,Economy,15117,19-06-2025
+Pune,Udaipur,AI677,IndiGo,03:27,03:34,20:10,Domestic,Boeing 737,Moderate,19560,18-02-2025
+Aurangabad,Ahmedabad,AI553,TruJet,02:59,21:54,10:27,International,Embraer E175,Economy,10649,10-03-2025
+Nagpur,Vadodara,AI954,SpiceJet,03:22,19:58,07:30,Domestic,ATR 72,Economy,13742,04-12-2025
+Nashik,Surat,AI334,SpiceJet,03:44,10:38,09:52,Domestic,Airbus A320,Luxury,17400,08-12-2025
+Kolhapur,Goa,AI375,TruJet,02:39,00:48,04:20,Domestic,Airbus A320,Moderate,6176,07-12-2025
+Amravati,Bhopal,AI426,GoAir,02:15,06:32,21:36,Domestic,Embraer E175,Luxury,15803,11-04-2025
+Thane,Bhopal,AI424,IndiGo,02:03,13:39,11:01,Domestic,ATR 72,Moderate,11481,07-11-2025
+Mumbai,Chennai,AI212,TruJet,01:16,17:30,05:07,International,Embraer E175,Luxury,9382,09-08-2025
+Aurangabad,Indore,AI715,GoAir,02:21,17:58,03:36,Domestic,Embraer E175,Luxury,17576,01-01-2025
+Jalgaon,Bhopal,AI250,TruJet,02:59,21:10,11:11,International,Boeing 737,Economy,14599,08-07-2025
+Mumbai,Vadodara,AI498,SpiceJet,02:11,01:46,12:33,International,Boeing 737,Economy,12135,26-08-2025
+Nagpur,Goa,AI460,Vistara,02:39,05:10,08:46,Domestic,ATR 72,Luxury,17132,24-03-2025
+Thane,Ahmedabad,AI250,Vistara,02:30,02:03,05:03,Domestic,Embraer E175,Luxury,7530,26-07-2025
+Nagpur,Surat,AI379,IndiGo,03:56,23:56,21:28,Domestic,Embraer E175,Moderate,17546,08-06-2025
+Mumbai,Hyderabad,AI456,Air India,02:37,06:41,00:10,Domestic,Boeing 737,Economy,8334,19-01-2025
+Amravati,Indore,AI475,IndiGo,02:46,21:19,01:31,International,ATR 72,Luxury,16660,04-05-2025
+Kolhapur,Chennai,AI547,GoAir,02:35,14:09,06:34,International,ATR 72,Luxury,14529,19-06-2025
+Aurangabad,Bhopal,AI972,IndiGo,02:14,01:14,03:06,Domestic,Embraer E175,Moderate,18924,26-09-2025
+Aurangabad,Vadodara,AI308,TruJet,03:01,07:07,15:45,Domestic,Boeing 737,Economy,7581,14-07-2025
+Mumbai,Hyderabad,AI474,Vistara,01:58,12:15,10:22,Domestic,ATR 72,Luxury,17501,15-09-2025
+Nagpur,Jaipur,AI598,IndiGo,02:13,05:59,18:51,International,Embraer E175,Moderate,16444,25-04-2025
+Thane,Surat,AI572,IndiGo,03:34,01:00,19:19,Domestic,Boeing 737,Moderate,8206,13-09-2025
+Solapur,Chennai,AI741,SpiceJet,03:19,11:26,14:20,Domestic,Embraer E175,Moderate,15434,04-04-2025
+Solapur,Jaipur,AI691,IndiGo,03:26,16:43,00:14,International,Embraer E175,Economy,12810,07-09-2025
+Jalgaon,Jaipur,AI527,TruJet,03:59,19:09,19:49,International,ATR 72,Economy,18751,31-10-2025
+Aurangabad,Jaipur,AI553,GoAir,03:22,18:01,10:23,Domestic,Embraer E175,Luxury,17869,29-07-2025
+Nashik,Udaipur,AI810,SpiceJet,01:45,07:27,18:47,International,Embraer E175,Moderate,14711,17-07-2025
+Aurangabad,Goa,AI323,SpiceJet,03:04,23:36,03:44,Domestic,ATR 72,Luxury,5438,22-02-2025
+Pune,Udaipur,AI228,Air India,01:06,20:57,06:11,International,Airbus A320,Moderate,18848,17-05-2025
+Solapur,Chennai,AI530,GoAir,01:45,08:37,14:17,International,Embraer E175,Moderate,12089,11-09-2025
+Kolhapur,Ahmedabad,AI527,Air India,02:34,18:35,02:56,International,Airbus A320,Luxury,12483,01-08-2025
+Pune,Jaipur,AI625,Air India,01:30,22:49,23:08,Domestic,ATR 72,Moderate,18784,07-07-2025
+Aurangabad,Vadodara,AI930,SpiceJet,03:37,18:54,08:44,International,Airbus A320,Luxury,16857,06-12-2025
+Jalgaon,Chennai,AI825,GoAir,01:26,13:16,20:03,International,Airbus A320,Moderate,6868,26-01-2025
+Pune,Chennai,AI486,SpiceJet,02:21,14:00,08:49,International,Boeing 737,Luxury,9515,25-12-2025
+Aurangabad,Bhopal,AI927,GoAir,03:21,21:59,16:31,Domestic,Embraer E175,Moderate,8781,23-10-2025
+Nashik,Vadodara,AI596,GoAir,01:10,04:37,12:38,Domestic,Boeing 737,Economy,10535,24-02-2025
+Mumbai,Hyderabad,AI417,TruJet,03:20,02:50,17:36,Domestic,Airbus A320,Luxury,14360,13-04-2025
+Nashik,Ahmedabad,AI155,IndiGo,02:21,13:50,09:51,International,Airbus A320,Moderate,10988,20-01-2025
+Amravati,Surat,AI297,TruJet,03:14,05:45,06:49,Domestic,ATR 72,Economy,7915,01-06-2025
+Aurangabad,Goa,AI991,SpiceJet,01:39,21:01,20:30,International,Airbus A320,Moderate,16390,07-07-2025
+Nagpur,Hyderabad,AI614,SpiceJet,01:25,19:44,17:32,International,Embraer E175,Economy,12551,20-05-2025
+Aurangabad,Chennai,AI611,SpiceJet,02:45,13:07,17:10,Domestic,Airbus A320,Moderate,5868,06-04-2025
+Solapur,Indore,AI696,Vistara,02:01,00:52,15:12,International,ATR 72,Luxury,6769,18-05-2025
+Aurangabad,Udaipur,AI366,GoAir,03:41,08:43,02:27,International,Boeing 737,Economy,8958,24-03-2025
+Mumbai,Goa,AI786,TruJet,03:28,10:22,23:37,Domestic,Airbus A320,Economy,12194,13-06-2025
+Aurangabad,Chennai,AI990,Air India,03:56,14:07,11:41,Domestic,Airbus A320,Economy,13306,03-10-2025
+Aurangabad,Jaipur,AI836,IndiGo,02:54,21:05,02:19,International,Embraer E175,Moderate,8826,16-05-2025
+Thane,Vadodara,AI932,Vistara,01:37,22:19,18:37,International,Airbus A320,Moderate,6686,20-07-2025
+Aurangabad,Vadodara,AI246,SpiceJet,02:58,01:16,17:06,International,Airbus A320,Moderate,6484,03-02-2025
+Nashik,Vadodara,AI382,GoAir,01:43,03:07,18:13,International,Boeing 737,Luxury,14481,28-02-2025
+Nagpur,Surat,AI270,SpiceJet,01:37,22:39,00:19,Domestic,Embraer E175,Economy,16265,28-06-2025
+Solapur,Bhopal,AI720,GoAir,03:19,10:26,04:42,Domestic,Airbus A320,Moderate,6596,10-02-2025
+Pune,Surat,AI666,TruJet,03:48,10:09,02:14,International,Airbus A320,Moderate,17826,08-10-2025
+Nashik,Hyderabad,AI642,IndiGo,03:54,14:14,08:09,Domestic,Airbus A320,Moderate,10150,09-02-2025
+Mumbai,Bhopal,AI283,Air India,03:02,23:48,07:15,Domestic,ATR 72,Moderate,6046,30-08-2025
+Nashik,Hyderabad,AI996,TruJet,03:51,21:45,16:15,Domestic,Airbus A320,Luxury,19842,20-12-2025
+Kolhapur,Vadodara,AI460,TruJet,03:17,01:30,17:57,Domestic,ATR 72,Economy,9879,13-11-2025
+Nashik,Ahmedabad,AI642,IndiGo,01:25,10:07,23:11,International,Airbus A320,Moderate,16552,21-10-2025
+Nagpur,Hyderabad,AI135,TruJet,03:52,01:55,02:47,Domestic,Boeing 737,Moderate,18864,11-12-2025
+Amravati,Vadodara,AI126,TruJet,03:42,05:48,03:50,International,Boeing 737,Luxury,15494,09-10-2025
+Amravati,Hyderabad,AI106,Vistara,03:00,03:05,00:17,International,ATR 72,Economy,5390,07-06-2025
+Solapur,Surat,AI517,TruJet,02:58,10:46,13:14,Domestic,Boeing 737,Moderate,9755,10-07-2025
+Thane,Surat,AI906,TruJet,02:59,15:34,03:48,Domestic,ATR 72,Luxury,11922,09-04-2025
+Pune,Hyderabad,AI328,TruJet,03:34,00:20,01:23,International,Embraer E175,Moderate,19012,06-03-2025
+Pune,Hyderabad,AI995,TruJet,02:36,06:25,16:34,International,ATR 72,Moderate,8224,28-06-2025
+Mumbai,Indore,AI614,SpiceJet,03:57,07:13,11:01,Domestic,ATR 72,Luxury,5767,07-08-2025
+Solapur,Udaipur,AI901,SpiceJet,01:27,11:49,02:48,International,Boeing 737,Economy,17184,08-12-2025
+Nashik,Bhopal,AI268,Air India,03:25,23:38,19:50,Domestic,Embraer E175,Luxury,6853,17-10-2025
+Jalgaon,Chennai,AI370,IndiGo,01:05,03:43,20:53,Domestic,ATR 72,Economy,5703,25-12-2025
+Nagpur,Surat,AI556,Vistara,03:22,05:34,03:20,Domestic,Airbus A320,Luxury,13553,23-04-2025
+Nashik,Goa,AI111,TruJet,03:26,00:43,23:35,Domestic,Boeing 737,Economy,15163,05-04-2025
+Amravati,Udaipur,AI110,GoAir,02:35,03:25,00:03,International,Airbus A320,Luxury,5860,30-08-2025
+Aurangabad,Ahmedabad,AI534,Vistara,02:12,16:09,17:44,Domestic,Boeing 737,Moderate,5563,13-08-2025
+Nagpur,Ahmedabad,AI709,Vistara,03:08,22:07,00:37,International,ATR 72,Luxury,9092,07-06-2025
+Amravati,Goa,AI139,TruJet,02:58,06:31,23:23,International,Embraer E175,Economy,12204,30-05-2025
+Nashik,Hyderabad,AI405,Air India,02:21,16:29,09:27,Domestic,ATR 72,Economy,13663,29-08-2025
+Kolhapur,Surat,AI790,Vistara,02:39,02:56,05:45,International,Boeing 737,Moderate,6270,04-08-2025
+Amravati,Hyderabad,AI841,TruJet,02:27,08:40,14:05,Domestic,Embraer E175,Luxury,7890,11-05-2025
+Solapur,Indore,AI117,Air India,03:59,05:19,07:03,Domestic,ATR 72,Moderate,9537,24-10-2025
+Nashik,Hyderabad,AI568,GoAir,03:11,07:22,18:14,International,Embraer E175,Luxury,18121,19-09-2025
+Pune,Vadodara,AI809,IndiGo,02:09,18:32,08:31,Domestic,ATR 72,Luxury,12389,29-12-2025
+Thane,Goa,AI661,Air India,02:58,09:18,18:27,Domestic,Airbus A320,Luxury,5087,23-03-2025
+Solapur,Indore,AI552,Vistara,01:34,11:31,04:52,Domestic,Boeing 737,Moderate,12955,13-07-2025
+Nagpur,Goa,AI120,TruJet,02:54,06:02,17:51,Domestic,Airbus A320,Luxury,5544,25-07-2025
+Jalgaon,Indore,AI989,IndiGo,03:31,10:40,15:06,Domestic,ATR 72,Luxury,5009,17-09-2025
+Kolhapur,Hyderabad,AI711,Vistara,02:38,17:02,11:05,Domestic,ATR 72,Luxury,14368,18-10-2025
+Mumbai,Hyderabad,AI932,IndiGo,01:50,08:12,08:34,Domestic,Airbus A320,Moderate,7542,12-12-2025
+Thane,Jaipur,AI548,GoAir,02:50,17:45,12:28,International,Airbus A320,Economy,13331,19-12-2025
+Aurangabad,Surat,AI724,Air India,03:16,00:51,18:36,Domestic,ATR 72,Luxury,8648,19-06-2025
+Jalgaon,Indore,AI928,IndiGo,02:13,18:51,08:17,Domestic,ATR 72,Economy,13001,03-04-2025
+Nashik,Indore,AI859,IndiGo,03:51,01:30,14:51,Domestic,ATR 72,Economy,19673,31-01-2025
+Amravati,Surat,AI782,IndiGo,01:34,21:43,06:57,International,Boeing 737,Luxury,6961,04-12-2025
+Nashik,Udaipur,AI267,TruJet,01:56,20:08,10:40,International,Boeing 737,Moderate,5523,01-08-2025
+Pune,Hyderabad,AI627,SpiceJet,03:38,15:49,23:59,International,Airbus A320,Economy,12901,07-07-2025
+Mumbai,Indore,AI190,SpiceJet,02:00,00:45,17:54,International,Airbus A320,Luxury,17777,18-03-2025
+Kolhapur,Surat,AI638,Air India,03:51,17:46,19:08,Domestic,Boeing 737,Luxury,18009,24-07-2025
+Pune,Ahmedabad,AI379,SpiceJet,03:39,14:53,13:31,International,Boeing 737,Economy,7697,04-06-2025
+Pune,Bhopal,AI736,IndiGo,03:40,10:07,16:47,Domestic,ATR 72,Moderate,6236,20-10-2025
+Amravati,Jaipur,AI936,SpiceJet,01:29,13:05,11:32,Domestic,Boeing 737,Economy,13976,25-07-2025
+Kolhapur,Indore,AI664,TruJet,01:41,04:14,06:28,Domestic,Airbus A320,Moderate,17673,22-07-2025
+Mumbai,Ahmedabad,AI383,SpiceJet,02:02,14:28,02:41,International,Embraer E175,Moderate,7069,20-06-2025
+Jalgaon,Indore,AI647,TruJet,02:20,20:22,19:36,International,Embraer E175,Luxury,14736,04-11-2025
+Kolhapur,Udaipur,AI116,Air India,02:18,06:02,07:32,International,ATR 72,Luxury,9340,25-07-2025
+Aurangabad,Hyderabad,AI758,SpiceJet,02:04,17:22,03:42,International,Airbus A320,Economy,11990,06-10-2025
+Pune,Udaipur,AI458,SpiceJet,01:59,01:55,08:13,International,Airbus A320,Moderate,12326,28-05-2025
+Jalgaon,Hyderabad,AI941,Air India,02:47,17:12,04:33,Domestic,Embraer E175,Moderate,5255,18-05-2025
+Mumbai,Udaipur,AI653,Air India,01:37,21:03,13:57,Domestic,Embraer E175,Economy,18984,10-02-2025
+Kolhapur,Bhopal,AI895,Air India,01:48,03:06,14:30,International,Boeing 737,Economy,13243,12-06-2025
+Pune,Surat,AI771,TruJet,01:32,23:09,12:22,International,Airbus A320,Luxury,15585,14-02-2025
+Jalgaon,Bhopal,AI605,IndiGo,02:50,04:29,10:15,Domestic,Airbus A320,Moderate,17962,20-02-2025
+Amravati,Goa,AI548,GoAir,03:19,09:54,12:25,International,Boeing 737,Economy,14341,12-10-2025
+Solapur,Chennai,AI947,TruJet,01:35,04:01,00:03,International,Boeing 737,Moderate,16552,18-06-2025
+Aurangabad,Surat,AI166,IndiGo,01:42,04:51,20:48,Domestic,Boeing 737,Moderate,13342,22-01-2025
+Pune,Ahmedabad,AI562,Air India,02:41,23:17,12:21,Domestic,Boeing 737,Moderate,7818,16-05-2025
+Thane,Udaipur,AI991,TruJet,01:35,14:23,23:57,International,ATR 72,Economy,6448,27-06-2025
+Pune,Goa,AI118,GoAir,02:18,18:27,00:59,Domestic,Boeing 737,Moderate,12373,29-03-2025
+Jalgaon,Surat,AI370,IndiGo,01:05,02:23,04:01,International,Boeing 737,Moderate,17851,04-09-2025
+Solapur,Ahmedabad,AI958,TruJet,02:10,15:12,11:41,Domestic,Boeing 737,Economy,6796,29-09-2025
+Aurangabad,Udaipur,AI776,Air India,02:21,22:37,11:44,Domestic,Airbus A320,Economy,5548,29-04-2025
+Nashik,Ahmedabad,AI339,TruJet,01:27,20:16,08:06,Domestic,Embraer E175,Economy,17508,14-10-2025
+Kolhapur,Jaipur,AI478,GoAir,02:52,08:53,08:50,Domestic,Embraer E175,Moderate,14608,04-07-2025
+Pune,Indore,AI915,GoAir,02:25,18:19,16:13,International,Embraer E175,Luxury,16344,09-06-2025
+Kolhapur,Udaipur,AI859,GoAir,01:25,11:49,02:30,International,ATR 72,Moderate,5709,18-07-2025
+Kolhapur,Udaipur,AI170,SpiceJet,02:19,13:50,18:45,International,ATR 72,Moderate,11990,31-03-2025
+Pune,Vadodara,AI792,IndiGo,01:23,00:11,16:12,Domestic,Boeing 737,Moderate,13325,31-05-2025
+Mumbai,Indore,AI238,SpiceJet,03:29,22:14,09:05,International,Boeing 737,Luxury,7337,24-10-2025
+Thane,Chennai,AI360,TruJet,03:20,22:50,22:49,International,ATR 72,Moderate,15978,22-10-2025
+Pune,Udaipur,AI312,Air India,03:23,00:54,16:15,International,Boeing 737,Moderate,10392,15-09-2025
+Nashik,Udaipur,AI379,IndiGo,01:28,05:11,19:01,International,ATR 72,Economy,7193,01-09-2025
+Aurangabad,Udaipur,AI612,SpiceJet,02:10,13:16,00:23,International,Boeing 737,Moderate,10829,15-07-2025
+Aurangabad,Indore,AI204,Air India,03:05,09:52,00:24,Domestic,Airbus A320,Luxury,13838,14-06-2025
+Solapur,Jaipur,AI607,Air India,01:44,20:15,06:49,International,Airbus A320,Luxury,10732,29-09-2025
+Thane,Goa,AI642,GoAir,01:08,13:15,16:34,International,Airbus A320,Moderate,15340,15-08-2025
+Kolhapur,Surat,AI553,Air India,01:20,01:48,06:25,Domestic,ATR 72,Luxury,8521,09-10-2025
+Nagpur,Hyderabad,AI301,IndiGo,03:01,09:24,02:35,International,Airbus A320,Luxury,9553,18-04-2025
+Pune,Bhopal,AI337,GoAir,02:05,16:20,19:08,International,ATR 72,Luxury,8265,01-03-2025
+Thane,Goa,AI287,Vistara,03:01,14:52,00:53,International,Airbus A320,Economy,10121,09-02-2025
+Nagpur,Surat,AI998,GoAir,03:29,17:16,15:54,International,Embraer E175,Luxury,14698,07-04-2025
+Jalgaon,Hyderabad,AI431,SpiceJet,02:39,22:08,22:26,International,ATR 72,Luxury,5299,21-01-2025
+Amravati,Hyderabad,AI539,Vistara,01:30,02:33,14:22,International,ATR 72,Economy,18697,10-11-2025
+Amravati,Surat,AI488,GoAir,01:51,03:04,21:52,Domestic,Boeing 737,Luxury,12494,18-01-2025
+Pune,Bhopal,AI213,IndiGo,02:30,09:53,07:42,International,Embraer E175,Economy,11166,08-08-2025
+Nashik,Hyderabad,AI424,GoAir,02:31,14:51,18:23,Domestic,Boeing 737,Economy,6038,07-11-2025
+Pune,Goa,AI564,IndiGo,01:50,17:18,23:22,International,Airbus A320,Economy,6341,14-12-2025
+Amravati,Indore,AI263,Air India,03:25,08:16,00:44,International,Airbus A320,Economy,6985,29-08-2025
+Kolhapur,Ahmedabad,AI829,Air India,02:46,13:44,00:19,Domestic,Embraer E175,Luxury,10252,30-07-2025
+Nagpur,Goa,AI118,GoAir,03:15,03:24,21:31,Domestic,ATR 72,Economy,6034,31-01-2025
+Aurangabad,Indore,AI808,GoAir,03:55,13:19,08:30,Domestic,Embraer E175,Economy,14112,07-11-2025
+Amravati,Goa,AI309,SpiceJet,01:42,20:13,04:53,Domestic,Embraer E175,Luxury,12116,23-01-2025
+Pune,Jaipur,AI494,TruJet,01:16,07:19,16:05,International,Airbus A320,Moderate,8400,18-05-2025
+Nagpur,Vadodara,AI423,IndiGo,02:40,03:53,21:12,Domestic,Embraer E175,Luxury,11519,29-06-2025
+Kolhapur,Indore,AI829,GoAir,01:33,20:38,23:34,Domestic,Embraer E175,Economy,11404,01-07-2025
+Amravati,Jaipur,AI627,SpiceJet,03:14,21:44,21:04,International,Embraer E175,Luxury,8831,12-04-2025
+Kolhapur,Surat,AI282,Vistara,03:00,01:11,08:34,International,Boeing 737,Economy,7504,24-01-2025
+Solapur,Indore,AI244,SpiceJet,03:16,03:38,17:40,International,Embraer E175,Economy,5594,28-10-2025
+Mumbai,Goa,AI945,Air India,03:21,05:00,23:30,Domestic,Boeing 737,Luxury,5997,24-02-2025
+Pune,Hyderabad,AI318,TruJet,02:31,06:19,04:24,Domestic,Boeing 737,Economy,14335,08-12-2025
+Thane,Bhopal,AI461,TruJet,01:26,01:06,11:40,Domestic,Embraer E175,Luxury,7738,28-04-2025
+Kolhapur,Surat,AI847,Vistara,02:58,09:59,06:58,Domestic,ATR 72,Luxury,18984,04-07-2025
+Kolhapur,Ahmedabad,AI413,Vistara,02:37,15:22,18:53,Domestic,ATR 72,Economy,15611,01-12-2025
+Kolhapur,Vadodara,AI211,Vistara,03:46,09:14,21:43,International,Embraer E175,Luxury,8078,15-12-2025
+Amravati,Vadodara,AI904,TruJet,02:41,05:05,07:51,International,Airbus A320,Luxury,16350,06-10-2025
+Solapur,Vadodara,AI654,Vistara,03:59,04:26,05:34,International,Embraer E175,Luxury,17384,06-04-2025
+Jalgaon,Bhopal,AI264,Air India,03:27,18:36,10:48,Domestic,ATR 72,Economy,15117,24-11-2025
+Nagpur,Bhopal,AI241,Air India,01:12,19:50,02:51,Domestic,Airbus A320,Luxury,11766,12-12-2025
+Amravati,Bhopal,AI675,SpiceJet,02:22,05:05,02:31,Domestic,Embraer E175,Luxury,5623,04-07-2025
+Pune,Indore,AI950,SpiceJet,02:44,03:51,20:48,International,Boeing 737,Moderate,8645,09-10-2025
+Kolhapur,Jaipur,AI490,Air India,03:38,14:20,17:29,International,Airbus A320,Economy,16642,09-06-2025
+Mumbai,Hyderabad,AI168,IndiGo,02:57,09:06,23:37,Domestic,Embraer E175,Moderate,5008,11-03-2025
+Nashik,Surat,AI482,Air India,03:28,20:00,01:59,Domestic,Boeing 737,Luxury,12064,26-04-2025
+Nashik,Jaipur,AI753,TruJet,01:23,20:31,02:08,International,ATR 72,Economy,15231,18-09-2025
+Mumbai,Chennai,AI955,GoAir,03:14,16:52,01:21,International,Airbus A320,Economy,11232,14-10-2025
+Nashik,Hyderabad,AI546,Air India,02:05,10:55,18:36,Domestic,Embraer E175,Moderate,19884,18-07-2025
+Pune,Chennai,AI688,SpiceJet,01:40,11:49,00:52,International,Airbus A320,Moderate,12616,14-02-2025
+Aurangabad,Jaipur,AI154,GoAir,01:09,01:04,09:56,Domestic,Airbus A320,Luxury,8653,23-03-2025
+Amravati,Indore,AI895,TruJet,01:40,09:18,05:21,International,Airbus A320,Luxury,6152,08-01-2025
+Nagpur,Jaipur,AI886,Vistara,01:17,00:51,21:13,Domestic,ATR 72,Luxury,7536,20-04-2025
+Aurangabad,Chennai,AI443,TruJet,01:03,06:39,03:20,Domestic,ATR 72,Luxury,11481,25-03-2025
+Nashik,Chennai,AI438,SpiceJet,01:54,08:28,22:52,International,ATR 72,Luxury,10054,23-09-2025
+Jalgaon,Surat,AI452,Vistara,03:43,04:04,18:21,International,Airbus A320,Moderate,10715,02-10-2025
+Thane,Bhopal,AI662,GoAir,01:24,02:52,17:29,International,Boeing 737,Luxury,7702,13-03-2025
+Solapur,Hyderabad,AI414,Air India,03:55,01:09,09:45,Domestic,ATR 72,Economy,9733,01-08-2025
+Thane,Bhopal,AI935,IndiGo,01:28,18:07,19:00,International,ATR 72,Luxury,17669,09-02-2025
+Amravati,Udaipur,AI691,Vistara,03:16,02:17,00:09,Domestic,Boeing 737,Economy,11019,07-05-2025
+Solapur,Hyderabad,AI930,SpiceJet,02:14,10:19,18:53,Domestic,Boeing 737,Luxury,16085,24-02-2025
+Aurangabad,Chennai,AI189,SpiceJet,02:07,20:48,01:34,International,ATR 72,Luxury,5208,28-11-2025
+Pune,Hyderabad,AI506,Air India,02:23,18:53,03:48,International,ATR 72,Luxury,12677,08-05-2025
+Solapur,Udaipur,AI405,SpiceJet,01:53,04:47,05:55,International,Airbus A320,Luxury,9740,21-03-2025
+Pune,Vadodara,AI304,TruJet,02:58,07:26,17:31,International,Boeing 737,Economy,18377,19-01-2025
+Jalgaon,Goa,AI150,GoAir,03:02,10:17,16:29,Domestic,Boeing 737,Moderate,13633,06-09-2025
+Aurangabad,Hyderabad,AI518,TruJet,01:14,05:58,13:56,International,Airbus A320,Economy,15825,23-07-2025
+Aurangabad,Chennai,AI639,Vistara,01:24,04:17,05:58,Domestic,Airbus A320,Economy,9201,18-08-2025
+Aurangabad,Hyderabad,AI847,TruJet,03:51,09:41,10:48,Domestic,Boeing 737,Economy,7385,04-11-2025
+Nagpur,Chennai,AI710,Vistara,01:50,10:05,01:01,International,Embraer E175,Economy,15532,01-01-2025
+Jalgaon,Hyderabad,AI825,Air India,03:41,09:16,10:10,International,Boeing 737,Moderate,11570,28-12-2025
+Amravati,Chennai,AI733,GoAir,01:36,22:41,07:41,Domestic,Boeing 737,Economy,7320,14-01-2025
+Mumbai,Surat,AI307,SpiceJet,03:08,23:26,12:24,International,ATR 72,Moderate,14051,19-10-2025
+Thane,Surat,AI101,Air India,02:35,13:03,22:31,Domestic,Boeing 737,Economy,15901,24-11-2025
+Nashik,Goa,AI157,Vistara,03:51,05:57,21:28,Domestic,ATR 72,Economy,19385,20-03-2025
+Aurangabad,Ahmedabad,AI963,GoAir,03:36,17:35,09:55,Domestic,Boeing 737,Luxury,10000,10-02-2025
+Pune,Hyderabad,AI730,SpiceJet,03:10,06:21,03:16,Domestic,Embraer E175,Luxury,17507,17-05-2025
+Nashik,Surat,AI511,GoAir,02:14,21:29,00:20,International,ATR 72,Luxury,14685,29-11-2025
+Nashik,Jaipur,AI635,SpiceJet,02:37,20:08,21:07,Domestic,Airbus A320,Economy,14483,12-04-2025
+Aurangabad,Vadodara,AI555,IndiGo,02:16,13:34,12:47,Domestic,Airbus A320,Luxury,9067,22-01-2025
+Aurangabad,Bhopal,AI293,SpiceJet,02:43,16:46,10:51,International,ATR 72,Moderate,11611,08-11-2025
+Solapur,Surat,AI460,Air India,01:59,13:26,19:35,International,ATR 72,Economy,13881,18-09-2025
+Mumbai,Bhopal,AI572,GoAir,01:58,11:58,09:56,Domestic,Airbus A320,Moderate,9726,28-04-2025
+Thane,Ahmedabad,AI449,IndiGo,03:10,22:19,01:45,Domestic,Embraer E175,Moderate,7696,25-10-2025
+Nashik,Bhopal,AI592,GoAir,01:07,14:13,18:13,Domestic,Airbus A320,Luxury,12817,14-10-2025
+Thane,Goa,AI705,SpiceJet,02:36,19:55,08:14,International,Boeing 737,Moderate,5038,21-09-2025
+Kolhapur,Vadodara,AI491,Air India,03:33,09:38,03:15,International,Embraer E175,Luxury,10423,05-02-2025
+Thane,Jaipur,AI833,SpiceJet,02:45,09:55,07:27,International,Embraer E175,Luxury,19853,29-07-2025
+Thane,Vadodara,AI466,Vistara,01:25,20:42,23:33,International,Embraer E175,Luxury,18308,07-04-2025
+Solapur,Bhopal,AI673,Air India,03:00,22:30,11:53,International,Airbus A320,Luxury,7822,31-10-2025
+Amravati,Vadodara,AI993,IndiGo,01:30,14:33,13:12,International,Embraer E175,Moderate,11364,03-05-2025
+Jalgaon,Chennai,AI693,IndiGo,03:57,16:49,03:54,International,Boeing 737,Luxury,12620,25-08-2025
+Mumbai,Ahmedabad,AI872,GoAir,01:14,21:57,13:28,Domestic,Airbus A320,Luxury,14039,30-08-2025
+Mumbai,Chennai,AI368,IndiGo,03:11,08:47,02:47,International,ATR 72,Economy,5291,29-10-2025
+Aurangabad,Udaipur,AI399,TruJet,01:16,22:06,19:46,International,Boeing 737,Moderate,13309,15-04-2025
+Solapur,Vadodara,AI385,GoAir,01:07,13:07,19:47,International,ATR 72,Moderate,7749,07-06-2025
+Thane,Hyderabad,AI915,TruJet,01:16,07:26,07:40,International,Boeing 737,Moderate,9598,16-11-2025
+Amravati,Vadodara,AI380,GoAir,03:18,04:55,19:34,Domestic,Embraer E175,Luxury,12008,11-10-2025
+Mumbai,Udaipur,AI748,Vistara,03:12,08:14,02:23,Domestic,Boeing 737,Economy,9105,04-05-2025
+Aurangabad,Chennai,AI787,Air India,02:23,12:37,18:07,International,ATR 72,Economy,5573,02-05-2025
+Aurangabad,Udaipur,AI657,Vistara,01:06,22:56,11:34,International,Airbus A320,Economy,9746,28-08-2025
+Mumbai,Ahmedabad,AI224,Air India,02:31,15:39,00:28,Domestic,Boeing 737,Moderate,7389,21-03-2025
+Mumbai,Chennai,AI387,GoAir,01:14,10:46,14:22,International,ATR 72,Moderate,12988,16-08-2025
+Kolhapur,Surat,AI885,Air India,02:30,11:44,10:40,International,Boeing 737,Economy,7957,13-05-2025
+Mumbai,Bhopal,AI781,IndiGo,01:20,09:28,22:13,Domestic,Embraer E175,Economy,11289,18-02-2025
+Pune,Indore,AI833,Air India,02:39,03:47,23:29,International,Boeing 737,Economy,7717,26-02-2025
+Nagpur,Indore,AI396,Vistara,02:52,07:44,13:26,International,Boeing 737,Luxury,13228,29-01-2025
+Mumbai,Chennai,AI699,Vistara,01:42,14:26,07:11,Domestic,Airbus A320,Luxury,5301,23-03-2025
+Pune,Surat,AI108,GoAir,02:42,04:04,22:03,International,ATR 72,Economy,18185,12-12-2025
+Nagpur,Vadodara,AI852,Vistara,02:10,14:01,01:08,Domestic,ATR 72,Economy,7724,10-09-2025
+Nashik,Vadodara,AI964,IndiGo,03:07,11:59,11:47,International,Embraer E175,Economy,12635,11-07-2025
+Kolhapur,Hyderabad,AI704,GoAir,02:39,05:13,08:22,International,Embraer E175,Moderate,18309,15-08-2025
+Thane,Jaipur,AI844,SpiceJet,02:01,18:48,18:26,Domestic,ATR 72,Moderate,11202,16-12-2025
+Thane,Bhopal,AI777,SpiceJet,02:21,15:06,11:24,Domestic,Embraer E175,Economy,11300,12-02-2025
+Jalgaon,Indore,AI158,Vistara,03:07,04:23,16:06,Domestic,ATR 72,Moderate,5509,23-04-2025
+Nagpur,Hyderabad,AI861,GoAir,01:18,12:10,12:42,Domestic,Airbus A320,Economy,5045,03-11-2025
+Nagpur,Surat,AI552,Vistara,03:09,00:00,10:35,Domestic,ATR 72,Luxury,18227,29-04-2025
+Nagpur,Udaipur,AI166,IndiGo,01:39,03:08,10:28,International,Airbus A320,Luxury,18083,06-06-2025
+Pune,Chennai,AI372,SpiceJet,03:39,19:25,04:49,Domestic,Embraer E175,Luxury,8051,05-06-2025
+Amravati,Ahmedabad,AI261,IndiGo,03:13,14:05,11:28,International,Embraer E175,Luxury,11490,23-02-2025
+Nagpur,Vadodara,AI591,TruJet,03:57,03:46,02:16,Domestic,Embraer E175,Moderate,19231,16-11-2025
+Jalgaon,Hyderabad,AI143,GoAir,01:26,16:10,06:53,International,ATR 72,Luxury,8963,24-12-2025
+Nagpur,Vadodara,AI926,GoAir,02:47,23:16,13:30,International,ATR 72,Luxury,10201,31-01-2025
+Amravati,Bhopal,AI171,TruJet,01:02,00:59,08:58,International,ATR 72,Economy,12327,27-04-2025
+Pune,Jaipur,AI104,Air India,03:43,13:23,22:09,International,Airbus A320,Moderate,7011,24-02-2025
+Pune,Udaipur,AI896,GoAir,02:53,21:42,18:16,International,Embraer E175,Moderate,17902,06-11-2025
+Jalgaon,Hyderabad,AI673,GoAir,01:25,13:23,10:25,Domestic,Airbus A320,Moderate,17596,27-07-2025
+Pune,Surat,AI349,IndiGo,03:07,15:26,18:38,International,ATR 72,Economy,5681,06-05-2025
+Mumbai,Bhopal,AI192,IndiGo,01:54,16:35,12:30,International,Boeing 737,Luxury,11833,11-03-2025
+Nagpur,Indore,AI732,Air India,01:45,08:58,01:24,International,Embraer E175,Moderate,7504,30-08-2025
+Thane,Udaipur,AI192,TruJet,03:36,00:27,22:05,Domestic,Airbus A320,Economy,19977,28-03-2025
+Nagpur,Indore,AI731,SpiceJet,02:32,02:06,20:51,International,ATR 72,Economy,14427,27-10-2025
+Nagpur,Udaipur,AI374,GoAir,03:51,15:04,18:17,International,Boeing 737,Moderate,18885,13-06-2025
+Nagpur,Ahmedabad,AI995,IndiGo,03:28,16:06,03:30,International,Embraer E175,Luxury,7416,04-10-2025
+Nagpur,Bhopal,AI445,IndiGo,01:25,19:07,12:09,Domestic,Airbus A320,Economy,18364,16-03-2025
+Pune,Indore,AI876,GoAir,02:35,00:10,08:06,Domestic,Boeing 737,Moderate,18015,16-11-2025
+Aurangabad,Bhopal,AI774,Air India,01:16,15:16,21:44,Domestic,ATR 72,Luxury,5073,25-08-2025
+Aurangabad,Bhopal,AI966,Vistara,03:08,19:04,08:36,Domestic,Airbus A320,Luxury,18548,01-02-2025
+Nagpur,Ahmedabad,AI470,Vistara,03:54,10:04,15:53,Domestic,Boeing 737,Moderate,19451,18-05-2025
+Solapur,Jaipur,AI859,Vistara,03:00,17:35,00:16,International,Airbus A320,Economy,14942,13-08-2025
+Kolhapur,Goa,AI322,IndiGo,03:21,14:57,14:30,International,Airbus A320,Economy,16278,09-12-2025
+Jalgaon,Goa,AI634,GoAir,01:47,02:16,12:28,Domestic,ATR 72,Economy,18469,01-05-2025
+Mumbai,Chennai,AI857,Air India,03:19,05:08,19:23,Domestic,Boeing 737,Luxury,6623,31-08-2025
+Nagpur,Indore,AI745,Vistara,03:56,12:00,02:48,Domestic,Airbus A320,Moderate,11954,31-12-2025
+Kolhapur,Chennai,AI509,SpiceJet,02:55,00:22,21:37,Domestic,Boeing 737,Moderate,6463,02-08-2025
+Pune,Bhopal,AI122,IndiGo,01:08,13:32,16:11,Domestic,Airbus A320,Economy,12649,07-11-2025
+Nashik,Surat,AI365,SpiceJet,03:01,00:12,11:25,International,ATR 72,Moderate,18868,07-06-2025
+Amravati,Vadodara,AI342,Vistara,02:00,14:19,02:14,Domestic,Airbus A320,Luxury,18782,18-07-2025
+Pune,Vadodara,AI343,Air India,02:08,04:58,09:30,Domestic,ATR 72,Moderate,17741,15-11-2025
+Pune,Hyderabad,AI955,Air India,03:29,18:55,06:20,Domestic,Boeing 737,Moderate,6802,12-07-2025
+Pune,Ahmedabad,AI320,IndiGo,01:45,03:34,09:06,Domestic,Embraer E175,Economy,11112,30-10-2025
+Thane,Vadodara,AI895,Air India,03:42,12:18,23:38,International,Airbus A320,Economy,9623,01-02-2025
+Aurangabad,Chennai,AI928,Air India,03:37,05:58,01:54,Domestic,Airbus A320,Luxury,16517,23-01-2025
+Aurangabad,Jaipur,AI830,TruJet,01:56,00:08,19:56,Domestic,Boeing 737,Luxury,15590,10-12-2025
+Amravati,Chennai,AI452,Air India,01:56,06:19,03:14,International,Airbus A320,Moderate,15947,12-01-2025
+Mumbai,Bhopal,AI748,IndiGo,02:34,13:07,02:25,International,ATR 72,Luxury,15337,17-07-2025
+Mumbai,Vadodara,AI532,TruJet,01:53,23:47,16:26,Domestic,Airbus A320,Economy,11388,07-02-2025
+Jalgaon,Hyderabad,AI168,GoAir,01:25,07:42,20:43,International,Airbus A320,Economy,5868,18-03-2025
+Aurangabad,Surat,AI384,Air India,03:05,12:20,07:55,Domestic,ATR 72,Luxury,8530,27-03-2025
+Solapur,Udaipur,AI153,IndiGo,02:32,09:36,01:07,Domestic,Airbus A320,Economy,19447,06-07-2025
+Solapur,Surat,AI431,TruJet,01:50,05:03,15:20,Domestic,Boeing 737,Luxury,6000,23-05-2025
+Amravati,Ahmedabad,AI167,IndiGo,03:10,14:43,00:25,Domestic,Boeing 737,Luxury,9610,27-12-2025
+Nagpur,Ahmedabad,AI646,Vistara,03:35,11:12,23:43,International,Boeing 737,Moderate,11419,20-11-2025
+Nagpur,Surat,AI974,TruJet,03:38,23:23,18:41,International,Embraer E175,Moderate,6030,13-12-2025
+Pune,Ahmedabad,AI189,GoAir,02:44,03:22,04:44,Domestic,Boeing 737,Luxury,6343,24-06-2025
+Kolhapur,Ahmedabad,AI758,SpiceJet,03:20,16:37,22:48,Domestic,ATR 72,Luxury,10023,30-09-2025
+Jalgaon,Ahmedabad,AI720,SpiceJet,02:22,10:16,04:34,International,Embraer E175,Economy,7203,22-03-2025
+Pune,Hyderabad,AI436,GoAir,02:25,02:59,17:37,International,Embraer E175,Moderate,19110,15-03-2025

@@ -1,501 +1,501 @@
-From,To,Train Name,Train No,Duration,Type,Departure Time,Arrival Time,Price Category,Train Date
-Nashik,Vadodara,Vadodara Express Express,83776,11:06,Express,17:24,04:30,Luxury,03-04-2025
-Ranchi,Jamshedpur,Jamshedpur Duronto Express,82159,17:24,Superfast,22:15,15:39,Luxury,28-03-2025
-Aurangabad,Visakhapatnam,Visakhapatnam Duronto Express,77392,12:25,Superfast,03:50,16:15,Luxury,26-03-2025
-Jodhpur,Thiruvananthapuram,Thiruvananthapuram Express Express,41563,19:59,Superfast,13:05,09:04,Cheap,05-03-2025
-Vijayawada,Pune,Pune Superfast Express,16763,19:45,Duronto,03:55,23:40,Moderate,12-03-2025
-Lucknow,Jaipur,Jaipur Shatabdi Express,73647,30:17:00,Superfast,14:52,21:09,Cheap,09-04-2025
-Nashik,Bhubaneswar,Bhubaneswar Duronto Express,44691,22:01,Shatabdi,21:30,19:31,Cheap,05-04-2025
-Chandigarh,Coimbatore,Coimbatore Rajdhani Express,48126,08:26,Superfast,05:26,13:52,Cheap,10-03-2025
-Vadodara,Dehradun,Dehradun Shatabdi Express,22659,11:22,Rajdhani,03:08,14:30,Cheap,25-03-2025
-Delhi,Surat,Surat Duronto Express,27542,07:31,Superfast,03:25,10:56,Cheap,21-02-2025
-Pune,Vijayawada,Vijayawada Rajdhani Express,50337,24:03:00,Express,14:56,14:59,Luxury,14-03-2025
-Ahmedabad,Delhi,Delhi Duronto Express,14923,20:39,Shatabdi,05:12,01:51,Luxury,19-02-2025
-Udaipur,Lucknow,Lucknow Superfast Express,52776,10:02,Rajdhani,01:13,11:15,Cheap,19-03-2025
-Chennai,Pune,Pune Superfast Express,37548,12:39,Superfast,22:48,11:27,Moderate,14-04-2025
-Raipur,Indore,Indore Rajdhani Express,32593,11:10,Duronto,03:08,14:18,Moderate,13-04-2025
-Nagpur,Hyderabad,Hyderabad Duronto Express,24168,27:13:00,Duronto,19:03,22:16,Cheap,19-02-2025
-Vadodara,Bhubaneswar,Bhubaneswar Passenger Express,71347,14:36,Rajdhani,07:36,22:12,Luxury,29-03-2025
-Vadodara,Madurai,Madurai Express Express,84871,08:31,Duronto,07:25,15:56,Luxury,19-02-2025
-Delhi,Visakhapatnam,Visakhapatnam Superfast Express,23501,05:52,Rajdhani,23:41,05:33,Luxury,20-03-2025
-Varanasi,Delhi,Delhi Duronto Express,94177,26:21:00,Shatabdi,09:13,11:34,Luxury,14-04-2025
-Bangalore,Amritsar,Amritsar Shatabdi Express,91684,30:51:00,Shatabdi,00:22,07:13,Moderate,27-03-2025
-Udaipur,Amritsar,Amritsar Passenger Express,55705,09:55,Duronto,22:51,08:46,Moderate,05-04-2025
-Jodhpur,Ahmedabad,Ahmedabad Express Express,62211,11:59,Passenger,20:25,08:24,Cheap,25-03-2025
-Shimla,Aurangabad,Aurangabad Superfast Express,77548,09:47,Passenger,10:47,20:34,Luxury,25-03-2025
-Nagpur,Kolkata,Kolkata Passenger Express,30295,28:28:00,Shatabdi,18:31,22:59,Cheap,24-03-2025
-Bangalore,Indore,Indore Express Express,67848,29:46:00,Shatabdi,04:05,09:51,Moderate,30-03-2025
-Aurangabad,Udaipur,Udaipur Superfast Express,90685,23:31,Superfast,05:02,04:33,Cheap,17-04-2025
-Udaipur,Gwalior,Gwalior Duronto Express,50527,07:11,Duronto,03:58,11:09,Luxury,16-03-2025
-Nagpur,Thiruvananthapuram,Thiruvananthapuram Express Express,97273,30:26:00,Duronto,09:05,15:31,Luxury,10-04-2025
-Lucknow,Jamshedpur,Jamshedpur Passenger Express,89580,30:12:00,Duronto,11:35,17:47,Cheap,10-04-2025
-Nashik,Chennai,Chennai Express Express,90793,08:20,Duronto,18:26,02:46,Moderate,16-04-2025
-Jodhpur,Pune,Pune Shatabdi Express,84730,05:01,Express,16:21,21:22,Luxury,11-04-2025
-Madurai,Bhopal,Bhopal Rajdhani Express,24175,07:19,Passenger,00:47,08:06,Luxury,24-02-2025
-Udaipur,Jodhpur,Jodhpur Rajdhani Express,77886,07:17,Shatabdi,20:12,03:29,Moderate,13-04-2025
-Shimla,Hyderabad,Hyderabad Rajdhani Express,64534,30:58:00,Shatabdi,16:31,23:29,Cheap,08-03-2025
-Shimla,Guwahati,Guwahati Rajdhani Express,69614,24:47:00,Duronto,23:17,00:04,Luxury,05-03-2025
-Patna,Mysore,Mysore Express Express,85131,05:59,Express,23:20,05:19,Cheap,16-03-2025
-Vadodara,Visakhapatnam,Visakhapatnam Shatabdi Express,50966,18:57,Duronto,05:14,00:11,Cheap,24-02-2025
-Agra,Nashik,Nashik Rajdhani Express,40106,17:43,Express,10:25,04:08,Luxury,20-03-2025
-Hyderabad,Nashik,Nashik Superfast Express,73070,21:10,Rajdhani,06:37,03:47,Moderate,01-03-2025
-Hyderabad,Gwalior,Gwalior Passenger Express,33293,27:46:00,Express,12:03,15:49,Moderate,02-04-2025
-Patna,Delhi,Delhi Passenger Express,90811,12:11,Express,05:03,17:14,Cheap,25-03-2025
-Kolkata,Vijayawada,Vijayawada Passenger Express,28153,28:10:00,Rajdhani,05:44,09:54,Moderate,03-03-2025
-Guwahati,Gwalior,Gwalior Passenger Express,84395,11:36,Duronto,12:54,00:30,Cheap,11-03-2025
-Indore,Coimbatore,Coimbatore Superfast Express,99045,10:00,Rajdhani,18:59,04:59,Moderate,11-03-2025
-Jaipur,Jodhpur,Jodhpur Express Express,29157,23:08,Superfast,12:38,11:46,Moderate,09-03-2025
-Udaipur,Amritsar,Amritsar Duronto Express,21275,15:10,Shatabdi,08:55,00:05,Cheap,28-02-2025
-Ranchi,Mysore,Mysore Shatabdi Express,77111,28:36:00,Passenger,00:38,05:14,Moderate,17-03-2025
-Patna,Vijayawada,Vijayawada Duronto Express,56217,08:26,Duronto,04:25,12:51,Moderate,13-04-2025
-Chandigarh,Ranchi,Ranchi Superfast Express,78427,22:23,Duronto,18:40,17:03,Cheap,01-04-2025
-Visakhapatnam,Udaipur,Udaipur Shatabdi Express,92498,08:17,Superfast,08:04,16:21,Moderate,21-03-2025
-Indore,Visakhapatnam,Visakhapatnam Superfast Express,83393,10:22,Shatabdi,16:25,02:47,Cheap,21-03-2025
-Nashik,Indore,Indore Rajdhani Express,35643,20:53,Duronto,22:45,19:38,Cheap,26-03-2025
-Nashik,Chennai,Chennai Express Express,65142,12:29,Shatabdi,19:48,08:17,Luxury,31-03-2025
-Bangalore,Indore,Indore Shatabdi Express,93803,19:00,Express,12:11,07:11,Cheap,16-03-2025
-Guwahati,Amritsar,Amritsar Shatabdi Express,78159,20:27,Rajdhani,06:59,03:26,Moderate,10-04-2025
-Pune,Lucknow,Lucknow Superfast Express,38714,22:26,Passenger,10:00,08:26,Moderate,16-03-2025
-Vijayawada,Coimbatore,Coimbatore Duronto Express,92760,20:48,Shatabdi,21:12,18:00,Moderate,08-03-2025
-Chennai,Bhopal,Bhopal Shatabdi Express,46137,21:04,Rajdhani,15:22,12:26,Cheap,26-02-2025
-Coimbatore,Pune,Pune Superfast Express,55698,18:13,Express,20:37,14:50,Moderate,12-04-2025
-Aurangabad,Coimbatore,Coimbatore Superfast Express,80098,28:42:00,Superfast,15:33,20:15,Moderate,28-02-2025
-Pune,Nashik,Nashik Express Express,86260,22:48,Express,00:20,23:08,Cheap,06-04-2025
-Bangalore,Ranchi,Ranchi Rajdhani Express,96749,09:08,Shatabdi,00:21,09:29,Luxury,18-04-2025
-Jaipur,Agra,Agra Express Express,65081,27:06:00,Express,10:54,14:00,Cheap,26-02-2025
-Shimla,Thiruvananthapuram,Thiruvananthapuram Express Express,78358,07:37,Superfast,21:16,04:53,Cheap,27-03-2025
-Amritsar,Bhopal,Bhopal Express Express,32304,11:04,Passenger,13:02,00:06,Cheap,09-04-2025
-Dehradun,Surat,Surat Duronto Express,90360,11:28,Passenger,17:27,04:55,Luxury,09-03-2025
-Madurai,Jaipur,Jaipur Duronto Express,88164,14:19,Shatabdi,14:22,04:41,Cheap,26-03-2025
-Kanpur,Mysore,Mysore Passenger Express,62578,26:38:00,Passenger,09:14,11:52,Luxury,14-04-2025
-Nagpur,Thiruvananthapuram,Thiruvananthapuram Rajdhani Express,72022,18:04,Duronto,09:16,03:20,Moderate,09-04-2025
-Raipur,Varanasi,Varanasi Passenger Express,24731,23:37,Express,19:30,19:07,Luxury,24-02-2025
-Guwahati,Agra,Agra Shatabdi Express,78312,07:27,Express,19:30,02:57,Cheap,27-03-2025
-Bhubaneswar,Bhopal,Bhopal Express Express,45764,26:17:00,Superfast,02:41,04:58,Luxury,18-03-2025
-Vijayawada,Visakhapatnam,Visakhapatnam Express Express,47695,13:35,Shatabdi,10:20,23:55,Luxury,28-03-2025
-Mumbai,Raipur,Raipur Express Express,18977,14:20,Rajdhani,06:42,21:02,Luxury,02-04-2025
-Amritsar,Kanpur,Kanpur Duronto Express,75201,25:17:00,Passenger,01:35,02:52,Luxury,27-02-2025
-Nashik,Jaipur,Jaipur Shatabdi Express,95721,27:57:00,Express,00:06,04:03,Cheap,03-03-2025
-Udaipur,Guwahati,Guwahati Superfast Express,71798,26:36:00,Express,09:14,11:50,Moderate,24-03-2025
-Coimbatore,Jamshedpur,Jamshedpur Superfast Express,91147,14:30,Shatabdi,08:43,23:13,Cheap,04-04-2025
-Varanasi,Guwahati,Guwahati Shatabdi Express,73416,19:13,Rajdhani,15:06,10:19,Moderate,09-03-2025
-Mumbai,Ahmedabad,Ahmedabad Passenger Express,83118,22:19,Shatabdi,17:42,16:01,Luxury,09-04-2025
-Jodhpur,Surat,Surat Shatabdi Express,14654,26:26:00,Rajdhani,12:31,14:57,Cheap,02-03-2025
-Ahmedabad,Mumbai,Mumbai Duronto Express,48926,16:07,Rajdhani,05:28,21:35,Moderate,03-03-2025
-Chandigarh,Ranchi,Ranchi Superfast Express,88333,14:29,Shatabdi,00:12,14:41,Luxury,05-04-2025
-Hyderabad,Delhi,Delhi Shatabdi Express,94639,23:13,Rajdhani,14:25,13:38,Cheap,29-03-2025
-Nashik,Dehradun,Dehradun Rajdhani Express,40028,27:05:00,Passenger,02:27,05:32,Cheap,02-03-2025
-Pune,Patna,Patna Superfast Express,22320,24:45:00,Express,16:10,16:55,Luxury,21-02-2025
-Patna,Nagpur,Nagpur Superfast Express,51041,11:48,Express,08:25,20:13,Cheap,20-02-2025
-Nashik,Bhubaneswar,Bhubaneswar Rajdhani Express,18735,26:28:00,Rajdhani,05:11,07:39,Cheap,03-03-2025
-Guwahati,Ahmedabad,Ahmedabad Rajdhani Express,30635,06:28,Duronto,15:32,22:00,Moderate,04-04-2025
-Jaipur,Nagpur,Nagpur Express Express,88623,22:29,Shatabdi,02:29,00:58,Luxury,15-03-2025
-Ahmedabad,Bangalore,Bangalore Passenger Express,50407,27:00:00,Express,16:52,19:52,Cheap,28-03-2025
-Raipur,Jodhpur,Jodhpur Superfast Express,26035,06:50,Rajdhani,08:59,15:49,Moderate,11-04-2025
-Visakhapatnam,Guwahati,Guwahati Rajdhani Express,21039,12:52,Passenger,11:54,00:46,Luxury,28-02-2025
-Mysore,Aurangabad,Aurangabad Passenger Express,75839,22:02,Duronto,00:13,22:15,Luxury,10-03-2025
-Chandigarh,Visakhapatnam,Visakhapatnam Express Express,26039,12:53,Express,18:49,07:42,Luxury,02-03-2025
-Mumbai,Jodhpur,Jodhpur Superfast Express,66843,27:12:00,Express,00:16,03:28,Moderate,10-03-2025
-Jaipur,Raipur,Raipur Passenger Express,62925,07:21,Rajdhani,14:47,22:08,Luxury,10-04-2025
-Vijayawada,Delhi,Delhi Duronto Express,19877,18:32,Passenger,18:03,12:35,Cheap,19-03-2025
-Gwalior,Pune,Pune Express Express,54629,30:28:00,Duronto,21:01,03:29,Cheap,23-02-2025
-Gwalior,Agra,Agra Rajdhani Express,29582,22:14,Duronto,06:45,04:59,Luxury,06-04-2025
-Patna,Coimbatore,Coimbatore Rajdhani Express,12369,29:26:00,Rajdhani,07:50,13:16,Moderate,21-03-2025
-Bhubaneswar,Nagpur,Nagpur Shatabdi Express,72465,17:23,Rajdhani,09:08,02:31,Luxury,19-03-2025
-Visakhapatnam,Nashik,Nashik Duronto Express,21918,18:15,Duronto,16:29,10:44,Moderate,15-03-2025
-Agra,Dehradun,Dehradun Shatabdi Express,26107,06:33,Shatabdi,14:56,21:29,Moderate,15-04-2025
-Nashik,Lucknow,Lucknow Superfast Express,12519,22:38,Duronto,19:15,17:53,Moderate,24-02-2025
-Visakhapatnam,Varanasi,Varanasi Shatabdi Express,31870,28:51:00,Express,22:33,03:24,Luxury,29-03-2025
-Meerut,Mumbai,Mumbai Shatabdi Express,21164,07:09,Shatabdi,23:23,06:32,Cheap,01-03-2025
-Coimbatore,Jaipur,Jaipur Superfast Express,81936,14:27,Shatabdi,22:40,13:07,Luxury,05-04-2025
-Kolkata,Nagpur,Nagpur Passenger Express,90098,30:40:00,Express,01:23,08:03,Luxury,01-03-2025
-Delhi,Varanasi,Varanasi Express Express,69467,27:45:00,Duronto,22:06,01:51,Luxury,12-03-2025
-Indore,Aurangabad,Aurangabad Shatabdi Express,88632,24:18:00,Passenger,14:16,14:34,Cheap,15-03-2025
-Mysore,Jamshedpur,Jamshedpur Superfast Express,66010,10:13,Rajdhani,11:41,21:54,Moderate,25-02-2025
-Ahmedabad,Surat,Surat Rajdhani Express,19700,16:10,Duronto,15:57,08:07,Cheap,09-04-2025
-Nashik,Bangalore,Bangalore Passenger Express,40990,18:44,Rajdhani,21:56,16:40,Moderate,15-03-2025
-Delhi,Meerut,Meerut Passenger Express,16743,09:59,Superfast,05:30,15:29,Luxury,07-04-2025
-Bhopal,Bhubaneswar,Bhubaneswar Express Express,83735,21:28,Passenger,07:39,05:07,Cheap,24-03-2025
-Delhi,Ahmedabad,Ahmedabad Shatabdi Express,29344,30:20:00,Rajdhani,20:10,02:30,Cheap,26-03-2025
-Gwalior,Lucknow,Lucknow Superfast Express,38685,24:58:00,Rajdhani,05:56,06:54,Cheap,22-03-2025
-Nagpur,Coimbatore,Coimbatore Duronto Express,74840,09:54,Duronto,00:17,10:11,Luxury,03-04-2025
-Vijayawada,Dehradun,Dehradun Shatabdi Express,72293,27:13:00,Express,21:55,01:08,Moderate,01-04-2025
-Vadodara,Ahmedabad,Ahmedabad Passenger Express,60684,13:53,Passenger,16:11,06:04,Cheap,10-04-2025
-Gwalior,Coimbatore,Coimbatore Express Express,17580,23:25,Passenger,21:18,20:43,Luxury,08-04-2025
-Ahmedabad,Raipur,Raipur Superfast Express,62303,19:54,Express,12:49,08:43,Cheap,11-03-2025
-Vadodara,Mumbai,Mumbai Passenger Express,56396,19:40,Passenger,18:43,14:23,Moderate,22-03-2025
-Dehradun,Udaipur,Udaipur Superfast Express,50600,25:06:00,Superfast,17:41,18:47,Cheap,14-03-2025
-Thiruvananthapuram,Vijayawada,Vijayawada Shatabdi Express,11032,08:42,Duronto,05:09,13:51,Moderate,03-04-2025
-Gwalior,Jamshedpur,Jamshedpur Shatabdi Express,17278,27:49:00,Shatabdi,05:24,09:13,Luxury,15-04-2025
-Nashik,Surat,Surat Rajdhani Express,70075,29:51:00,Duronto,18:28,00:19,Cheap,27-03-2025
-Madurai,Visakhapatnam,Visakhapatnam Passenger Express,39079,10:11,Passenger,22:20,08:31,Moderate,17-03-2025
-Vadodara,Hyderabad,Hyderabad Passenger Express,50701,14:17,Rajdhani,18:45,09:02,Luxury,25-02-2025
-Gwalior,Surat,Surat Rajdhani Express,45420,29:45:00,Passenger,22:20,04:05,Luxury,07-04-2025
-Indore,Raipur,Raipur Shatabdi Express,78897,07:31,Superfast,20:43,04:14,Cheap,09-03-2025
-Lucknow,Chandigarh,Chandigarh Passenger Express,39324,11:24,Passenger,22:36,10:00,Cheap,06-04-2025
-Vijayawada,Bhubaneswar,Bhubaneswar Superfast Express,86389,12:41,Superfast,02:08,14:49,Cheap,22-02-2025
-Udaipur,Vijayawada,Vijayawada Rajdhani Express,81975,11:48,Express,02:08,13:56,Moderate,22-02-2025
-Vadodara,Mysore,Mysore Express Express,23061,16:42,Rajdhani,00:00,16:42,Cheap,13-04-2025
-Visakhapatnam,Bangalore,Bangalore Superfast Express,83916,13:10,Passenger,01:54,15:04,Moderate,27-02-2025
-Coimbatore,Hyderabad,Hyderabad Shatabdi Express,48507,09:41,Passenger,00:23,10:04,Cheap,11-04-2025
-Aurangabad,Coimbatore,Coimbatore Superfast Express,54292,22:47,Shatabdi,18:05,16:52,Cheap,29-03-2025
-Vijayawada,Chennai,Chennai Express Express,43959,17:50,Shatabdi,07:47,01:37,Cheap,19-02-2025
-Kolkata,Ranchi,Ranchi Superfast Express,74132,09:50,Rajdhani,19:25,05:15,Cheap,24-02-2025
-Thiruvananthapuram,Jaipur,Jaipur Duronto Express,31197,16:57,Shatabdi,13:35,06:32,Cheap,02-03-2025
-Lucknow,Coimbatore,Coimbatore Superfast Express,46935,22:48,Superfast,09:59,08:47,Cheap,06-03-2025
-Chandigarh,Indore,Indore Duronto Express,65724,14:21,Rajdhani,21:31,11:52,Cheap,20-03-2025
-Madurai,Bangalore,Bangalore Express Express,90319,14:34,Passenger,13:50,04:24,Luxury,19-02-2025
-Hyderabad,Udaipur,Udaipur Shatabdi Express,56441,24:47:00,Express,01:32,02:19,Luxury,18-03-2025
-Nashik,Varanasi,Varanasi Rajdhani Express,28901,14:58,Rajdhani,03:54,18:52,Luxury,21-02-2025
-Coimbatore,Patna,Patna Superfast Express,17517,09:42,Express,17:37,03:19,Moderate,03-04-2025
-Guwahati,Aurangabad,Aurangabad Express Express,41211,27:10:00,Express,10:16,13:26,Cheap,30-03-2025
-Nagpur,Amritsar,Amritsar Duronto Express,95721,20:46,Express,00:08,20:54,Luxury,19-04-2025
-Surat,Aurangabad,Aurangabad Superfast Express,66682,26:26:00,Rajdhani,05:17,07:43,Luxury,11-04-2025
-Hyderabad,Raipur,Raipur Rajdhani Express,74224,21:45,Rajdhani,20:43,18:28,Luxury,10-04-2025
-Chandigarh,Hyderabad,Hyderabad Duronto Express,48818,05:51,Shatabdi,12:56,18:47,Moderate,09-04-2025
-Kanpur,Hyderabad,Hyderabad Duronto Express,44234,20:51,Rajdhani,20:58,17:49,Cheap,16-03-2025
-Madurai,Visakhapatnam,Visakhapatnam Express Express,61532,17:59,Duronto,23:08,17:07,Luxury,02-03-2025
-Jamshedpur,Guwahati,Guwahati Superfast Express,97753,16:20,Superfast,17:06,09:26,Cheap,18-03-2025
-Vadodara,Kanpur,Kanpur Passenger Express,32523,27:23:00,Shatabdi,18:07,21:30,Moderate,24-03-2025
-Jaipur,Ahmedabad,Ahmedabad Passenger Express,98986,19:50,Superfast,03:33,23:23,Cheap,02-04-2025
-Surat,Hyderabad,Hyderabad Shatabdi Express,21308,19:10,Express,19:58,15:08,Luxury,03-03-2025
-Mysore,Gwalior,Gwalior Passenger Express,97699,17:00,Superfast,18:20,11:20,Luxury,25-03-2025
-Jodhpur,Varanasi,Varanasi Express Express,35997,25:34:00,Shatabdi,10:56,12:30,Luxury,14-04-2025
-Vijayawada,Delhi,Delhi Shatabdi Express,83822,15:45,Passenger,11:51,03:36,Luxury,20-02-2025
-Agra,Bhubaneswar,Bhubaneswar Duronto Express,78927,13:25,Passenger,18:22,07:47,Cheap,17-03-2025
-Bhubaneswar,Dehradun,Dehradun Passenger Express,58592,13:07,Duronto,22:31,11:38,Cheap,14-04-2025
-Vadodara,Guwahati,Guwahati Shatabdi Express,17093,06:35,Shatabdi,23:48,06:23,Cheap,03-03-2025
-Lucknow,Ahmedabad,Ahmedabad Passenger Express,32192,19:38,Express,03:47,23:25,Luxury,16-03-2025
-Ahmedabad,Vijayawada,Vijayawada Passenger Express,41370,27:42:00,Express,06:10,09:52,Luxury,27-03-2025
-Vadodara,Kanpur,Kanpur Passenger Express,66747,10:14,Shatabdi,02:37,12:51,Luxury,11-04-2025
-Meerut,Guwahati,Guwahati Superfast Express,39704,21:13,Duronto,16:07,13:20,Cheap,06-04-2025
-Nashik,Indore,Indore Shatabdi Express,50201,29:58:00,Duronto,01:39,07:37,Moderate,01-03-2025
-Surat,Jamshedpur,Jamshedpur Express Express,66962,21:48,Passenger,18:31,16:19,Cheap,04-03-2025
-Patna,Bangalore,Bangalore Shatabdi Express,42698,07:09,Express,19:01,02:10,Cheap,15-03-2025
-Bangalore,Mumbai,Mumbai Express Express,74777,09:23,Express,18:34,03:57,Luxury,03-03-2025
-Amritsar,Hyderabad,Hyderabad Duronto Express,63830,21:39,Express,19:01,16:40,Moderate,11-03-2025
-Chennai,Gwalior,Gwalior Shatabdi Express,39749,21:12,Express,07:54,05:06,Cheap,12-04-2025
-Indore,Nagpur,Nagpur Duronto Express,89863,19:36,Express,02:37,22:13,Luxury,02-03-2025
-Meerut,Aurangabad,Aurangabad Shatabdi Express,49660,13:06,Duronto,23:34,12:40,Moderate,01-04-2025
-Bhubaneswar,Lucknow,Lucknow Passenger Express,90229,17:40,Passenger,06:01,23:41,Cheap,20-03-2025
-Coimbatore,Jodhpur,Jodhpur Shatabdi Express,17432,29:43:00,Shatabdi,23:33,05:16,Moderate,14-04-2025
-Surat,Pune,Pune Passenger Express,69799,22:54,Passenger,20:12,19:06,Luxury,13-03-2025
-Nagpur,Jodhpur,Jodhpur Shatabdi Express,17819,08:04,Rajdhani,04:17,12:21,Luxury,27-03-2025
-Madurai,Gwalior,Gwalior Superfast Express,20082,10:13,Passenger,01:14,11:27,Cheap,19-02-2025
-Visakhapatnam,Coimbatore,Coimbatore Duronto Express,18976,17:56,Duronto,02:11,20:07,Moderate,07-03-2025
-Shimla,Agra,Agra Shatabdi Express,52696,25:45:00,Rajdhani,00:15,02:00,Cheap,03-03-2025
-Lucknow,Chennai,Chennai Superfast Express,27248,30:24:00,Duronto,20:33,02:57,Luxury,05-04-2025
-Hyderabad,Vadodara,Vadodara Duronto Express,36223,19:06,Rajdhani,03:33,22:39,Luxury,27-02-2025
-Pune,Nagpur,Nagpur Shatabdi Express,25185,23:07,Passenger,02:48,01:55,Cheap,11-03-2025
-Jaipur,Nagpur,Nagpur Duronto Express,49812,14:47,Superfast,19:22,10:09,Luxury,23-03-2025
-Amritsar,Ranchi,Ranchi Express Express,30309,12:46,Duronto,11:00,23:46,Cheap,02-04-2025
-Guwahati,Gwalior,Gwalior Express Express,41938,29:09:00,Passenger,11:13,16:22,Cheap,28-02-2025
-Delhi,Patna,Patna Passenger Express,84461,18:24,Superfast,04:26,22:50,Moderate,09-03-2025
-Shimla,Bangalore,Bangalore Rajdhani Express,15423,23:39,Rajdhani,18:09,17:48,Moderate,26-02-2025
-Nagpur,Udaipur,Udaipur Rajdhani Express,87287,12:22,Duronto,19:12,07:34,Luxury,08-04-2025
-Pune,Guwahati,Guwahati Rajdhani Express,89839,18:35,Superfast,06:19,00:54,Moderate,24-02-2025
-Chandigarh,Surat,Surat Passenger Express,56468,22:25,Express,17:32,15:57,Cheap,29-03-2025
-Chennai,Mumbai,Mumbai Superfast Express,61357,19:17,Passenger,00:32,19:49,Cheap,19-04-2025
-Dehradun,Ranchi,Ranchi Superfast Express,26751,21:07,Superfast,21:26,18:33,Moderate,12-03-2025
-Delhi,Jamshedpur,Jamshedpur Shatabdi Express,73218,06:22,Passenger,13:20,19:42,Luxury,20-03-2025
-Jamshedpur,Chennai,Chennai Express Express,92663,13:31,Rajdhani,20:49,10:20,Moderate,25-03-2025
-Visakhapatnam,Pune,Pune Passenger Express,31378,26:06:00,Shatabdi,22:00,00:06,Luxury,06-03-2025
-Coimbatore,Delhi,Delhi Duronto Express,22523,22:46,Shatabdi,16:09,14:55,Moderate,10-03-2025
-Gwalior,Surat,Surat Shatabdi Express,86345,07:19,Superfast,01:04,08:23,Cheap,04-04-2025
-Lucknow,Kolkata,Kolkata Rajdhani Express,93574,25:27:00,Duronto,20:38,22:05,Moderate,21-03-2025
-Vadodara,Jaipur,Jaipur Shatabdi Express,41780,07:24,Rajdhani,10:39,18:03,Moderate,26-02-2025
-Raipur,Chennai,Chennai Express Express,48621,05:35,Rajdhani,14:06,19:41,Moderate,06-04-2025
-Vadodara,Varanasi,Varanasi Shatabdi Express,75260,28:38:00,Duronto,18:52,23:30,Luxury,06-04-2025
-Guwahati,Mumbai,Mumbai Express Express,30101,20:40,Superfast,14:19,10:59,Luxury,20-02-2025
-Vijayawada,Indore,Indore Rajdhani Express,97503,21:43,Duronto,13:12,10:55,Cheap,28-02-2025
-Indore,Vadodara,Vadodara Duronto Express,54464,20:02,Superfast,15:11,11:13,Cheap,10-04-2025
-Ranchi,Hyderabad,Hyderabad Shatabdi Express,17996,20:01,Superfast,08:23,04:24,Luxury,20-02-2025
-Kolkata,Amritsar,Amritsar Passenger Express,64263,15:02,Duronto,05:31,20:33,Moderate,12-04-2025
-Patna,Varanasi,Varanasi Superfast Express,51154,23:10,Shatabdi,17:28,16:38,Moderate,09-03-2025
-Bhopal,Kanpur,Kanpur Passenger Express,24611,19:42,Rajdhani,23:48,19:30,Moderate,04-04-2025
-Shimla,Amritsar,Amritsar Express Express,39332,27:51:00,Express,21:21,01:12,Cheap,18-03-2025
-Agra,Ranchi,Ranchi Rajdhani Express,53747,25:56:00,Superfast,21:41,23:37,Luxury,03-04-2025
-Delhi,Hyderabad,Hyderabad Passenger Express,57117,18:44,Passenger,04:19,23:03,Luxury,27-03-2025
-Mumbai,Hyderabad,Hyderabad Shatabdi Express,23045,21:15,Superfast,08:09,05:24,Luxury,21-02-2025
-Guwahati,Madurai,Madurai Passenger Express,99475,20:43,Shatabdi,04:32,01:15,Moderate,12-03-2025
-Surat,Guwahati,Guwahati Express Express,24815,08:28,Duronto,02:22,10:50,Moderate,23-02-2025
-Udaipur,Shimla,Shimla Superfast Express,51386,07:35,Shatabdi,13:56,21:31,Luxury,01-03-2025
-Chandigarh,Thiruvananthapuram,Thiruvananthapuram Duronto Express,49922,13:23,Passenger,06:18,19:41,Cheap,28-02-2025
-Nashik,Mumbai,Mumbai Express Express,50235,07:09,Duronto,06:05,13:14,Cheap,01-03-2025
-Jodhpur,Kanpur,Kanpur Duronto Express,19455,30:19:00,Rajdhani,17:07,23:26,Cheap,25-02-2025
-Vijayawada,Jodhpur,Jodhpur Express Express,27775,12:09,Duronto,05:23,17:32,Cheap,10-04-2025
-Madurai,Shimla,Shimla Passenger Express,97946,25:30:00,Superfast,05:08,06:38,Cheap,12-03-2025
-Mumbai,Ahmedabad,Ahmedabad Rajdhani Express,32806,23:34,Rajdhani,16:26,16:00,Cheap,20-02-2025
-Raipur,Chennai,Chennai Shatabdi Express,89443,07:52,Passenger,11:09,19:01,Luxury,21-02-2025
-Hyderabad,Surat,Surat Express Express,49313,17:40,Superfast,14:16,07:56,Luxury,02-04-2025
-Mumbai,Ahmedabad,Ahmedabad Passenger Express,75437,14:19,Shatabdi,04:57,19:16,Luxury,27-02-2025
-Thiruvananthapuram,Dehradun,Dehradun Express Express,23565,28:59:00,Superfast,00:40,05:39,Cheap,11-04-2025
-Mysore,Chandigarh,Chandigarh Rajdhani Express,54527,28:11:00,Rajdhani,12:37,16:48,Luxury,10-04-2025
-Mumbai,Thiruvananthapuram,Thiruvananthapuram Express Express,55422,11:11,Duronto,19:08,06:19,Moderate,30-03-2025
-Gwalior,Jaipur,Jaipur Superfast Express,78231,25:34:00,Express,21:00,22:34,Luxury,07-04-2025
-Jodhpur,Madurai,Madurai Passenger Express,51287,10:53,Shatabdi,10:37,21:30,Luxury,20-02-2025
-Nashik,Meerut,Meerut Superfast Express,91732,22:22,Duronto,07:17,05:39,Moderate,21-02-2025
-Coimbatore,Hyderabad,Hyderabad Passenger Express,56013,16:55,Duronto,16:26,09:21,Luxury,15-03-2025
-Jaipur,Mysore,Mysore Shatabdi Express,46793,07:42,Superfast,18:21,02:03,Moderate,07-03-2025
-Gwalior,Bangalore,Bangalore Rajdhani Express,61982,19:05,Express,14:33,09:38,Cheap,22-03-2025
-Patna,Hyderabad,Hyderabad Duronto Express,98190,19:58,Passenger,08:38,04:36,Cheap,01-03-2025
-Patna,Shimla,Shimla Superfast Express,86469,08:47,Express,10:40,19:27,Cheap,26-03-2025
-Aurangabad,Shimla,Shimla Superfast Express,61293,14:32,Duronto,18:16,08:48,Cheap,13-03-2025
-Nashik,Pune,Pune Shatabdi Express,11222,20:52,Shatabdi,23:23,20:15,Cheap,01-03-2025
-Pune,Ranchi,Ranchi Passenger Express,10218,20:53,Shatabdi,19:13,16:06,Luxury,27-02-2025
-Guwahati,Kanpur,Kanpur Passenger Express,56305,12:25,Express,01:13,13:38,Luxury,12-03-2025
-Coimbatore,Madurai,Madurai Passenger Express,26961,20:21,Rajdhani,15:39,12:00,Cheap,19-02-2025
-Chandigarh,Chennai,Chennai Superfast Express,38620,13:02,Superfast,10:01,23:03,Luxury,17-04-2025
-Mysore,Vadodara,Vadodara Passenger Express,14893,28:18:00,Express,12:16,16:34,Moderate,27-03-2025
-Ranchi,Agra,Agra Shatabdi Express,95157,30:28:00,Rajdhani,10:22,16:50,Luxury,12-03-2025
-Mumbai,Varanasi,Varanasi Passenger Express,61914,16:49,Duronto,04:17,21:06,Moderate,02-04-2025
-Chennai,Thiruvananthapuram,Thiruvananthapuram Rajdhani Express,40030,24:15:00,Superfast,13:33,13:48,Moderate,02-04-2025
-Shimla,Vijayawada,Vijayawada Passenger Express,61387,18:10,Express,09:43,03:53,Luxury,06-03-2025
-Dehradun,Raipur,Raipur Duronto Express,76587,15:18,Duronto,17:42,09:00,Moderate,27-03-2025
-Delhi,Jamshedpur,Jamshedpur Shatabdi Express,15128,07:41,Passenger,11:13,18:54,Cheap,12-04-2025
-Varanasi,Surat,Surat Duronto Express,86036,19:35,Duronto,03:55,23:30,Luxury,16-04-2025
-Jaipur,Bhopal,Bhopal Superfast Express,63021,27:35:00,Duronto,12:22,15:57,Moderate,03-04-2025
-Bhubaneswar,Aurangabad,Aurangabad Express Express,46837,08:20,Express,05:05,13:25,Cheap,03-03-2025
-Raipur,Bhubaneswar,Bhubaneswar Superfast Express,20992,18:05,Shatabdi,05:23,23:28,Cheap,18-03-2025
-Chennai,Varanasi,Varanasi Superfast Express,35934,18:19,Duronto,23:32,17:51,Moderate,28-02-2025
-Bhubaneswar,Ranchi,Ranchi Superfast Express,28943,05:24,Duronto,13:22,18:46,Moderate,27-02-2025
-Ahmedabad,Bhubaneswar,Bhubaneswar Passenger Express,76123,22:22,Duronto,19:50,18:12,Moderate,08-04-2025
-Jaipur,Mysore,Mysore Express Express,49865,09:59,Superfast,14:24,00:23,Luxury,16-04-2025
-Thiruvananthapuram,Vadodara,Vadodara Shatabdi Express,53005,28:48:00,Passenger,16:21,21:09,Cheap,06-03-2025
-Jodhpur,Ahmedabad,Ahmedabad Passenger Express,67373,29:16:00,Duronto,23:00,04:16,Cheap,14-03-2025
-Gwalior,Jaipur,Jaipur Duronto Express,32744,20:04,Passenger,14:25,10:29,Cheap,08-03-2025
-Chennai,Delhi,Delhi Rajdhani Express,54479,21:00,Express,19:25,16:25,Moderate,15-04-2025
-Dehradun,Vijayawada,Vijayawada Express Express,88604,25:40:00,Superfast,06:02,07:42,Luxury,25-02-2025
-Kolkata,Jaipur,Jaipur Rajdhani Express,65051,20:01,Express,00:40,20:41,Moderate,07-04-2025
-Bhubaneswar,Madurai,Madurai Duronto Express,80171,13:49,Passenger,01:43,15:32,Cheap,20-02-2025
-Delhi,Agra,Agra Superfast Express,14667,27:17:00,Superfast,08:54,12:11,Luxury,26-02-2025
-Visakhapatnam,Jodhpur,Jodhpur Superfast Express,96725,05:26,Shatabdi,10:59,16:25,Moderate,16-03-2025
-Vijayawada,Aurangabad,Aurangabad Rajdhani Express,41561,11:00,Superfast,17:16,04:16,Luxury,05-04-2025
-Amritsar,Visakhapatnam,Visakhapatnam Passenger Express,81630,22:17,Rajdhani,00:24,22:41,Moderate,18-03-2025
-Meerut,Nashik,Nashik Duronto Express,86853,08:06,Rajdhani,18:52,02:58,Moderate,14-04-2025
-Aurangabad,Shimla,Shimla Express Express,88350,13:08,Passenger,05:02,18:10,Cheap,13-03-2025
-Mumbai,Meerut,Meerut Shatabdi Express,89547,22:47,Superfast,15:09,13:56,Moderate,05-03-2025
-Jaipur,Mysore,Mysore Duronto Express,94559,12:50,Rajdhani,08:10,21:00,Cheap,07-04-2025
-Chandigarh,Jodhpur,Jodhpur Rajdhani Express,17027,16:35,Passenger,15:10,07:45,Cheap,18-03-2025
-Nagpur,Lucknow,Lucknow Rajdhani Express,27253,27:36:00,Passenger,20:23,23:59,Luxury,11-03-2025
-Raipur,Coimbatore,Coimbatore Duronto Express,96795,28:43:00,Passenger,01:13,05:56,Cheap,09-04-2025
-Amritsar,Nashik,Nashik Duronto Express,10363,30:24:00,Rajdhani,15:45,22:09,Moderate,03-03-2025
-Amritsar,Lucknow,Lucknow Duronto Express,51240,18:36,Duronto,02:55,21:31,Cheap,14-04-2025
-Ahmedabad,Amritsar,Amritsar Shatabdi Express,73100,27:45:00,Duronto,22:03,01:48,Cheap,12-03-2025
-Chandigarh,Gwalior,Gwalior Rajdhani Express,66423,11:18,Shatabdi,10:42,22:00,Moderate,13-03-2025
-Patna,Nagpur,Nagpur Superfast Express,77924,14:30,Superfast,21:06,11:36,Moderate,26-02-2025
-Ranchi,Ahmedabad,Ahmedabad Duronto Express,84740,23:40,Duronto,16:21,16:01,Cheap,09-03-2025
-Jamshedpur,Hyderabad,Hyderabad Express Express,28734,05:55,Express,12:46,18:41,Luxury,18-03-2025
-Coimbatore,Mumbai,Mumbai Express Express,79572,17:01,Passenger,22:53,15:54,Luxury,09-03-2025
-Nagpur,Vijayawada,Vijayawada Rajdhani Express,27267,29:29:00,Shatabdi,11:40,17:09,Luxury,02-03-2025
-Hyderabad,Patna,Patna Superfast Express,24120,28:48:00,Rajdhani,14:20,19:08,Luxury,03-03-2025
-Jamshedpur,Patna,Patna Express Express,68022,09:19,Rajdhani,12:44,22:03,Luxury,07-03-2025
-Lucknow,Nagpur,Nagpur Express Express,16384,10:33,Passenger,11:54,22:27,Cheap,10-03-2025
-Chandigarh,Chennai,Chennai Passenger Express,84774,25:47:00,Passenger,16:14,18:01,Cheap,24-03-2025
-Nashik,Coimbatore,Coimbatore Passenger Express,20054,15:01,Rajdhani,13:33,04:34,Cheap,15-03-2025
-Mysore,Vadodara,Vadodara Superfast Express,34706,15:47,Duronto,18:23,10:10,Cheap,04-03-2025
-Visakhapatnam,Kolkata,Kolkata Superfast Express,74090,26:46:00,Passenger,05:59,08:45,Luxury,04-03-2025
-Agra,Gwalior,Gwalior Express Express,96838,06:58,Express,03:43,10:41,Cheap,12-04-2025
-Indore,Meerut,Meerut Rajdhani Express,41605,10:13,Superfast,08:20,18:33,Luxury,14-04-2025
-Vadodara,Jodhpur,Jodhpur Express Express,92189,24:56:00,Rajdhani,04:45,05:41,Cheap,16-04-2025
-Vijayawada,Gwalior,Gwalior Superfast Express,93310,17:28,Rajdhani,04:51,22:19,Moderate,10-04-2025
-Udaipur,Dehradun,Dehradun Superfast Express,98887,25:57:00,Duronto,21:12,23:09,Cheap,29-03-2025
-Pune,Patna,Patna Rajdhani Express,23167,18:29,Superfast,14:24,08:53,Luxury,23-02-2025
-Kanpur,Visakhapatnam,Visakhapatnam Duronto Express,19117,06:51,Rajdhani,02:34,09:25,Luxury,27-02-2025
-Gwalior,Ahmedabad,Ahmedabad Passenger Express,94739,14:01,Superfast,01:49,15:50,Cheap,21-03-2025
-Indore,Dehradun,Dehradun Express Express,95022,23:34,Express,11:42,11:16,Moderate,11-04-2025
-Shimla,Dehradun,Dehradun Rajdhani Express,47522,24:22:00,Shatabdi,09:55,10:17,Moderate,28-03-2025
-Amritsar,Guwahati,Guwahati Shatabdi Express,26989,26:33:00,Rajdhani,12:01,14:34,Moderate,17-04-2025
-Jodhpur,Jaipur,Jaipur Express Express,64623,14:35,Rajdhani,10:37,01:12,Luxury,14-04-2025
-Vadodara,Bhubaneswar,Bhubaneswar Express Express,92214,09:05,Rajdhani,08:29,17:34,Moderate,19-04-2025
-Madurai,Vadodara,Vadodara Express Express,78828,25:21:00,Express,21:09,22:30,Cheap,19-03-2025
-Aurangabad,Vadodara,Vadodara Passenger Express,27851,13:45,Superfast,00:31,14:16,Moderate,11-03-2025
-Meerut,Madurai,Madurai Rajdhani Express,98978,12:44,Superfast,16:34,05:18,Cheap,28-02-2025
-Vijayawada,Kolkata,Kolkata Shatabdi Express,30864,26:33:00,Shatabdi,04:38,07:11,Luxury,28-03-2025
-Thiruvananthapuram,Mysore,Mysore Superfast Express,31141,12:14,Rajdhani,03:27,15:41,Luxury,28-03-2025
-Indore,Jodhpur,Jodhpur Duronto Express,15463,18:15,Rajdhani,16:43,10:58,Luxury,01-03-2025
-Bangalore,Madurai,Madurai Passenger Express,33003,29:35:00,Shatabdi,23:36,05:11,Luxury,28-03-2025
-Mysore,Chandigarh,Chandigarh Superfast Express,63573,14:40,Passenger,12:03,02:43,Moderate,13-03-2025
-Kanpur,Gwalior,Gwalior Superfast Express,11082,12:41,Rajdhani,23:57,12:38,Luxury,23-03-2025
-Aurangabad,Varanasi,Varanasi Shatabdi Express,78278,20:41,Passenger,21:52,18:33,Cheap,06-04-2025
-Indore,Patna,Patna Rajdhani Express,23873,24:25:00,Duronto,08:06,08:31,Luxury,18-04-2025
-Amritsar,Chandigarh,Chandigarh Shatabdi Express,97888,19:21,Passenger,06:18,01:39,Luxury,19-03-2025
-Mumbai,Madurai,Madurai Duronto Express,85372,19:41,Duronto,17:18,12:59,Luxury,25-02-2025
-Delhi,Surat,Surat Duronto Express,27649,17:09,Rajdhani,18:43,11:52,Moderate,19-02-2025
-Pune,Madurai,Madurai Passenger Express,17915,08:59,Duronto,07:39,16:38,Luxury,09-03-2025
-Vijayawada,Visakhapatnam,Visakhapatnam Superfast Express,25526,22:22,Passenger,23:52,22:14,Luxury,04-04-2025
-Chennai,Ranchi,Ranchi Shatabdi Express,14510,19:52,Express,18:22,14:14,Luxury,07-03-2025
-Mumbai,Nashik,Nashik Superfast Express,82110,09:01,Shatabdi,05:43,14:44,Luxury,16-04-2025
-Chennai,Lucknow,Lucknow Rajdhani Express,29820,11:22,Duronto,22:46,10:08,Moderate,23-03-2025
-Hyderabad,Kolkata,Kolkata Passenger Express,16417,23:30,Duronto,14:21,13:51,Luxury,26-02-2025
-Shimla,Nagpur,Nagpur Superfast Express,25414,07:40,Passenger,07:47,15:27,Cheap,13-04-2025
-Raipur,Amritsar,Amritsar Superfast Express,32024,11:26,Shatabdi,07:19,18:45,Moderate,28-02-2025
-Chandigarh,Kolkata,Kolkata Superfast Express,27926,18:12,Passenger,02:27,20:39,Cheap,16-04-2025
-Ahmedabad,Madurai,Madurai Shatabdi Express,66345,07:32,Passenger,02:43,10:15,Luxury,26-02-2025
-Nagpur,Vadodara,Vadodara Rajdhani Express,49666,15:15,Rajdhani,15:18,06:33,Luxury,28-02-2025
-Visakhapatnam,Bhopal,Bhopal Shatabdi Express,72638,16:33,Rajdhani,04:15,20:48,Cheap,17-04-2025
-Patna,Hyderabad,Hyderabad Passenger Express,27815,15:25,Express,11:28,02:53,Cheap,09-03-2025
-Pune,Jamshedpur,Jamshedpur Express Express,24510,17:10,Rajdhani,02:19,19:29,Cheap,11-03-2025
-Udaipur,Madurai,Madurai Rajdhani Express,56249,25:29:00,Duronto,05:21,06:50,Cheap,11-03-2025
-Jaipur,Bhubaneswar,Bhubaneswar Superfast Express,11004,22:27,Duronto,07:22,05:49,Moderate,21-02-2025
-Bhubaneswar,Bangalore,Bangalore Shatabdi Express,34383,07:22,Express,14:43,22:05,Moderate,22-02-2025
-Jodhpur,Ahmedabad,Ahmedabad Passenger Express,37285,22:51,Express,13:47,12:38,Luxury,29-03-2025
-Visakhapatnam,Agra,Agra Express Express,94633,06:40,Passenger,10:03,16:43,Luxury,19-03-2025
-Bangalore,Amritsar,Amritsar Superfast Express,15316,16:33,Duronto,00:49,17:22,Moderate,27-03-2025
-Coimbatore,Ahmedabad,Ahmedabad Express Express,26180,05:57,Rajdhani,19:29,01:26,Moderate,18-03-2025
-Patna,Ahmedabad,Ahmedabad Shatabdi Express,61440,21:24,Express,06:07,03:31,Luxury,10-04-2025
-Jamshedpur,Shimla,Shimla Passenger Express,52066,11:16,Shatabdi,01:23,12:39,Cheap,27-02-2025
-Jaipur,Nashik,Nashik Rajdhani Express,53993,13:46,Duronto,06:47,20:33,Moderate,10-03-2025
-Indore,Nagpur,Nagpur Rajdhani Express,35356,26:48:00,Express,22:29,01:17,Moderate,07-03-2025
-Jamshedpur,Thiruvananthapuram,Thiruvananthapuram Shatabdi Express,54412,10:33,Duronto,02:48,13:21,Cheap,13-04-2025
-Delhi,Lucknow,Lucknow Duronto Express,72338,06:23,Rajdhani,07:01,13:24,Cheap,12-04-2025
-Kolkata,Nagpur,Nagpur Rajdhani Express,54549,17:48,Shatabdi,22:35,16:23,Cheap,03-04-2025
-Ranchi,Kanpur,Kanpur Duronto Express,10317,18:48,Passenger,15:11,09:59,Luxury,29-03-2025
-Chandigarh,Jamshedpur,Jamshedpur Duronto Express,30146,23:14,Rajdhani,21:50,21:04,Moderate,09-04-2025
-Varanasi,Aurangabad,Aurangabad Shatabdi Express,14576,26:01:00,Express,03:19,05:20,Luxury,16-04-2025
-Nagpur,Coimbatore,Coimbatore Passenger Express,30564,12:22,Superfast,02:16,14:38,Luxury,01-04-2025
-Udaipur,Mumbai,Mumbai Superfast Express,81201,24:32:00,Rajdhani,19:37,20:09,Cheap,25-02-2025
-Bhopal,Bhubaneswar,Bhubaneswar Superfast Express,71453,17:11,Express,09:31,02:42,Moderate,25-03-2025
-Chennai,Jaipur,Jaipur Rajdhani Express,61602,09:30,Passenger,13:25,22:55,Moderate,29-03-2025
-Guwahati,Chandigarh,Chandigarh Express Express,66831,05:34,Express,17:51,23:25,Cheap,11-03-2025
-Ranchi,Hyderabad,Hyderabad Passenger Express,53985,07:21,Rajdhani,16:18,23:39,Moderate,03-03-2025
-Jodhpur,Indore,Indore Duronto Express,65969,09:44,Superfast,20:51,06:35,Moderate,27-03-2025
-Coimbatore,Agra,Agra Passenger Express,35330,12:41,Rajdhani,18:27,07:08,Moderate,19-02-2025
-Amritsar,Vijayawada,Vijayawada Rajdhani Express,14453,24:02:00,Superfast,04:36,04:38,Cheap,03-04-2025
-Ranchi,Patna,Patna Passenger Express,96363,08:27,Superfast,16:03,00:30,Luxury,10-03-2025
-Madurai,Aurangabad,Aurangabad Express Express,41121,19:06,Shatabdi,17:50,12:56,Moderate,02-03-2025
-Surat,Mumbai,Mumbai Duronto Express,43520,27:14:00,Rajdhani,21:54,01:08,Cheap,05-03-2025
-Bhubaneswar,Chandigarh,Chandigarh Passenger Express,57765,13:25,Rajdhani,00:16,13:41,Cheap,19-02-2025
-Indore,Agra,Agra Express Express,27589,20:12,Shatabdi,17:48,14:00,Cheap,20-02-2025
-Jodhpur,Kolkata,Kolkata Superfast Express,14081,18:22,Rajdhani,06:32,00:54,Moderate,19-03-2025
-Coimbatore,Udaipur,Udaipur Rajdhani Express,15040,19:26,Shatabdi,19:34,15:00,Cheap,06-04-2025
-Bhopal,Agra,Agra Shatabdi Express,32205,27:48:00,Superfast,17:28,21:16,Cheap,15-04-2025
-Visakhapatnam,Kolkata,Kolkata Passenger Express,88794,06:55,Superfast,15:48,22:43,Luxury,03-03-2025
-Bhubaneswar,Madurai,Madurai Superfast Express,61978,29:59:00,Rajdhani,13:09,19:08,Cheap,21-02-2025
-Hyderabad,Udaipur,Udaipur Shatabdi Express,66676,11:16,Rajdhani,20:13,07:29,Moderate,09-04-2025
-Indore,Chandigarh,Chandigarh Shatabdi Express,47279,25:51:00,Passenger,14:50,16:41,Cheap,26-03-2025
-Vijayawada,Bangalore,Bangalore Duronto Express,48244,13:08,Rajdhani,09:30,22:38,Cheap,01-04-2025
-Varanasi,Coimbatore,Coimbatore Duronto Express,74798,16:15,Passenger,14:54,07:09,Cheap,06-04-2025
-Patna,Ranchi,Ranchi Passenger Express,39680,09:34,Duronto,06:55,16:29,Cheap,03-04-2025
-Meerut,Bhopal,Bhopal Rajdhani Express,17248,23:44,Superfast,20:05,19:49,Moderate,25-03-2025
-Chandigarh,Ahmedabad,Ahmedabad Express Express,72582,19:29,Express,22:35,18:04,Luxury,11-03-2025
-Gwalior,Nashik,Nashik Express Express,37242,11:34,Duronto,14:36,02:10,Cheap,28-02-2025
-Lucknow,Patna,Patna Passenger Express,15038,05:01,Passenger,21:18,02:19,Moderate,08-04-2025
-Kanpur,Udaipur,Udaipur Duronto Express,87596,30:13:00,Passenger,08:57,15:10,Cheap,13-03-2025
-Vadodara,Indore,Indore Duronto Express,66020,07:23,Rajdhani,07:12,14:35,Moderate,07-04-2025
-Guwahati,Pune,Pune Superfast Express,82182,14:44,Duronto,05:24,20:08,Luxury,18-04-2025
-Delhi,Mysore,Mysore Express Express,51529,07:42,Passenger,05:54,13:36,Moderate,17-04-2025
-Coimbatore,Vijayawada,Vijayawada Superfast Express,53595,19:45,Duronto,18:50,14:35,Cheap,17-04-2025
-Coimbatore,Indore,Indore Duronto Express,80782,13:48,Express,09:40,23:28,Cheap,19-03-2025
-Guwahati,Agra,Agra Passenger Express,24690,22:38,Rajdhani,19:43,18:21,Cheap,30-03-2025
-Vijayawada,Indore,Indore Duronto Express,89277,13:09,Superfast,02:14,15:23,Moderate,02-04-2025
-Jamshedpur,Jodhpur,Jodhpur Rajdhani Express,77574,28:38:00,Duronto,14:13,18:51,Luxury,22-02-2025
-Ranchi,Kanpur,Kanpur Superfast Express,92619,11:24,Rajdhani,20:20,07:44,Cheap,04-03-2025
-Gwalior,Madurai,Madurai Superfast Express,60414,29:32:00,Superfast,14:20,19:52,Cheap,08-03-2025
-Madurai,Guwahati,Guwahati Passenger Express,94142,13:54,Duronto,17:59,07:53,Luxury,25-03-2025
-Dehradun,Mumbai,Mumbai Express Express,25189,29:51:00,Rajdhani,08:38,14:29,Cheap,23-02-2025
-Udaipur,Amritsar,Amritsar Rajdhani Express,93677,08:30,Shatabdi,01:12,09:42,Cheap,14-04-2025
-Visakhapatnam,Chennai,Chennai Express Express,11771,25:03:00,Passenger,04:11,05:14,Moderate,27-03-2025
-Shimla,Jaipur,Jaipur Shatabdi Express,90081,07:22,Duronto,00:26,07:48,Luxury,24-03-2025
-Dehradun,Surat,Surat Superfast Express,95205,30:30:00,Superfast,15:41,22:11,Moderate,24-03-2025
-Indore,Bangalore,Bangalore Duronto Express,21984,15:59,Superfast,07:22,23:21,Luxury,08-03-2025
-Pune,Patna,Patna Passenger Express,78469,11:05,Express,10:05,21:10,Moderate,22-03-2025
-Varanasi,Chandigarh,Chandigarh Passenger Express,54428,20:07,Rajdhani,16:39,12:46,Cheap,06-03-2025
-Guwahati,Surat,Surat Express Express,90016,28:04:00,Rajdhani,09:38,13:42,Cheap,17-04-2025
-Udaipur,Varanasi,Varanasi Rajdhani Express,62279,09:37,Superfast,22:31,08:08,Cheap,08-03-2025
-Bhubaneswar,Jodhpur,Jodhpur Rajdhani Express,55614,25:56:00,Passenger,11:45,13:41,Luxury,03-04-2025
-Ahmedabad,Bangalore,Bangalore Duronto Express,59864,26:06:00,Rajdhani,02:49,04:55,Moderate,15-04-2025
-Aurangabad,Varanasi,Varanasi Passenger Express,93111,06:33,Superfast,15:41,22:14,Cheap,18-04-2025
-Ahmedabad,Pune,Pune Express Express,40941,15:32,Rajdhani,17:42,09:14,Cheap,14-04-2025
-Jaipur,Chennai,Chennai Superfast Express,63642,18:30,Passenger,01:35,20:05,Moderate,15-03-2025
-Mysore,Lucknow,Lucknow Shatabdi Express,39069,19:08,Duronto,11:45,06:53,Cheap,23-02-2025
-Bangalore,Guwahati,Guwahati Express Express,93962,13:50,Express,18:58,08:48,Cheap,04-04-2025
-Agra,Pune,Pune Duronto Express,94125,23:30,Express,20:24,19:54,Luxury,12-03-2025
-Chandigarh,Mumbai,Mumbai Superfast Express,16623,21:34,Passenger,01:32,23:06,Moderate,24-02-2025
-Bhopal,Nagpur,Nagpur Duronto Express,99460,23:01,Duronto,22:30,21:31,Moderate,02-03-2025
-Lucknow,Bhubaneswar,Bhubaneswar Passenger Express,80392,16:21,Express,22:44,15:05,Cheap,10-03-2025
-Nashik,Bhopal,Bhopal Rajdhani Express,98306,07:57,Express,21:41,05:38,Luxury,27-03-2025
-Indore,Delhi,Delhi Express Express,68400,05:36,Passenger,01:12,06:48,Cheap,03-04-2025
-Bangalore,Jamshedpur,Jamshedpur Rajdhani Express,90955,09:08,Shatabdi,01:32,10:40,Moderate,24-02-2025
-Bhopal,Indore,Indore Shatabdi Express,77098,16:57,Rajdhani,06:35,23:32,Moderate,08-03-2025
-Thiruvananthapuram,Bhopal,Bhopal Shatabdi Express,53259,08:36,Express,16:07,00:43,Luxury,13-03-2025
-Bhubaneswar,Thiruvananthapuram,Thiruvananthapuram Duronto Express,52642,09:08,Superfast,09:42,18:50,Moderate,16-04-2025
-Ahmedabad,Jamshedpur,Jamshedpur Rajdhani Express,79883,22:14,Express,06:53,05:07,Moderate,22-02-2025
-Delhi,Nagpur,Nagpur Express Express,15485,30:04:00,Passenger,10:42,16:46,Cheap,10-04-2025
-Nashik,Chandigarh,Chandigarh Passenger Express,97456,15:17,Shatabdi,14:36,05:53,Luxury,16-04-2025
-Dehradun,Kanpur,Kanpur Duronto Express,55429,06:58,Passenger,18:48,01:46,Cheap,09-03-2025
-Kanpur,Raipur,Raipur Express Express,57351,18:19,Shatabdi,00:27,18:46,Cheap,08-03-2025
-Bangalore,Surat,Surat Rajdhani Express,63967,16:46,Rajdhani,09:55,02:41,Luxury,16-03-2025
-Visakhapatnam,Raipur,Raipur Rajdhani Express,44974,19:07,Shatabdi,00:45,19:52,Cheap,17-03-2025
-Gwalior,Nagpur,Nagpur Shatabdi Express,18182,14:03,Rajdhani,00:45,14:48,Moderate,30-03-2025
-Kolkata,Visakhapatnam,Visakhapatnam Shatabdi Express,22967,18:54,Duronto,18:33,13:27,Moderate,07-04-2025
-Ahmedabad,Visakhapatnam,Visakhapatnam Shatabdi Express,17560,27:24:00,Express,10:17,13:41,Cheap,26-03-2025
-Mysore,Hyderabad,Hyderabad Rajdhani Express,56200,11:08,Duronto,20:37,07:45,Cheap,15-04-2025
-Jamshedpur,Meerut,Meerut Superfast Express,64983,06:06,Duronto,08:44,14:50,Moderate,28-03-2025
-Jamshedpur,Lucknow,Lucknow Superfast Express,17391,24:43:00,Superfast,05:03,05:46,Cheap,02-04-2025
-Delhi,Raipur,Raipur Passenger Express,69524,08:33,Passenger,18:18,02:51,Cheap,09-03-2025
-Meerut,Vadodara,Vadodara Rajdhani Express,76243,08:41,Superfast,22:08,06:49,Luxury,08-03-2025
-Vijayawada,Madurai,Madurai Rajdhani Express,37212,14:20,Passenger,17:01,07:21,Luxury,11-04-2025
-Indore,Ranchi,Ranchi Superfast Express,49002,19:43,Superfast,14:38,10:21,Cheap,30-03-2025
-Bhopal,Ahmedabad,Ahmedabad Duronto Express,62535,29:49:00,Superfast,06:51,12:40,Luxury,10-04-2025
-Varanasi,Ranchi,Ranchi Passenger Express,10016,14:38,Superfast,18:08,08:46,Luxury,25-03-2025
-Jamshedpur,Ranchi,Ranchi Duronto Express,89349,06:45,Duronto,04:12,10:57,Moderate,21-03-2025
-Chennai,Vijayawada,Vijayawada Duronto Express,25355,29:16:00,Shatabdi,20:24,01:40,Cheap,26-03-2025
-Dehradun,Thiruvananthapuram,Thiruvananthapuram Rajdhani Express,70276,05:43,Shatabdi,19:21,01:04,Moderate,27-02-2025
-Raipur,Pune,Pune Rajdhani Express,63616,12:33,Rajdhani,21:12,09:45,Cheap,18-04-2025
-Jamshedpur,Visakhapatnam,Visakhapatnam Passenger Express,81865,10:13,Express,20:46,06:59,Cheap,26-03-2025
-Gwalior,Shimla,Shimla Passenger Express,35312,28:10:00,Express,15:02,19:12,Moderate,26-03-2025
-Agra,Shimla,Shimla Shatabdi Express,75853,15:28,Passenger,06:46,22:14,Moderate,23-02-2025
-Kanpur,Jaipur,Jaipur Duronto Express,95692,10:59,Passenger,11:54,22:53,Luxury,09-03-2025
-Coimbatore,Amritsar,Amritsar Duronto Express,26414,06:45,Superfast,14:59,21:44,Moderate,17-04-2025
-Agra,Mysore,Mysore Express Express,69006,20:42,Express,10:50,07:32,Moderate,14-04-2025
-Aurangabad,Ahmedabad,Ahmedabad Superfast Express,91683,17:21,Superfast,16:27,09:48,Luxury,05-04-2025
-Aurangabad,Jamshedpur,Jamshedpur Shatabdi Express,95775,28:27:00,Passenger,14:29,18:56,Luxury,07-04-2025
-Jamshedpur,Vijayawada,Vijayawada Express Express,36294,12:43,Express,19:50,08:33,Luxury,28-02-2025
-Bhopal,Meerut,Meerut Shatabdi Express,55501,26:46:00,Superfast,14:10,16:56,Cheap,16-03-2025
-Varanasi,Agra,Agra Passenger Express,87157,30:07:00,Duronto,07:04,13:11,Luxury,20-02-2025
-Lucknow,Bhopal,Bhopal Shatabdi Express,96664,18:57,Shatabdi,00:46,19:43,Cheap,07-04-2025
-Patna,Mumbai,Mumbai Duronto Express,74119,19:40,Express,15:27,11:07,Cheap,24-02-2025
-Hyderabad,Jodhpur,Jodhpur Express Express,72379,25:28:00,Rajdhani,05:08,06:36,Luxury,05-04-2025
-Bhubaneswar,Guwahati,Guwahati Express Express,21305,10:05,Rajdhani,01:49,11:54,Cheap,02-03-2025
-Vadodara,Shimla,Shimla Express Express,98852,07:19,Express,04:12,11:31,Cheap,16-03-2025
-Ahmedabad,Aurangabad,Aurangabad Passenger Express,41491,20:38,Passenger,22:13,18:51,Moderate,17-04-2025
-Bhopal,Vadodara,Vadodara Duronto Express,48078,25:45:00,Passenger,06:16,08:01,Luxury,02-03-2025
-Mysore,Guwahati,Guwahati Passenger Express,90709,23:04,Superfast,23:53,22:57,Cheap,25-02-2025
-Lucknow,Amritsar,Amritsar Superfast Express,20311,23:17,Passenger,17:44,17:01,Luxury,15-03-2025
-Vadodara,Patna,Patna Passenger Express,53510,13:42,Superfast,01:59,15:41,Luxury,15-04-2025
-Chandigarh,Aurangabad,Aurangabad Superfast Express,73610,21:29,Superfast,01:56,23:25,Moderate,21-02-2025
-Agra,Visakhapatnam,Visakhapatnam Duronto Express,23170,16:01,Passenger,14:07,06:08,Moderate,06-04-2025
-Bhopal,Guwahati,Guwahati Duronto Express,38543,22:53,Express,15:48,14:41,Luxury,21-02-2025
-Nagpur,Lucknow,Lucknow Shatabdi Express,30496,12:12,Passenger,23:55,12:07,Luxury,14-03-2025
-Mysore,Surat,Surat Express Express,82212,30:37:00,Duronto,18:54,01:31,Cheap,21-03-2025
-Bhopal,Pune,Pune Duronto Express,31020,26:46:00,Rajdhani,06:19,09:05,Cheap,16-03-2025
-Thiruvananthapuram,Agra,Agra Express Express,27513,08:24,Express,09:13,17:37,Cheap,19-04-2025
-Mysore,Nashik,Nashik Duronto Express,11562,18:26,Shatabdi,01:06,19:32,Luxury,07-03-2025
-Udaipur,Mysore,Mysore Shatabdi Express,40991,21:15,Duronto,18:35,15:50,Luxury,04-04-2025
-Pune,Chandigarh,Chandigarh Rajdhani Express,37517,22:48,Rajdhani,06:01,04:49,Luxury,16-03-2025
-Kolkata,Bangalore,Bangalore Superfast Express,18633,28:03:00,Shatabdi,01:28,05:31,Cheap,08-04-2025
-Amritsar,Surat,Surat Duronto Express,35239,08:44,Superfast,03:32,12:16,Luxury,17-03-2025
-Bhopal,Mysore,Mysore Rajdhani Express,10185,26:47:00,Duronto,09:18,12:05,Cheap,09-04-2025
-Vadodara,Shimla,Shimla Passenger Express,45509,22:58,Express,08:55,07:53,Moderate,04-03-2025
-Jamshedpur,Amritsar,Amritsar Express Express,80528,15:49,Superfast,21:54,13:43,Moderate,18-04-2025
-Jaipur,Varanasi,Varanasi Shatabdi Express,89563,17:06,Rajdhani,11:39,04:45,Luxury,05-03-2025
-Mysore,Coimbatore,Coimbatore Rajdhani Express,38150,24:34:00,Passenger,02:44,03:18,Cheap,27-02-2025
-Madurai,Raipur,Raipur Shatabdi Express,87320,20:51,Passenger,20:43,17:34,Moderate,04-04-2025
-Agra,Delhi,Delhi Shatabdi Express,90020,30:34:00,Superfast,01:57,08:31,Cheap,06-04-2025
-Raipur,Nagpur,Nagpur Express Express,78371,17:49,Rajdhani,17:28,11:17,Cheap,19-04-2025
-Surat,Shimla,Shimla Duronto Express,30794,12:51,Rajdhani,09:09,22:00,Luxury,19-04-2025
-Hyderabad,Agra,Agra Superfast Express,36115,22:46,Passenger,04:56,03:42,Moderate,28-02-2025
-Chennai,Agra,Agra Express Express,37061,24:03:00,Rajdhani,00:41,00:44,Luxury,03-03-2025
-Surat,Guwahati,Guwahati Duronto Express,31861,09:21,Duronto,15:15,00:36,Cheap,28-03-2025
-Vijayawada,Nashik,Nashik Passenger Express,39289,19:32,Duronto,12:04,07:36,Cheap,13-03-2025
-Delhi,Aurangabad,Aurangabad Superfast Express,62909,15:36,Rajdhani,12:20,03:56,Cheap,26-02-2025
-Bhubaneswar,Meerut,Meerut Express Express,99026,13:10,Express,14:26,03:36,Cheap,05-04-2025
-Varanasi,Nagpur,Nagpur Passenger Express,74546,18:22,Superfast,07:44,02:06,Luxury,14-03-2025
-Visakhapatnam,Bangalore,Bangalore Express Express,88645,17:24,Rajdhani,04:25,21:49,Cheap,16-04-2025
-Pune,Patna,Patna Duronto Express,10156,13:25,Shatabdi,05:59,19:24,Luxury,01-04-2025
-Hyderabad,Jamshedpur,Jamshedpur Duronto Express,74031,15:57,Duronto,16:37,08:34,Cheap,30-03-2025
-Thiruvananthapuram,Visakhapatnam,Visakhapatnam Rajdhani Express,56756,22:13,Duronto,03:24,01:37,Luxury,01-03-2025
-Ahmedabad,Shimla,Shimla Superfast Express,46443,20:19,Express,03:01,23:20,Cheap,26-03-2025
-Delhi,Madurai,Madurai Express Express,54940,20:50,Passenger,10:40,07:30,Luxury,20-02-2025
-Vadodara,Indore,Indore Superfast Express,86928,12:39,Rajdhani,15:08,03:47,Cheap,17-04-2025
+From,To,Train Name,Train No,Duration,Type,Departure Time,Arrival Time,Price Category,Train Price,Train Date
+Jalgaon,Chennai,Chennai Express,85527,18:58,Passenger,12:56,11:46,Moderate,243,17-12-2025
+Jalgaon,Hyderabad,Hyderabad Express,82007,16:24,Express,15:09,20:57,Economy,450,15-09-2025
+Mumbai,Indore,Indore Express,83423,08:06,Express,00:04,08:01,Economy,435,02-11-2025
+Pune,Indore,Indore Express,83256,04:56,Express,04:16,15:07,Economy,405,10-09-2025
+Nashik,Vadodara,Vadodara Express,83219,20:38,Passenger,11:14,02:06,Economy,828,31-07-2025
+Solapur,Indore,Indore Express,86326,18:42,Passenger,11:40,01:54,Luxury,289,04-04-2025
+Nashik,Bhopal,Bhopal Express,87594,11:40,Express,19:13,07:39,Luxury,821,02-04-2025
+Jalgaon,Udaipur,Udaipur Express,88457,10:37,Superfast,02:38,19:39,Luxury,614,14-12-2025
+Amravati,Jaipur,Jaipur Express,88684,06:17,Passenger,04:52,18:31,Luxury,540,09-08-2025
+Solapur,Bhopal,Bhopal Express,88316,19:36,Express,05:45,13:59,Moderate,362,01-09-2025
+Pune,Jaipur,Jaipur Express,81084,06:23,Express,08:42,05:49,Moderate,582,03-03-2025
+Amravati,Udaipur,Udaipur Express,85983,01:08,Passenger,03:49,10:00,Luxury,660,21-12-2025
+Kolhapur,Goa,Goa Express,81261,17:12,Passenger,00:27,23:05,Moderate,859,19-11-2025
+Amravati,Indore,Indore Express,86531,03:24,Passenger,20:25,14:43,Moderate,328,20-02-2025
+Aurangabad,Hyderabad,Hyderabad Express,85625,15:58,Superfast,06:07,13:58,Luxury,203,07-07-2025
+Kolhapur,Jaipur,Jaipur Express,86721,18:31,Superfast,17:10,12:41,Economy,786,10-03-2025
+Pune,Jaipur,Jaipur Express,87592,10:49,Superfast,01:19,14:31,Luxury,703,06-02-2025
+Mumbai,Goa,Goa Express,88364,17:43,Superfast,13:54,05:19,Moderate,239,15-06-2025
+Jalgaon,Udaipur,Udaipur Express,83446,04:57,Superfast,19:47,12:40,Moderate,806,22-07-2025
+Mumbai,Bhopal,Bhopal Express,83297,17:20,Passenger,01:08,22:57,Economy,896,02-08-2025
+Kolhapur,Ahmedabad,Ahmedabad Express,87106,09:56,Express,13:35,07:17,Luxury,746,03-09-2025
+Solapur,Hyderabad,Hyderabad Express,83695,06:10,Express,15:46,11:50,Economy,789,01-07-2025
+Nagpur,Surat,Surat Express,88076,07:46,Passenger,13:41,20:32,Economy,142,08-04-2025
+Solapur,Ahmedabad,Ahmedabad Express,83959,19:31,Express,21:03,23:51,Moderate,833,12-10-2025
+Pune,Vadodara,Vadodara Express,83079,15:39,Superfast,09:07,12:27,Economy,320,29-06-2025
+Mumbai,Chennai,Chennai Express,86306,04:37,Superfast,17:39,11:08,Moderate,156,06-10-2025
+Nashik,Vadodara,Vadodara Express,87878,10:11,Passenger,10:15,23:21,Luxury,943,07-10-2025
+Amravati,Vadodara,Vadodara Express,80651,09:59,Express,11:17,16:46,Luxury,930,15-09-2025
+Pune,Hyderabad,Hyderabad Express,86733,18:07,Express,22:44,19:20,Luxury,147,29-01-2025
+Thane,Hyderabad,Hyderabad Express,85655,07:54,Express,01:22,21:20,Economy,796,08-08-2025
+Nagpur,Udaipur,Udaipur Express,89345,10:45,Passenger,09:06,21:58,Moderate,841,20-03-2025
+Mumbai,Goa,Goa Express,85850,15:33,Express,20:15,11:06,Economy,984,09-12-2025
+Pune,Goa,Goa Express,82631,03:51,Superfast,16:02,22:00,Moderate,469,27-04-2025
+Kolhapur,Goa,Goa Express,83835,16:48,Express,05:22,00:07,Moderate,162,11-07-2025
+Mumbai,Chennai,Chennai Express,87536,12:54,Passenger,11:03,06:36,Moderate,471,02-03-2025
+Thane,Chennai,Chennai Express,81380,04:01,Passenger,14:15,05:26,Luxury,385,06-09-2025
+Nashik,Udaipur,Udaipur Express,87775,04:33,Passenger,18:13,05:09,Luxury,826,30-11-2025
+Kolhapur,Vadodara,Vadodara Express,87449,09:45,Superfast,13:53,03:54,Luxury,829,13-02-2025
+Kolhapur,Udaipur,Udaipur Express,81873,05:07,Superfast,14:20,02:22,Luxury,698,15-06-2025
+Nashik,Ahmedabad,Ahmedabad Express,83159,08:49,Express,14:07,03:53,Luxury,483,18-08-2025
+Thane,Hyderabad,Hyderabad Express,85817,07:20,Express,19:03,13:48,Moderate,773,01-10-2025
+Mumbai,Udaipur,Udaipur Express,82460,17:09,Passenger,03:36,19:31,Economy,627,30-11-2025
+Aurangabad,Bhopal,Bhopal Express,86255,10:10,Superfast,14:46,07:44,Luxury,690,22-02-2025
+Solapur,Ahmedabad,Ahmedabad Express,83658,02:21,Superfast,17:08,16:31,Luxury,883,03-02-2025
+Amravati,Hyderabad,Hyderabad Express,89476,06:17,Passenger,12:19,08:59,Luxury,350,05-04-2025
+Mumbai,Jaipur,Jaipur Express,82568,01:50,Superfast,11:56,16:16,Economy,614,02-08-2025
+Nagpur,Surat,Surat Express,82732,20:01,Passenger,19:16,05:01,Moderate,423,19-06-2025
+Pune,Vadodara,Vadodara Express,86959,05:36,Passenger,14:49,03:10,Luxury,897,13-06-2025
+Aurangabad,Udaipur,Udaipur Express,83669,08:14,Express,04:01,05:32,Economy,513,01-02-2025
+Pune,Hyderabad,Hyderabad Express,87835,11:54,Express,16:55,00:37,Economy,348,26-06-2025
+Aurangabad,Udaipur,Udaipur Express,86741,09:37,Express,00:04,14:09,Luxury,753,01-02-2025
+Aurangabad,Indore,Indore Express,84843,11:20,Passenger,10:39,17:46,Moderate,367,26-10-2025
+Aurangabad,Hyderabad,Hyderabad Express,86789,11:12,Passenger,06:56,03:36,Economy,323,18-02-2025
+Kolhapur,Surat,Surat Express,88300,09:58,Express,12:05,13:38,Moderate,572,19-12-2025
+Kolhapur,Bhopal,Bhopal Express,82804,11:40,Passenger,03:21,08:17,Luxury,755,02-03-2025
+Amravati,Indore,Indore Express,85779,12:12,Passenger,18:59,16:44,Economy,433,25-11-2025
+Amravati,Hyderabad,Hyderabad Express,80457,20:27,Superfast,05:14,05:34,Moderate,413,05-12-2025
+Solapur,Surat,Surat Express,85279,01:52,Express,22:49,05:37,Luxury,673,31-07-2025
+Amravati,Hyderabad,Hyderabad Express,89256,06:28,Express,20:12,06:40,Moderate,916,21-09-2025
+Amravati,Jaipur,Jaipur Express,84644,08:33,Express,23:56,12:39,Luxury,767,30-05-2025
+Kolhapur,Goa,Goa Express,84639,19:27,Superfast,15:11,14:54,Economy,595,12-09-2025
+Nagpur,Vadodara,Vadodara Express,87924,10:23,Superfast,23:48,07:36,Luxury,168,01-04-2025
+Amravati,Chennai,Chennai Express,81045,01:57,Passenger,10:00,16:15,Moderate,359,04-03-2025
+Jalgaon,Jaipur,Jaipur Express,82255,19:39,Express,23:06,02:01,Economy,535,05-07-2025
+Thane,Hyderabad,Hyderabad Express,81497,15:40,Express,16:44,14:37,Moderate,279,01-12-2025
+Solapur,Surat,Surat Express,87955,02:29,Express,02:48,00:53,Moderate,544,06-12-2025
+Jalgaon,Surat,Surat Express,84169,09:01,Passenger,19:27,09:27,Moderate,572,28-10-2025
+Nashik,Indore,Indore Express,89658,09:28,Superfast,20:03,15:52,Moderate,252,14-03-2025
+Mumbai,Jaipur,Jaipur Express,80127,16:08,Express,18:40,05:54,Luxury,224,11-07-2025
+Jalgaon,Bhopal,Bhopal Express,81062,18:21,Passenger,20:48,13:47,Luxury,222,16-01-2025
+Amravati,Vadodara,Vadodara Express,83218,15:25,Passenger,09:02,11:59,Luxury,566,05-01-2025
+Aurangabad,Jaipur,Jaipur Express,88488,04:43,Passenger,19:42,10:46,Luxury,481,04-07-2025
+Nashik,Hyderabad,Hyderabad Express,80532,19:35,Superfast,01:20,14:53,Economy,383,17-12-2025
+Nagpur,Udaipur,Udaipur Express,85683,14:34,Express,10:15,23:06,Economy,720,22-08-2025
+Kolhapur,Hyderabad,Hyderabad Express,89909,17:44,Express,04:49,10:38,Luxury,317,02-12-2025
+Thane,Indore,Indore Express,85710,02:41,Superfast,19:50,16:27,Economy,514,24-01-2025
+Nashik,Ahmedabad,Ahmedabad Express,85915,03:57,Express,17:27,18:53,Moderate,531,25-08-2025
+Thane,Jaipur,Jaipur Express,81611,20:28,Superfast,21:03,22:57,Moderate,130,21-09-2025
+Aurangabad,Jaipur,Jaipur Express,84469,11:49,Passenger,15:16,14:53,Moderate,693,04-07-2025
+Nashik,Indore,Indore Express,87827,15:14,Passenger,15:49,00:18,Economy,716,27-11-2025
+Nagpur,Chennai,Chennai Express,81024,20:20,Passenger,17:10,14:27,Moderate,741,29-12-2025
+Amravati,Chennai,Chennai Express,81084,18:01,Superfast,10:27,09:05,Luxury,643,11-01-2025
+Thane,Indore,Indore Express,81884,06:50,Passenger,06:50,12:08,Moderate,482,07-06-2025
+Thane,Indore,Indore Express,83030,16:44,Passenger,23:06,10:08,Luxury,871,03-07-2025
+Nagpur,Udaipur,Udaipur Express,87061,05:33,Superfast,23:31,09:22,Luxury,351,07-12-2025
+Jalgaon,Indore,Indore Express,88838,04:37,Passenger,19:40,05:29,Moderate,298,22-05-2025
+Kolhapur,Indore,Indore Express,82140,17:17,Express,06:48,01:34,Economy,261,15-05-2025
+Kolhapur,Jaipur,Jaipur Express,80318,09:16,Express,22:27,12:05,Luxury,538,15-04-2025
+Jalgaon,Ahmedabad,Ahmedabad Express,83622,16:36,Express,13:10,14:26,Economy,187,10-04-2025
+Amravati,Vadodara,Vadodara Express,80302,19:43,Express,21:43,00:52,Luxury,706,21-05-2025
+Nagpur,Hyderabad,Hyderabad Express,81407,13:54,Passenger,18:07,14:35,Moderate,461,30-05-2025
+Amravati,Jaipur,Jaipur Express,85718,08:08,Superfast,17:52,15:02,Economy,401,04-09-2025
+Thane,Jaipur,Jaipur Express,83613,12:02,Express,07:58,22:19,Economy,746,23-05-2025
+Thane,Hyderabad,Hyderabad Express,84052,17:30,Superfast,05:11,15:38,Luxury,478,24-03-2025
+Kolhapur,Hyderabad,Hyderabad Express,84761,20:03,Superfast,15:14,12:20,Moderate,375,07-07-2025
+Aurangabad,Vadodara,Vadodara Express,84230,06:25,Passenger,14:16,22:16,Luxury,363,20-03-2025
+Solapur,Hyderabad,Hyderabad Express,84885,15:29,Superfast,09:42,22:54,Luxury,146,27-02-2025
+Jalgaon,Surat,Surat Express,85514,20:30,Passenger,21:24,16:48,Economy,200,28-09-2025
+Mumbai,Surat,Surat Express,80014,02:35,Express,11:56,00:14,Economy,717,13-09-2025
+Solapur,Ahmedabad,Ahmedabad Express,89240,10:02,Superfast,00:31,01:55,Economy,714,06-08-2025
+Aurangabad,Jaipur,Jaipur Express,82940,02:52,Passenger,09:08,12:30,Moderate,953,03-07-2025
+Nashik,Jaipur,Jaipur Express,82117,02:59,Superfast,06:16,15:14,Moderate,209,05-11-2025
+Aurangabad,Surat,Surat Express,86899,03:22,Superfast,21:06,08:27,Economy,796,01-07-2025
+Nashik,Vadodara,Vadodara Express,82213,01:41,Express,18:18,15:26,Economy,155,09-02-2025
+Pune,Bhopal,Bhopal Express,88667,17:58,Superfast,14:57,16:14,Moderate,381,14-08-2025
+Solapur,Indore,Indore Express,83879,14:47,Express,22:37,17:50,Economy,492,28-10-2025
+Amravati,Vadodara,Vadodara Express,81053,19:52,Superfast,21:01,01:52,Luxury,974,07-02-2025
+Thane,Surat,Surat Express,82899,02:18,Express,06:05,02:38,Moderate,236,21-07-2025
+Thane,Surat,Surat Express,89092,13:18,Superfast,20:23,11:14,Luxury,244,27-08-2025
+Pune,Chennai,Chennai Express,89218,20:20,Superfast,13:06,05:38,Moderate,587,16-06-2025
+Amravati,Ahmedabad,Ahmedabad Express,85955,11:22,Express,05:16,02:32,Moderate,881,06-08-2025
+Jalgaon,Jaipur,Jaipur Express,80649,09:29,Express,13:15,04:17,Moderate,697,01-06-2025
+Mumbai,Hyderabad,Hyderabad Express,86582,01:52,Passenger,04:32,16:36,Moderate,309,12-01-2025
+Amravati,Bhopal,Bhopal Express,81629,13:52,Superfast,17:10,22:20,Economy,591,12-07-2025
+Nashik,Hyderabad,Hyderabad Express,83467,07:13,Superfast,19:26,14:18,Moderate,626,02-09-2025
+Solapur,Jaipur,Jaipur Express,84523,04:45,Express,03:09,20:40,Economy,955,28-07-2025
+Solapur,Hyderabad,Hyderabad Express,84411,04:39,Express,21:03,06:58,Economy,409,11-11-2025
+Mumbai,Hyderabad,Hyderabad Express,83601,09:12,Passenger,13:48,01:29,Economy,462,18-09-2025
+Pune,Udaipur,Udaipur Express,89387,06:37,Superfast,20:44,16:23,Economy,942,24-11-2025
+Pune,Ahmedabad,Ahmedabad Express,86176,17:23,Passenger,01:14,13:20,Luxury,515,08-01-2025
+Jalgaon,Hyderabad,Hyderabad Express,89201,14:52,Superfast,21:50,14:17,Moderate,755,18-08-2025
+Mumbai,Surat,Surat Express,88714,04:08,Superfast,04:41,15:38,Economy,958,31-03-2025
+Pune,Goa,Goa Express,89858,04:32,Express,18:05,03:46,Luxury,480,04-04-2025
+Thane,Udaipur,Udaipur Express,88177,12:55,Passenger,08:22,05:22,Moderate,366,23-06-2025
+Solapur,Vadodara,Vadodara Express,84538,07:35,Passenger,11:45,14:07,Moderate,814,28-11-2025
+Solapur,Goa,Goa Express,85884,11:36,Express,18:22,06:56,Moderate,306,22-11-2025
+Pune,Goa,Goa Express,89716,16:33,Superfast,11:49,08:14,Moderate,659,03-12-2025
+Mumbai,Surat,Surat Express,83721,20:49,Passenger,16:10,18:50,Moderate,499,06-09-2025
+Kolhapur,Ahmedabad,Ahmedabad Express,81484,12:53,Superfast,02:57,21:39,Luxury,203,08-10-2025
+Thane,Indore,Indore Express,87812,20:03,Express,04:27,09:26,Economy,862,26-03-2025
+Aurangabad,Goa,Goa Express,83037,15:06,Superfast,20:14,16:03,Economy,825,20-05-2025
+Kolhapur,Chennai,Chennai Express,88360,18:08,Superfast,04:39,16:37,Economy,302,12-06-2025
+Pune,Jaipur,Jaipur Express,83465,20:58,Express,10:22,18:59,Moderate,468,08-05-2025
+Nashik,Jaipur,Jaipur Express,80511,04:45,Express,16:43,23:38,Economy,805,21-03-2025
+Thane,Ahmedabad,Ahmedabad Express,87722,07:40,Superfast,20:59,20:08,Luxury,362,24-12-2025
+Amravati,Surat,Surat Express,83456,11:29,Express,01:53,17:13,Moderate,863,21-10-2025
+Mumbai,Surat,Surat Express,89842,12:15,Superfast,09:36,12:52,Moderate,211,22-03-2025
+Mumbai,Chennai,Chennai Express,84053,10:44,Passenger,07:45,20:52,Luxury,648,02-08-2025
+Solapur,Hyderabad,Hyderabad Express,82637,20:52,Passenger,07:25,08:22,Luxury,719,11-12-2025
+Amravati,Vadodara,Vadodara Express,83087,02:01,Express,22:32,06:59,Luxury,515,02-06-2025
+Solapur,Bhopal,Bhopal Express,87736,15:00,Passenger,19:52,14:01,Luxury,894,01-03-2025
+Jalgaon,Chennai,Chennai Express,81292,12:06,Passenger,03:54,09:14,Economy,202,06-12-2025
+Mumbai,Chennai,Chennai Express,86285,06:57,Passenger,01:01,08:59,Economy,697,30-09-2025
+Aurangabad,Surat,Surat Express,80207,19:07,Passenger,14:30,04:57,Moderate,477,30-01-2025
+Thane,Indore,Indore Express,80115,03:00,Express,18:21,08:28,Economy,802,17-09-2025
+Solapur,Goa,Goa Express,87273,11:29,Superfast,04:07,23:19,Economy,279,09-03-2025
+Solapur,Hyderabad,Hyderabad Express,89805,01:36,Passenger,12:18,13:51,Moderate,299,29-04-2025
+Jalgaon,Bhopal,Bhopal Express,80910,08:54,Superfast,15:35,19:27,Economy,969,20-01-2025
+Mumbai,Bhopal,Bhopal Express,81568,06:48,Superfast,03:29,18:42,Luxury,831,20-08-2025
+Jalgaon,Goa,Goa Express,83870,05:20,Superfast,11:48,10:24,Luxury,625,05-10-2025
+Nashik,Bhopal,Bhopal Express,88492,19:34,Superfast,17:48,02:34,Luxury,702,13-02-2025
+Aurangabad,Hyderabad,Hyderabad Express,81225,11:15,Passenger,08:56,09:28,Luxury,561,25-07-2025
+Amravati,Hyderabad,Hyderabad Express,85974,04:22,Superfast,09:55,03:37,Economy,374,24-09-2025
+Pune,Ahmedabad,Ahmedabad Express,81017,04:33,Express,04:35,16:18,Economy,223,17-09-2025
+Aurangabad,Udaipur,Udaipur Express,88311,18:02,Passenger,08:29,11:24,Luxury,986,12-06-2025
+Mumbai,Surat,Surat Express,89769,04:12,Express,14:42,20:08,Moderate,538,28-10-2025
+Pune,Udaipur,Udaipur Express,88025,04:13,Express,04:14,13:39,Luxury,707,20-03-2025
+Aurangabad,Surat,Surat Express,84367,01:03,Superfast,01:53,11:12,Luxury,437,24-02-2025
+Thane,Surat,Surat Express,81968,17:44,Superfast,22:54,11:56,Moderate,184,12-09-2025
+Nagpur,Chennai,Chennai Express,85449,11:55,Express,22:59,00:43,Economy,158,16-07-2025
+Nashik,Goa,Goa Express,80187,12:21,Passenger,01:03,01:31,Luxury,119,10-10-2025
+Jalgaon,Chennai,Chennai Express,83510,17:53,Passenger,22:36,07:46,Luxury,652,17-01-2025
+Jalgaon,Udaipur,Udaipur Express,86369,01:07,Express,10:09,01:03,Luxury,116,19-01-2025
+Mumbai,Surat,Surat Express,88251,17:35,Superfast,20:19,04:34,Moderate,678,26-05-2025
+Amravati,Goa,Goa Express,88176,01:21,Express,23:02,01:30,Moderate,270,10-04-2025
+Mumbai,Vadodara,Vadodara Express,84763,09:48,Superfast,17:52,21:24,Moderate,610,15-03-2025
+Thane,Chennai,Chennai Express,89582,16:29,Passenger,19:54,18:22,Economy,171,17-02-2025
+Nashik,Hyderabad,Hyderabad Express,88032,11:06,Passenger,06:55,04:25,Moderate,450,20-02-2025
+Pune,Hyderabad,Hyderabad Express,85910,12:13,Passenger,01:28,16:36,Moderate,519,21-11-2025
+Solapur,Ahmedabad,Ahmedabad Express,85424,15:36,Superfast,06:39,13:01,Economy,691,14-06-2025
+Aurangabad,Jaipur,Jaipur Express,81621,10:28,Passenger,23:38,16:48,Luxury,892,04-11-2025
+Aurangabad,Chennai,Chennai Express,82231,03:41,Superfast,09:21,03:15,Luxury,357,12-05-2025
+Amravati,Udaipur,Udaipur Express,86751,17:38,Passenger,03:08,13:43,Luxury,621,06-03-2025
+Kolhapur,Udaipur,Udaipur Express,86516,05:45,Superfast,22:40,05:32,Economy,945,02-10-2025
+Nagpur,Chennai,Chennai Express,82672,10:23,Superfast,16:01,02:52,Economy,503,10-12-2025
+Aurangabad,Ahmedabad,Ahmedabad Express,80208,01:27,Express,00:02,05:20,Moderate,826,29-07-2025
+Nagpur,Chennai,Chennai Express,81622,01:11,Superfast,10:39,10:31,Economy,640,24-09-2025
+Pune,Vadodara,Vadodara Express,87740,04:31,Express,08:15,21:47,Moderate,210,26-05-2025
+Thane,Udaipur,Udaipur Express,83553,07:08,Express,19:00,14:31,Luxury,895,13-02-2025
+Pune,Chennai,Chennai Express,80968,05:53,Express,23:34,21:38,Economy,352,30-05-2025
+Solapur,Udaipur,Udaipur Express,84053,03:41,Express,09:03,16:06,Moderate,949,23-09-2025
+Thane,Goa,Goa Express,80192,03:49,Express,06:30,07:30,Moderate,130,30-06-2025
+Aurangabad,Vadodara,Vadodara Express,87472,12:27,Express,17:29,10:23,Moderate,763,19-03-2025
+Mumbai,Udaipur,Udaipur Express,81538,13:56,Express,02:38,10:21,Moderate,472,12-09-2025
+Nashik,Jaipur,Jaipur Express,88813,01:18,Express,03:29,05:11,Economy,107,02-11-2025
+Aurangabad,Goa,Goa Express,87888,03:12,Passenger,09:59,15:36,Moderate,918,12-03-2025
+Aurangabad,Jaipur,Jaipur Express,85174,12:42,Express,03:48,21:41,Economy,119,01-08-2025
+Aurangabad,Udaipur,Udaipur Express,81849,09:20,Express,13:01,19:38,Moderate,341,10-11-2025
+Thane,Jaipur,Jaipur Express,85966,19:23,Passenger,05:24,21:29,Economy,404,21-06-2025
+Solapur,Jaipur,Jaipur Express,88312,03:26,Passenger,20:20,21:56,Luxury,580,21-12-2025
+Pune,Udaipur,Udaipur Express,84932,13:24,Express,13:42,22:52,Moderate,423,02-01-2025
+Jalgaon,Hyderabad,Hyderabad Express,83135,03:11,Passenger,04:06,14:34,Economy,580,06-11-2025
+Solapur,Goa,Goa Express,82954,07:56,Express,13:04,07:10,Luxury,475,30-01-2025
+Thane,Surat,Surat Express,89229,07:21,Superfast,19:57,11:52,Economy,512,19-11-2025
+Aurangabad,Jaipur,Jaipur Express,80444,16:45,Passenger,13:02,23:09,Moderate,610,11-08-2025
+Amravati,Jaipur,Jaipur Express,86187,17:54,Passenger,18:34,13:36,Luxury,757,28-06-2025
+Mumbai,Udaipur,Udaipur Express,85813,05:56,Superfast,14:01,05:36,Moderate,443,27-02-2025
+Nashik,Indore,Indore Express,86285,07:43,Passenger,07:59,08:58,Moderate,347,23-10-2025
+Amravati,Vadodara,Vadodara Express,87200,12:03,Express,21:53,21:28,Luxury,154,13-09-2025
+Thane,Chennai,Chennai Express,80713,07:28,Express,14:33,12:47,Luxury,447,07-07-2025
+Amravati,Indore,Indore Express,88179,01:22,Superfast,16:56,13:58,Economy,301,17-09-2025
+Pune,Bhopal,Bhopal Express,82700,02:43,Passenger,11:11,05:27,Economy,923,05-02-2025
+Solapur,Bhopal,Bhopal Express,87130,18:31,Superfast,03:02,10:52,Economy,190,01-08-2025
+Mumbai,Ahmedabad,Ahmedabad Express,83605,15:42,Passenger,20:21,00:21,Luxury,677,25-04-2025
+Mumbai,Ahmedabad,Ahmedabad Express,86656,01:54,Express,21:51,02:09,Economy,755,10-11-2025
+Amravati,Goa,Goa Express,87288,17:21,Passenger,04:29,09:50,Economy,299,28-06-2025
+Amravati,Chennai,Chennai Express,84271,01:21,Passenger,01:45,00:19,Economy,209,19-06-2025
+Pune,Udaipur,Udaipur Express,80397,09:52,Passenger,20:15,12:07,Moderate,776,18-02-2025
+Aurangabad,Ahmedabad,Ahmedabad Express,87629,03:49,Express,05:46,06:37,Economy,243,10-03-2025
+Nagpur,Vadodara,Vadodara Express,82924,04:36,Passenger,16:36,06:01,Economy,585,04-12-2025
+Nashik,Surat,Surat Express,89505,03:08,Express,17:45,21:25,Luxury,494,08-12-2025
+Kolhapur,Goa,Goa Express,84764,01:24,Express,19:56,14:07,Moderate,633,07-12-2025
+Amravati,Bhopal,Bhopal Express,84736,01:46,Passenger,19:26,15:51,Luxury,713,11-04-2025
+Thane,Bhopal,Bhopal Express,83924,09:08,Passenger,17:25,14:25,Moderate,175,07-11-2025
+Mumbai,Chennai,Chennai Express,80709,06:05,Superfast,06:24,13:35,Luxury,458,09-08-2025
+Aurangabad,Indore,Indore Express,83431,19:13,Superfast,22:52,23:18,Luxury,929,01-01-2025
+Jalgaon,Bhopal,Bhopal Express,86079,06:40,Passenger,05:01,09:45,Economy,787,08-07-2025
+Mumbai,Vadodara,Vadodara Express,81506,08:57,Express,06:08,15:41,Economy,767,26-08-2025
+Nagpur,Goa,Goa Express,80591,11:14,Superfast,14:56,03:07,Luxury,175,24-03-2025
+Thane,Ahmedabad,Ahmedabad Express,81293,13:55,Superfast,11:36,18:12,Luxury,378,26-07-2025
+Nagpur,Surat,Surat Express,87164,01:59,Passenger,17:18,15:22,Moderate,990,08-06-2025
+Mumbai,Hyderabad,Hyderabad Express,80536,01:37,Superfast,05:26,17:42,Economy,134,19-01-2025
+Amravati,Indore,Indore Express,82364,01:48,Superfast,14:07,00:37,Luxury,659,04-05-2025
+Kolhapur,Chennai,Chennai Express,89924,20:45,Express,03:46,09:07,Luxury,626,19-06-2025
+Aurangabad,Bhopal,Bhopal Express,87050,07:48,Express,13:07,13:48,Moderate,570,26-09-2025
+Aurangabad,Vadodara,Vadodara Express,83208,01:37,Passenger,22:02,01:03,Economy,836,14-07-2025
+Mumbai,Hyderabad,Hyderabad Express,85920,12:53,Superfast,23:54,20:50,Luxury,900,15-09-2025
+Nagpur,Jaipur,Jaipur Express,89996,13:23,Passenger,11:24,07:01,Moderate,530,25-04-2025
+Thane,Surat,Surat Express,82664,08:34,Passenger,21:52,12:01,Moderate,648,13-09-2025
+Solapur,Chennai,Chennai Express,85383,04:43,Superfast,14:33,15:35,Moderate,208,04-04-2025
+Solapur,Jaipur,Jaipur Express,83096,07:00,Passenger,17:16,04:39,Economy,682,07-09-2025
+Jalgaon,Jaipur,Jaipur Express,83423,01:07,Express,12:13,09:22,Economy,612,31-10-2025
+Aurangabad,Jaipur,Jaipur Express,82930,14:39,Superfast,04:54,05:35,Luxury,889,29-07-2025
+Nashik,Udaipur,Udaipur Express,87629,13:16,Superfast,18:06,23:46,Moderate,410,17-07-2025
+Aurangabad,Goa,Goa Express,83361,20:20,Superfast,05:23,21:09,Luxury,849,22-02-2025
+Pune,Udaipur,Udaipur Express,87564,02:29,Superfast,17:10,10:38,Moderate,229,17-05-2025
+Solapur,Chennai,Chennai Express,82138,18:47,Superfast,12:59,09:02,Moderate,306,11-09-2025
+Kolhapur,Ahmedabad,Ahmedabad Express,86933,10:49,Passenger,15:21,09:55,Luxury,407,01-08-2025
+Pune,Jaipur,Jaipur Express,81046,10:24,Superfast,15:12,04:19,Moderate,948,07-07-2025
+Aurangabad,Vadodara,Vadodara Express,82328,19:16,Passenger,04:22,03:56,Luxury,657,06-12-2025
+Jalgaon,Chennai,Chennai Express,80190,03:44,Express,12:31,00:21,Moderate,323,26-01-2025
+Pune,Chennai,Chennai Express,81167,18:23,Express,22:12,20:50,Luxury,162,25-12-2025
+Aurangabad,Bhopal,Bhopal Express,85214,01:22,Superfast,17:17,12:21,Moderate,527,23-10-2025
+Nashik,Vadodara,Vadodara Express,85212,11:49,Passenger,17:05,16:09,Economy,294,24-02-2025
+Mumbai,Hyderabad,Hyderabad Express,87366,07:44,Express,01:31,17:11,Luxury,334,13-04-2025
+Nashik,Ahmedabad,Ahmedabad Express,85735,01:11,Superfast,21:12,23:11,Moderate,454,20-01-2025
+Amravati,Surat,Surat Express,81596,12:20,Superfast,14:52,07:24,Economy,729,01-06-2025
+Aurangabad,Goa,Goa Express,82372,08:09,Superfast,07:13,19:20,Moderate,348,07-07-2025
+Nagpur,Hyderabad,Hyderabad Express,80441,15:40,Express,00:23,21:43,Economy,989,20-05-2025
+Aurangabad,Chennai,Chennai Express,80061,19:27,Express,14:55,18:27,Moderate,926,06-04-2025
+Solapur,Indore,Indore Express,88016,02:50,Passenger,20:35,16:16,Luxury,653,18-05-2025
+Aurangabad,Udaipur,Udaipur Express,87720,16:50,Passenger,17:22,13:10,Economy,152,24-03-2025
+Mumbai,Goa,Goa Express,85404,16:10,Express,08:06,19:21,Economy,529,13-06-2025
+Aurangabad,Chennai,Chennai Express,86496,07:10,Passenger,04:30,12:14,Economy,996,03-10-2025
+Aurangabad,Jaipur,Jaipur Express,88623,12:21,Passenger,09:23,10:32,Moderate,440,16-05-2025
+Thane,Vadodara,Vadodara Express,87712,17:25,Passenger,13:04,14:12,Moderate,125,20-07-2025
+Aurangabad,Vadodara,Vadodara Express,88928,20:00,Express,22:20,15:48,Moderate,450,03-02-2025
+Nashik,Vadodara,Vadodara Express,83751,13:40,Express,19:32,06:13,Luxury,791,28-02-2025
+Nagpur,Surat,Surat Express,85525,16:30,Passenger,16:07,11:37,Economy,724,28-06-2025
+Solapur,Bhopal,Bhopal Express,88009,03:41,Superfast,00:55,01:30,Moderate,676,10-02-2025
+Pune,Surat,Surat Express,82282,13:48,Express,09:13,12:13,Moderate,695,08-10-2025
+Nashik,Hyderabad,Hyderabad Express,88697,05:32,Passenger,18:53,13:39,Moderate,862,09-02-2025
+Mumbai,Bhopal,Bhopal Express,85760,01:43,Express,00:11,17:26,Moderate,742,30-08-2025
+Nashik,Hyderabad,Hyderabad Express,84013,02:11,Superfast,18:23,14:42,Luxury,856,20-12-2025
+Kolhapur,Vadodara,Vadodara Express,80536,03:09,Passenger,05:25,03:41,Economy,171,13-11-2025
+Nashik,Ahmedabad,Ahmedabad Express,86395,15:15,Express,19:48,14:54,Moderate,294,21-10-2025
+Nagpur,Hyderabad,Hyderabad Express,84790,19:44,Superfast,13:04,20:46,Moderate,855,11-12-2025
+Amravati,Vadodara,Vadodara Express,81568,01:41,Express,06:36,02:30,Luxury,354,09-10-2025
+Amravati,Hyderabad,Hyderabad Express,87973,04:51,Superfast,01:52,17:58,Economy,902,07-06-2025
+Solapur,Surat,Surat Express,82225,01:00,Express,23:27,19:17,Moderate,858,10-07-2025
+Thane,Surat,Surat Express,85533,13:16,Passenger,09:00,00:26,Luxury,917,09-04-2025
+Pune,Hyderabad,Hyderabad Express,84208,14:55,Express,01:06,22:43,Moderate,512,06-03-2025
+Pune,Hyderabad,Hyderabad Express,83139,19:30,Superfast,16:49,23:49,Moderate,513,28-06-2025
+Mumbai,Indore,Indore Express,80067,12:02,Express,02:05,04:26,Luxury,295,07-08-2025
+Solapur,Udaipur,Udaipur Express,88114,09:53,Passenger,22:19,06:57,Economy,956,08-12-2025
+Nashik,Bhopal,Bhopal Express,83076,12:28,Passenger,03:24,18:25,Luxury,875,17-10-2025
+Jalgaon,Chennai,Chennai Express,85667,16:33,Superfast,19:20,03:32,Economy,783,25-12-2025
+Nagpur,Surat,Surat Express,84694,02:39,Superfast,23:36,23:30,Luxury,804,23-04-2025
+Nashik,Goa,Goa Express,81752,09:09,Express,04:52,01:18,Economy,275,05-04-2025
+Amravati,Udaipur,Udaipur Express,80950,14:48,Superfast,21:07,14:53,Luxury,271,30-08-2025
+Aurangabad,Ahmedabad,Ahmedabad Express,87076,08:47,Passenger,05:06,13:05,Moderate,226,13-08-2025
+Nagpur,Ahmedabad,Ahmedabad Express,85872,09:10,Express,05:14,00:41,Luxury,178,07-06-2025
+Amravati,Goa,Goa Express,87483,02:03,Passenger,00:37,23:23,Economy,592,30-05-2025
+Nashik,Hyderabad,Hyderabad Express,80777,01:24,Passenger,03:38,04:18,Economy,233,29-08-2025
+Kolhapur,Surat,Surat Express,88076,03:09,Superfast,13:15,03:13,Moderate,206,04-08-2025
+Amravati,Hyderabad,Hyderabad Express,87999,18:13,Passenger,04:32,16:57,Luxury,638,11-05-2025
+Solapur,Indore,Indore Express,82161,11:02,Superfast,09:16,22:44,Moderate,645,24-10-2025
+Nashik,Hyderabad,Hyderabad Express,89750,11:01,Superfast,14:38,17:18,Luxury,511,19-09-2025
+Pune,Vadodara,Vadodara Express,86113,14:34,Passenger,20:21,06:36,Luxury,643,29-12-2025
+Thane,Goa,Goa Express,80501,13:33,Express,19:09,04:24,Luxury,807,23-03-2025
+Solapur,Indore,Indore Express,82876,09:43,Passenger,10:22,13:28,Moderate,882,13-07-2025
+Nagpur,Goa,Goa Express,80597,01:38,Passenger,06:14,14:55,Luxury,917,25-07-2025
+Jalgaon,Indore,Indore Express,82200,08:22,Express,10:45,15:09,Luxury,207,17-09-2025
+Kolhapur,Hyderabad,Hyderabad Express,87788,17:14,Express,12:06,03:15,Luxury,783,18-10-2025
+Mumbai,Hyderabad,Hyderabad Express,89286,07:36,Passenger,09:08,21:15,Moderate,195,12-12-2025
+Thane,Jaipur,Jaipur Express,84529,14:48,Express,06:07,10:29,Economy,278,19-12-2025
+Aurangabad,Surat,Surat Express,85618,10:56,Superfast,03:35,02:24,Luxury,145,19-06-2025
+Jalgaon,Indore,Indore Express,88197,08:57,Passenger,16:22,09:12,Economy,516,03-04-2025
+Nashik,Indore,Indore Express,85658,08:59,Passenger,16:42,09:27,Economy,315,31-01-2025
+Amravati,Surat,Surat Express,88571,10:33,Express,15:22,17:10,Luxury,354,04-12-2025
+Nashik,Udaipur,Udaipur Express,84625,15:19,Express,10:24,05:24,Moderate,342,01-08-2025
+Pune,Hyderabad,Hyderabad Express,84597,14:11,Express,18:01,09:58,Economy,161,07-07-2025
+Mumbai,Indore,Indore Express,83605,02:07,Express,14:07,14:46,Luxury,316,18-03-2025
+Kolhapur,Surat,Surat Express,80709,04:58,Superfast,12:42,14:25,Luxury,185,24-07-2025
+Pune,Ahmedabad,Ahmedabad Express,82711,05:11,Superfast,16:29,14:06,Economy,664,04-06-2025
+Pune,Bhopal,Bhopal Express,81894,10:07,Express,01:01,08:40,Moderate,157,20-10-2025
+Amravati,Jaipur,Jaipur Express,82637,06:18,Express,09:11,20:13,Economy,507,25-07-2025
+Kolhapur,Indore,Indore Express,85114,15:27,Express,06:20,09:47,Moderate,130,22-07-2025
+Mumbai,Ahmedabad,Ahmedabad Express,82019,08:17,Express,07:13,22:54,Moderate,734,20-06-2025
+Jalgaon,Indore,Indore Express,86338,20:20,Superfast,15:29,02:32,Luxury,366,04-11-2025
+Kolhapur,Udaipur,Udaipur Express,88059,13:01,Express,17:45,02:56,Luxury,370,25-07-2025
+Aurangabad,Hyderabad,Hyderabad Express,83228,14:38,Express,19:27,02:02,Economy,343,06-10-2025
+Pune,Udaipur,Udaipur Express,89622,15:08,Superfast,15:50,16:58,Moderate,961,28-05-2025
+Jalgaon,Hyderabad,Hyderabad Express,81646,11:22,Express,05:15,03:46,Moderate,177,18-05-2025
+Mumbai,Udaipur,Udaipur Express,83625,11:17,Passenger,09:24,00:17,Economy,151,10-02-2025
+Kolhapur,Bhopal,Bhopal Express,81090,01:49,Passenger,19:09,05:34,Economy,975,12-06-2025
+Pune,Surat,Surat Express,81305,01:06,Superfast,17:58,23:09,Luxury,762,14-02-2025
+Jalgaon,Bhopal,Bhopal Express,87023,03:57,Superfast,22:28,15:01,Moderate,579,20-02-2025
+Amravati,Goa,Goa Express,88242,09:29,Express,17:17,10:25,Economy,735,12-10-2025
+Solapur,Chennai,Chennai Express,81855,13:32,Express,20:54,11:27,Moderate,568,18-06-2025
+Aurangabad,Surat,Surat Express,89526,13:38,Superfast,13:20,01:29,Moderate,584,22-01-2025
+Pune,Ahmedabad,Ahmedabad Express,89607,18:36,Express,04:46,15:24,Moderate,829,16-05-2025
+Thane,Udaipur,Udaipur Express,88760,17:30,Passenger,10:37,16:40,Economy,604,27-06-2025
+Pune,Goa,Goa Express,80457,12:26,Superfast,19:50,07:31,Moderate,498,29-03-2025
+Jalgaon,Surat,Surat Express,88326,16:36,Express,12:21,01:18,Moderate,473,04-09-2025
+Solapur,Ahmedabad,Ahmedabad Express,84341,09:05,Passenger,20:36,17:29,Economy,326,29-09-2025
+Aurangabad,Udaipur,Udaipur Express,80672,08:23,Superfast,16:14,03:10,Economy,111,29-04-2025
+Nashik,Ahmedabad,Ahmedabad Express,88441,06:49,Express,00:54,03:35,Economy,293,14-10-2025
+Kolhapur,Jaipur,Jaipur Express,86448,09:38,Superfast,16:44,02:30,Moderate,922,04-07-2025
+Pune,Indore,Indore Express,86524,03:34,Superfast,07:27,16:15,Luxury,475,09-06-2025
+Kolhapur,Udaipur,Udaipur Express,85484,08:23,Passenger,22:54,05:22,Moderate,442,18-07-2025
+Kolhapur,Udaipur,Udaipur Express,84490,07:58,Superfast,20:20,13:23,Moderate,467,31-03-2025
+Pune,Vadodara,Vadodara Express,86918,06:06,Express,09:47,03:46,Moderate,913,31-05-2025
+Mumbai,Indore,Indore Express,84415,05:21,Superfast,23:17,01:51,Luxury,806,24-10-2025
+Thane,Chennai,Chennai Express,85114,20:39,Superfast,03:33,13:07,Moderate,403,22-10-2025
+Pune,Udaipur,Udaipur Express,85084,16:35,Express,18:18,13:20,Moderate,397,15-09-2025
+Nashik,Udaipur,Udaipur Express,80638,19:56,Express,08:31,00:32,Economy,202,01-09-2025
+Aurangabad,Udaipur,Udaipur Express,85477,01:45,Passenger,08:06,04:16,Moderate,478,15-07-2025
+Aurangabad,Indore,Indore Express,82696,01:27,Superfast,14:04,01:16,Luxury,325,14-06-2025
+Solapur,Jaipur,Jaipur Express,83932,03:47,Superfast,22:41,15:42,Luxury,924,29-09-2025
+Thane,Goa,Goa Express,82737,06:40,Superfast,14:35,12:59,Moderate,563,15-08-2025
+Kolhapur,Surat,Surat Express,83103,17:53,Express,11:34,17:56,Luxury,691,09-10-2025
+Nagpur,Hyderabad,Hyderabad Express,86372,05:59,Passenger,10:36,06:19,Luxury,364,18-04-2025
+Pune,Bhopal,Bhopal Express,84483,04:18,Passenger,03:32,07:20,Luxury,406,01-03-2025
+Thane,Goa,Goa Express,83590,17:41,Express,07:17,14:49,Economy,606,09-02-2025
+Nagpur,Surat,Surat Express,83190,18:29,Superfast,04:27,15:53,Luxury,685,07-04-2025
+Jalgaon,Hyderabad,Hyderabad Express,89796,12:54,Passenger,00:38,06:39,Luxury,683,21-01-2025
+Amravati,Hyderabad,Hyderabad Express,87970,16:01,Superfast,14:45,04:31,Economy,543,10-11-2025
+Amravati,Surat,Surat Express,84624,14:03,Passenger,01:15,13:43,Luxury,956,18-01-2025
+Pune,Bhopal,Bhopal Express,84323,08:33,Superfast,12:35,08:19,Economy,881,08-08-2025
+Nashik,Hyderabad,Hyderabad Express,88967,02:51,Passenger,09:28,02:39,Economy,586,07-11-2025
+Pune,Goa,Goa Express,82459,14:52,Superfast,19:51,14:35,Economy,977,14-12-2025
+Amravati,Indore,Indore Express,85409,15:36,Express,21:37,21:03,Economy,760,29-08-2025
+Kolhapur,Ahmedabad,Ahmedabad Express,88318,12:35,Superfast,06:06,18:59,Luxury,895,30-07-2025
+Nagpur,Goa,Goa Express,83732,11:09,Passenger,08:09,21:53,Economy,697,31-01-2025
+Aurangabad,Indore,Indore Express,87560,17:30,Passenger,19:06,08:58,Economy,487,07-11-2025
+Amravati,Goa,Goa Express,87848,16:37,Superfast,16:56,10:06,Luxury,543,23-01-2025
+Pune,Jaipur,Jaipur Express,83385,20:01,Passenger,02:49,10:27,Moderate,908,18-05-2025
+Nagpur,Vadodara,Vadodara Express,80297,07:59,Passenger,14:40,02:34,Luxury,524,29-06-2025
+Kolhapur,Indore,Indore Express,87381,06:38,Superfast,03:12,22:05,Economy,757,01-07-2025
+Amravati,Jaipur,Jaipur Express,88517,07:07,Superfast,08:22,00:07,Luxury,492,12-04-2025
+Kolhapur,Surat,Surat Express,86798,16:11,Superfast,02:57,01:37,Economy,367,24-01-2025
+Solapur,Indore,Indore Express,88628,07:42,Superfast,11:54,10:47,Economy,444,28-10-2025
+Mumbai,Goa,Goa Express,86353,04:50,Express,10:05,03:08,Luxury,693,24-02-2025
+Pune,Hyderabad,Hyderabad Express,84164,07:06,Express,00:39,07:22,Economy,177,08-12-2025
+Thane,Bhopal,Bhopal Express,80070,14:17,Passenger,12:49,18:48,Luxury,511,28-04-2025
+Kolhapur,Surat,Surat Express,81094,04:36,Superfast,14:32,07:38,Luxury,569,04-07-2025
+Kolhapur,Ahmedabad,Ahmedabad Express,89859,17:19,Superfast,00:00,13:04,Economy,378,01-12-2025
+Kolhapur,Vadodara,Vadodara Express,89948,12:18,Superfast,21:27,23:48,Luxury,100,15-12-2025
+Amravati,Vadodara,Vadodara Express,83058,06:57,Express,12:18,00:47,Luxury,642,06-10-2025
+Solapur,Vadodara,Vadodara Express,89829,04:55,Passenger,18:26,18:57,Luxury,989,06-04-2025
+Jalgaon,Bhopal,Bhopal Express,89642,04:55,Passenger,10:03,13:40,Economy,341,24-11-2025
+Nagpur,Bhopal,Bhopal Express,80594,18:36,Superfast,00:21,07:31,Luxury,781,12-12-2025
+Amravati,Bhopal,Bhopal Express,80961,14:17,Superfast,17:59,10:56,Luxury,607,04-07-2025
+Pune,Indore,Indore Express,81507,12:51,Superfast,20:29,13:27,Moderate,183,09-10-2025
+Kolhapur,Jaipur,Jaipur Express,89004,15:34,Superfast,11:36,10:55,Economy,889,09-06-2025
+Mumbai,Hyderabad,Hyderabad Express,87455,13:46,Superfast,00:54,15:17,Moderate,510,11-03-2025
+Nashik,Surat,Surat Express,81414,03:51,Superfast,13:08,20:36,Luxury,740,26-04-2025
+Nashik,Jaipur,Jaipur Express,82365,13:12,Passenger,04:17,22:01,Economy,287,18-09-2025
+Mumbai,Chennai,Chennai Express,82039,03:58,Superfast,08:39,13:40,Economy,322,14-10-2025
+Nashik,Hyderabad,Hyderabad Express,86343,19:20,Passenger,12:24,15:29,Moderate,930,18-07-2025
+Pune,Chennai,Chennai Express,87396,20:19,Express,01:41,09:35,Moderate,249,14-02-2025
+Aurangabad,Jaipur,Jaipur Express,80238,05:26,Superfast,20:35,09:52,Luxury,274,23-03-2025
+Amravati,Indore,Indore Express,83024,01:34,Superfast,21:25,13:50,Luxury,784,08-01-2025
+Nagpur,Jaipur,Jaipur Express,86364,14:08,Superfast,00:06,12:01,Luxury,144,20-04-2025
+Aurangabad,Chennai,Chennai Express,80908,12:40,Superfast,21:24,22:41,Luxury,401,25-03-2025
+Nashik,Chennai,Chennai Express,85464,08:58,Superfast,00:49,13:53,Luxury,293,23-09-2025
+Jalgaon,Surat,Surat Express,82453,07:25,Superfast,20:30,12:01,Moderate,751,02-10-2025
+Thane,Bhopal,Bhopal Express,88249,08:22,Superfast,21:33,09:08,Luxury,310,13-03-2025
+Solapur,Hyderabad,Hyderabad Express,88885,14:03,Express,15:17,09:02,Economy,605,01-08-2025
+Thane,Bhopal,Bhopal Express,87324,01:20,Passenger,01:25,16:33,Luxury,594,09-02-2025
+Amravati,Udaipur,Udaipur Express,83177,01:19,Superfast,10:34,01:51,Economy,827,07-05-2025
+Solapur,Hyderabad,Hyderabad Express,89498,14:07,Superfast,07:25,18:54,Luxury,661,24-02-2025
+Aurangabad,Chennai,Chennai Express,81876,16:29,Passenger,21:49,06:27,Luxury,613,28-11-2025
+Pune,Hyderabad,Hyderabad Express,88147,08:55,Passenger,23:33,05:30,Luxury,157,08-05-2025
+Solapur,Udaipur,Udaipur Express,89795,06:42,Express,13:16,15:05,Luxury,214,21-03-2025
+Pune,Vadodara,Vadodara Express,86720,03:14,Express,10:17,19:29,Economy,477,19-01-2025
+Jalgaon,Goa,Goa Express,84064,13:13,Express,17:26,10:15,Moderate,321,06-09-2025
+Aurangabad,Hyderabad,Hyderabad Express,88700,12:31,Passenger,23:25,23:12,Economy,388,23-07-2025
+Aurangabad,Chennai,Chennai Express,85172,03:45,Superfast,14:49,15:21,Economy,782,18-08-2025
+Aurangabad,Hyderabad,Hyderabad Express,88288,14:55,Superfast,05:18,00:17,Economy,632,04-11-2025
+Nagpur,Chennai,Chennai Express,87127,02:59,Superfast,15:13,01:44,Economy,576,01-01-2025
+Jalgaon,Hyderabad,Hyderabad Express,86167,01:42,Passenger,22:23,10:26,Moderate,389,28-12-2025
+Amravati,Chennai,Chennai Express,82412,12:50,Superfast,04:12,12:38,Economy,996,14-01-2025
+Mumbai,Surat,Surat Express,88715,05:35,Express,22:18,06:39,Moderate,967,19-10-2025
+Thane,Surat,Surat Express,87948,02:18,Passenger,23:08,02:46,Economy,957,24-11-2025
+Nashik,Goa,Goa Express,84277,09:21,Passenger,21:37,18:48,Economy,189,20-03-2025
+Aurangabad,Ahmedabad,Ahmedabad Express,84505,13:44,Passenger,18:23,11:11,Luxury,463,10-02-2025
+Pune,Hyderabad,Hyderabad Express,87160,09:00,Superfast,15:20,11:53,Luxury,432,17-05-2025
+Nashik,Surat,Surat Express,84596,10:19,Express,23:17,17:21,Luxury,160,29-11-2025
+Nashik,Jaipur,Jaipur Express,88396,02:34,Passenger,07:29,19:40,Economy,303,12-04-2025
+Aurangabad,Vadodara,Vadodara Express,86315,19:08,Express,15:25,22:09,Luxury,883,22-01-2025
+Aurangabad,Bhopal,Bhopal Express,86426,20:56,Superfast,10:06,00:47,Moderate,396,08-11-2025
+Solapur,Surat,Surat Express,85274,19:39,Superfast,03:39,07:34,Economy,881,18-09-2025
+Mumbai,Bhopal,Bhopal Express,83943,09:46,Passenger,08:05,03:58,Moderate,453,28-04-2025
+Thane,Ahmedabad,Ahmedabad Express,80230,08:54,Express,09:28,14:24,Moderate,185,25-10-2025
+Nashik,Bhopal,Bhopal Express,87587,01:54,Passenger,16:40,19:16,Luxury,452,14-10-2025
+Thane,Goa,Goa Express,84717,12:55,Superfast,09:00,06:38,Moderate,132,21-09-2025
+Kolhapur,Vadodara,Vadodara Express,82957,20:14,Superfast,03:06,11:33,Luxury,646,05-02-2025
+Thane,Jaipur,Jaipur Express,89259,18:50,Passenger,16:29,15:08,Luxury,178,29-07-2025
+Thane,Vadodara,Vadodara Express,81474,06:03,Superfast,18:31,17:40,Luxury,804,07-04-2025
+Solapur,Bhopal,Bhopal Express,87970,16:53,Express,14:54,13:23,Luxury,546,31-10-2025
+Amravati,Vadodara,Vadodara Express,83093,04:17,Superfast,03:43,18:08,Moderate,833,03-05-2025
+Jalgaon,Chennai,Chennai Express,82660,18:49,Express,05:28,06:27,Luxury,719,25-08-2025
+Mumbai,Ahmedabad,Ahmedabad Express,89241,14:44,Superfast,17:38,02:43,Luxury,238,30-08-2025
+Mumbai,Chennai,Chennai Express,84626,07:31,Superfast,18:58,11:03,Economy,624,29-10-2025
+Aurangabad,Udaipur,Udaipur Express,88057,09:38,Express,09:07,05:43,Moderate,215,15-04-2025
+Solapur,Vadodara,Vadodara Express,82687,04:34,Passenger,15:03,00:16,Moderate,668,07-06-2025
+Thane,Hyderabad,Hyderabad Express,85961,14:09,Superfast,13:36,03:15,Moderate,126,16-11-2025
+Amravati,Vadodara,Vadodara Express,81470,04:42,Passenger,09:29,21:30,Luxury,946,11-10-2025
+Mumbai,Udaipur,Udaipur Express,86787,14:13,Passenger,04:09,02:54,Economy,590,04-05-2025
+Aurangabad,Chennai,Chennai Express,87517,03:59,Express,02:21,16:14,Economy,142,02-05-2025
+Aurangabad,Udaipur,Udaipur Express,85467,13:18,Express,02:39,17:12,Economy,787,28-08-2025
+Mumbai,Ahmedabad,Ahmedabad Express,85035,16:31,Superfast,09:04,03:55,Moderate,535,21-03-2025
+Mumbai,Chennai,Chennai Express,82387,12:26,Passenger,19:35,19:01,Moderate,492,16-08-2025
+Kolhapur,Surat,Surat Express,89555,18:22,Passenger,03:20,03:16,Economy,331,13-05-2025
+Mumbai,Bhopal,Bhopal Express,84871,19:43,Passenger,02:22,04:15,Economy,485,18-02-2025
+Pune,Indore,Indore Express,84131,05:09,Passenger,14:45,21:17,Economy,245,26-02-2025
+Nagpur,Indore,Indore Express,80246,01:10,Passenger,16:59,19:11,Luxury,413,29-01-2025
+Mumbai,Chennai,Chennai Express,83856,03:28,Superfast,12:13,07:04,Luxury,429,23-03-2025
+Pune,Surat,Surat Express,83526,08:16,Express,14:38,04:38,Economy,643,12-12-2025
+Nagpur,Vadodara,Vadodara Express,86952,11:51,Express,10:17,05:22,Economy,796,10-09-2025
+Nashik,Vadodara,Vadodara Express,80215,19:17,Express,19:28,03:40,Economy,940,11-07-2025
+Kolhapur,Hyderabad,Hyderabad Express,87746,19:00,Passenger,04:53,21:36,Moderate,659,15-08-2025
+Thane,Jaipur,Jaipur Express,88197,14:41,Express,10:46,11:12,Moderate,956,16-12-2025
+Thane,Bhopal,Bhopal Express,87076,12:08,Passenger,07:22,17:52,Economy,654,12-02-2025
+Jalgaon,Indore,Indore Express,85910,20:50,Passenger,04:24,15:43,Moderate,280,23-04-2025
+Nagpur,Hyderabad,Hyderabad Express,82683,03:14,Superfast,04:57,21:51,Economy,158,03-11-2025
+Nagpur,Surat,Surat Express,85500,20:51,Express,00:11,14:42,Luxury,578,29-04-2025
+Nagpur,Udaipur,Udaipur Express,88022,01:53,Express,21:21,13:17,Luxury,378,06-06-2025
+Pune,Chennai,Chennai Express,83710,18:57,Passenger,17:35,15:55,Luxury,407,05-06-2025
+Amravati,Ahmedabad,Ahmedabad Express,80199,12:18,Express,08:55,07:07,Luxury,330,23-02-2025
+Nagpur,Vadodara,Vadodara Express,88306,17:45,Superfast,00:20,14:30,Moderate,645,16-11-2025
+Jalgaon,Hyderabad,Hyderabad Express,80047,11:19,Passenger,20:20,12:37,Luxury,635,24-12-2025
+Nagpur,Vadodara,Vadodara Express,85084,20:18,Passenger,07:27,02:10,Luxury,840,31-01-2025
+Amravati,Bhopal,Bhopal Express,84234,02:21,Superfast,18:09,13:00,Economy,846,27-04-2025
+Pune,Jaipur,Jaipur Express,86742,11:53,Superfast,18:23,18:14,Moderate,196,24-02-2025
+Pune,Udaipur,Udaipur Express,84599,17:20,Express,23:00,17:23,Moderate,146,06-11-2025
+Jalgaon,Hyderabad,Hyderabad Express,83609,09:59,Superfast,23:59,19:37,Moderate,287,27-07-2025
+Pune,Surat,Surat Express,82734,08:30,Superfast,21:19,08:35,Economy,383,06-05-2025
+Mumbai,Bhopal,Bhopal Express,80542,20:55,Passenger,12:22,06:40,Luxury,840,11-03-2025
+Nagpur,Indore,Indore Express,83025,09:09,Express,04:57,21:07,Moderate,482,30-08-2025
+Thane,Udaipur,Udaipur Express,84611,19:35,Passenger,20:24,21:32,Economy,806,28-03-2025
+Nagpur,Indore,Indore Express,83275,04:57,Superfast,01:43,10:32,Economy,270,27-10-2025
+Nagpur,Udaipur,Udaipur Express,89646,11:00,Express,10:53,08:48,Moderate,411,13-06-2025
+Nagpur,Ahmedabad,Ahmedabad Express,83812,14:31,Superfast,05:50,00:01,Luxury,867,04-10-2025
+Nagpur,Bhopal,Bhopal Express,84928,18:09,Passenger,20:08,10:36,Economy,169,16-03-2025
+Pune,Indore,Indore Express,85380,10:18,Superfast,04:33,10:23,Moderate,273,16-11-2025
+Aurangabad,Bhopal,Bhopal Express,89924,04:57,Superfast,23:50,20:46,Luxury,966,25-08-2025
+Aurangabad,Bhopal,Bhopal Express,80139,06:46,Passenger,05:32,17:16,Luxury,608,01-02-2025
+Nagpur,Ahmedabad,Ahmedabad Express,82127,09:51,Passenger,07:16,14:02,Moderate,214,18-05-2025
+Solapur,Jaipur,Jaipur Express,84676,01:06,Express,06:57,15:45,Economy,799,13-08-2025
+Kolhapur,Goa,Goa Express,84822,16:59,Express,17:36,18:29,Economy,216,09-12-2025
+Jalgaon,Goa,Goa Express,81323,17:39,Passenger,06:04,15:39,Economy,124,01-05-2025
+Mumbai,Chennai,Chennai Express,86189,08:10,Superfast,13:32,13:57,Luxury,947,31-08-2025
+Nagpur,Indore,Indore Express,80111,07:10,Superfast,16:49,15:52,Moderate,979,31-12-2025
+Kolhapur,Chennai,Chennai Express,87576,08:03,Passenger,15:39,18:00,Moderate,168,02-08-2025
+Pune,Bhopal,Bhopal Express,85711,18:48,Passenger,06:46,07:04,Economy,987,07-11-2025
+Nashik,Surat,Surat Express,89334,20:38,Express,15:17,15:01,Moderate,950,07-06-2025
+Amravati,Vadodara,Vadodara Express,83234,10:32,Superfast,17:56,03:23,Luxury,808,18-07-2025
+Pune,Vadodara,Vadodara Express,89592,14:50,Express,12:18,01:23,Moderate,187,15-11-2025
+Pune,Hyderabad,Hyderabad Express,86784,17:22,Express,06:28,11:22,Moderate,380,12-07-2025
+Pune,Ahmedabad,Ahmedabad Express,81939,12:11,Passenger,20:11,05:14,Economy,886,30-10-2025
+Thane,Vadodara,Vadodara Express,88937,06:53,Express,05:57,00:40,Economy,793,01-02-2025
+Aurangabad,Chennai,Chennai Express,82852,16:47,Express,19:22,08:37,Luxury,266,23-01-2025
+Aurangabad,Jaipur,Jaipur Express,81767,14:57,Superfast,19:18,09:10,Luxury,665,10-12-2025
+Amravati,Chennai,Chennai Express,84419,13:02,Passenger,05:51,21:20,Moderate,127,12-01-2025
+Mumbai,Bhopal,Bhopal Express,87086,03:44,Express,20:38,05:51,Luxury,913,17-07-2025
+Mumbai,Vadodara,Vadodara Express,83917,06:43,Superfast,17:38,05:57,Economy,651,07-02-2025
+Jalgaon,Hyderabad,Hyderabad Express,87293,10:35,Superfast,00:21,07:00,Economy,193,18-03-2025
+Aurangabad,Surat,Surat Express,85744,13:54,Passenger,04:48,12:20,Luxury,612,27-03-2025
+Solapur,Udaipur,Udaipur Express,82968,09:47,Superfast,21:01,06:02,Economy,847,06-07-2025
+Solapur,Surat,Surat Express,85509,18:47,Express,07:29,21:45,Luxury,447,23-05-2025
+Amravati,Ahmedabad,Ahmedabad Express,82290,08:42,Passenger,17:04,04:18,Luxury,155,27-12-2025
+Nagpur,Ahmedabad,Ahmedabad Express,87792,04:20,Superfast,14:03,23:23,Moderate,797,20-11-2025
+Nagpur,Surat,Surat Express,83000,04:46,Passenger,19:08,18:45,Moderate,897,13-12-2025
+Pune,Ahmedabad,Ahmedabad Express,83934,13:01,Express,13:22,16:34,Luxury,972,24-06-2025
+Kolhapur,Ahmedabad,Ahmedabad Express,87513,18:26,Express,00:08,00:09,Luxury,116,30-09-2025
+Jalgaon,Ahmedabad,Ahmedabad Express,81172,09:12,Superfast,01:17,02:46,Economy,346,22-03-2025
+Pune,Hyderabad,Hyderabad Express,84521,16:05,Passenger,02:12,04:38,Moderate,742,15-03-2025
